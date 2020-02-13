@@ -14,7 +14,7 @@ pygmentscodefences = true
 pygmentscodefencesguesssyntax = true
 
 disqusShortname = "ianmccarthy"
-#googleAnalytics = "UA-102578779-3"
+googleAnalytics = "UA-158371232-1"
 enableEmoji = true
 
 [params]
@@ -78,7 +78,7 @@ enableEmoji = true
     name = "LinkedIn"
     icon = "fab fa-linkedin"
     weight = 6
-    url = "https://www.linkedin.com/in/johndoe/"
+    url = "https://www.linkedin.com/in/ianmmccarthy/"
 
 
 [languages]

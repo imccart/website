@@ -27,7 +27,7 @@ Here I've collected some handy data resources that I've come across over time. M
 - Historic data can be hard to find. These lists from [Historical Statistics](http://www.historicalstatistics.org/) can help.
 - A short list of datasets for economics compiled by the [AEA](http://rfe.org/showCat.php?cat_id=2).
 
-# Learning and Methods
+# Learning and methods
 
 It’s always nice to learn new things, freshen-up on things we thought we learned before, or just hear things again from a different perspective. Below are a few resources that I’ve found valuable specifically for econometric methods.
 

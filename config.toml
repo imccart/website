@@ -101,16 +101,11 @@ enableEmoji = true
         url = "/resources/"
 
         [[languages.en.menu.main]]
-        name = "Contact"
-        weight = 4
-        url = "/contact/"
-        
-        [[languages.en.menu.main]]
         name = "Software"
-        weight = 5
+        weight = 4
         url = "/software/"
-        
+
         [[languages.en.menu.main]]
-        name = "CV"
-        weight = 6
-        url = "/files/mccarthy_cv.pdf"        
+        name = "Contact"
+        weight = 5
+        url = "/contact/"

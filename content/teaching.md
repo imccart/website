@@ -23,3 +23,9 @@ This is the capstone course for the joint major in Economics and Human Health. T
 ### Econ 771 - Health Economics II 
 
 This is a PhD course in supply side health economics. The course will be online soon(ish). This course explores the industrial organization of health care markets in the U.S., focusing on hospital production, information asymmetrics, and competition (including issues of insurer and hospital bargaining).
+
+
+### Awards
+
+I've been fortunate to work with some incredible students. I fooled some of them into thinking I'm an OK teacher/adviser, and sometimes they nominate me for things.<br>
+  - *Excellend in teaching*, Phi Beta Kappa Society, 2020: Awarded to a faculty member "who has encouraged and helped students to excel, and who exemplifies intellectual rigor and enthusiasm for scholarly pursuits."

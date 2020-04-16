@@ -20,6 +20,7 @@ Download my full CV [here](/files/mccarthy_cv.pdf), access my Google Scholar pag
 
 <span class="research">
 ["Quality Disclosure and the Timing of Insurers' Adjustments: Evidence from Medicare Advantage"](https://www.sciencedirect.com/science/article/abs/pii/S0167629617310433) **Journal of Health Economics**, 2018.
+
 <a href=https://www.sciencedirect.com/science/article/abs/pii/S0167629617310433><i class="fas fa-download"></i></a>
 <a href=https://scholar.google.com/scholar?hl=en&as_sdt=0%2C11&q=%22Quality+Disclosure+and+the+Timing+of+Insurers%27+Adjustments%3A+Evidence+from+Medicare+Advantage%22&btnG=><i class="ai ai-google-scholar"></i></a>
 </span>
@@ -28,6 +29,7 @@ Download my full CV [here](/files/mccarthy_cv.pdf), access my Google Scholar pag
 
 <span class="research">
 ["Vertical Alignment Between Hospitals and Physicians as a Bargaining Response to Commercial Insurance Markets"](https://link.springer.com/article/10.1007/s11151-017-9609-5) with Sean Huang, **Review of Industrial Organization**, 2018.
+
 <a href=https://link.springer.com/article/10.1007/s11151-017-9609-5><i class="fas fa-download"></i></a> <a href=/files/rio_appendix_2018.pdf><i class="fas fa-paperclip"></i></a>
 <a href=https://scholar.google.com/scholar?hl=en&as_sdt=0%2C11&q=%22Vertical+Alignment+Between+Hospitals+and+Physicians+as+a+Bargaining+Response+to+Commercial+Insurance+Markets%22&btnG=><i class="ai ai-google-scholar"></i></a>
 </span>
@@ -36,9 +38,11 @@ Download my full CV [here](/files/mccarthy_cv.pdf), access my Google Scholar pag
 
 <span class="research">
 ["It's a Cruel Summer: Household Responses to Reductions in Government Nutrition Assistance"](https://www.sciencedirect.com/science/article/abs/pii/S0167268117302330) with Lorenzo Almada, **Journal of Economic Behavior and Organization**, 2017.
+
 <a href=https://www.sciencedirect.com/science/article/abs/pii/S0167268117302330><i class="fas fa-download"></i></a>
 <a href=https://scholar.google.com/scholar?hl=en&as_sdt=0%2C11&q=%22It%27s+a+Cruel+Summer%3A+Household+Responses+to+Reductions+in+Government+Nutrition+Assistance%22&btnG=><i class="ai ai-google-scholar"></i></a>
 <iframe width="640" height="401" src="https://www.powtoon.com/embed/fbtk0TZ6sDh/" frameborder="0"></iframe>
+<a href=https://youtu.be/gQ6OdyAwIV4><i class="fas fa-video"></i></a>
 </span>
 
 

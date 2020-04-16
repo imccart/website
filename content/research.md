@@ -12,13 +12,14 @@ Download my full CV [here](/files/mccarthy_cv.pdf), access my Google Scholar pag
 <span class="research">
 ["Capacity Constraints and Time Allocation in Public Health Clinics"](https://onlinelibrary.wiley.com/doi/full/10.1002/hec.3984) with Matthew Harris and Yinan Liu, **Health Economics**, 2020.
 <a href=https://onlinelibrary.wiley.com/doi/full/10.1002/hec.3984><i class="fas fa-download"></i></a>
-<a href=https://scholar.google.com/scholar?hl=en&as_sdt=0%2C11&q=Capacity+Constraints+and+Time+Allocation+in+Public+Health+Clinics&btnG=><i class="ai ai-google-scholar"></i></a>
+<a href=https://scholar.google.com/scholar?hl=en&as_sdt=0%2C11&q=%22Capacity+Constraints+and+Time+Allocation+in+Public+Health+Clinics%22&btnG=><i class="ai ai-google-scholar"></i></a>
 </span>
 
 
 <span class="research">
 ["Quality Disclosure and the Timing of Insurers' Adjustments: Evidence from Medicare Advantage"](https://www.sciencedirect.com/science/article/abs/pii/S0167629617310433) **Journal of Health Economics**, 2018.
 <a href=https://www.sciencedirect.com/science/article/abs/pii/S0167629617310433><i class="fas fa-download"></i></a>
+<a href=https://scholar.google.com/scholar?hl=en&as_sdt=0%2C11&q=%22Quality+Disclosure+and+the+Timing+of+Insurers%27+Adjustments%3A+Evidence+from+Medicare+Advantage%22&btnG=><i class="ai ai-google-scholar"></i></a>
 </span>
 
 <span class="research">

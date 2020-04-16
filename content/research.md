@@ -92,14 +92,17 @@ Download my full CV [here](/files/mccarthy_cv.pdf), access my Google Scholar pag
 "The role of antifraud enforcement in deterring wasteful medical care" with David Howard, *revise and resubmit*
 </span>
 
-
 <span class="research">
-"Owning the agent: Hospital influence on physician behaviors" with Haizhen Lin and Michael Richards, *revise and resubmit*
+"How does physician-hospital integration affect hospital prices and quality of care" with Haizhen Lin and Michael Richards, *revise and resubmit*
 </span>
 
 
 <span class="research">
 "Multimarket contact in health insurance: Evidence from Medicare Advantage" with Haizhen Lin, *under review*. [NBER Working Paper 24486](https://www.nber.org/papers/w24486)
+</span>
+
+<span class="research">
+"Owning the agent: Hospital influence on physician behaviors" with Haizhen Lin and Michael Richards, *under review*
 </span>
 
 
@@ -108,9 +111,6 @@ Download my full CV [here](/files/mccarthy_cv.pdf), access my Google Scholar pag
 </span>
 
 
-<span class="research">
-"How does physician-hospital integration affect hospital prices and quality of care" with Haizhen Lin and Michael Richards, *under review*
-</span>
 
 
 <span class="research">

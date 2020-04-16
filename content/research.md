@@ -12,6 +12,19 @@ Download my full CV [here](/files/mccarthy_cv.pdf), access my Google Scholar pag
 <span class="research">
 ["Capacity Constraints and Time Allocation in Public Health Clinics"](https://onlinelibrary.wiley.com/doi/full/10.1002/hec.3984) with Matthew Harris and Yinan Liu, **Health Economics**, 2020.
 <a href=https://onlinelibrary.wiley.com/doi/full/10.1002/hec.3984><i class="fas fa-download"></i></a>
+<button id="myBtn">Cite</button>
+
+<!-- The Modal -->
+<div id="myModal" class="modal">
+
+  <!-- Modal content -->
+  <div class="modal-content">
+    <span class="close">&times;</span>
+    <p>BibTeX cite</p>
+  </div>
+
+</div>
+
 </span>
 
 <span class="research">
@@ -115,3 +128,34 @@ Download my full CV [here](/files/mccarthy_cv.pdf), access my Google Scholar pag
 <span class="research">
 "Physician Affiliation and Hospital Production"
 </span>
+
+
+
+
+<script>
+// Get the modal
+var modal = document.getElementById("myModal");
+
+// Get the button that opens the modal
+var btn = document.getElementById("myBtn");
+
+// Get the <span> element that closes the modal
+var span = document.getElementsByClassName("close")[0];
+
+// When the user clicks the button, open the modal 
+btn.onclick = function() {
+  modal.style.display = "block";
+}
+
+// When the user clicks on <span> (x), close the modal
+span.onclick = function() {
+  modal.style.display = "none";
+}
+
+// When the user clicks anywhere outside of the modal, close it
+window.onclick = function(event) {
+  if (event.target == modal) {
+    modal.style.display = "none";
+  }
+}
+</script>

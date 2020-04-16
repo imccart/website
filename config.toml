@@ -43,7 +43,10 @@ enableEmoji = true
     maxSeeAlsoItems = 5
     
     # Custom CSS
-    custom_css = ["css/css_style.css"]
+    custom_css = ["customs/css_style.css"]
+
+    # Custom JS
+    custom_js = ["customs/js_style.js"]
     
 
 [taxonomies]

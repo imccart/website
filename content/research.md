@@ -16,38 +16,48 @@ Download my full CV [here](/files/mccarthy_cv.pdf), access my Google Scholar pag
 </span>
 
 
+
 <span class="research">
 ["Quality Disclosure and the Timing of Insurers' Adjustments: Evidence from Medicare Advantage"](https://www.sciencedirect.com/science/article/abs/pii/S0167629617310433) **Journal of Health Economics**, 2018.
 <a href=https://www.sciencedirect.com/science/article/abs/pii/S0167629617310433><i class="fas fa-download"></i></a>
 <a href=https://scholar.google.com/scholar?hl=en&as_sdt=0%2C11&q=%22Quality+Disclosure+and+the+Timing+of+Insurers%27+Adjustments%3A+Evidence+from+Medicare+Advantage%22&btnG=><i class="ai ai-google-scholar"></i></a>
 </span>
 
+
+
 <span class="research">
 ["Vertical Alignment Between Hospitals and Physicians as a Bargaining Response to Commercial Insurance Markets"](https://link.springer.com/article/10.1007/s11151-017-9609-5) with Sean Huang, **Review of Industrial Organization**, 2018.
 <a href=https://link.springer.com/article/10.1007/s11151-017-9609-5><i class="fas fa-download"></i></a> <a href=/files/rio_appendix_2018.pdf><i class="fas fa-paperclip"></i></a>
+<a href=https://scholar.google.com/scholar?hl=en&as_sdt=0%2C11&q=%22Vertical+Alignment+Between+Hospitals+and+Physicians+as+a+Bargaining+Response+to+Commercial+Insurance+Markets%22&btnG=><i class="ai ai-google-scholar"></i></a>
 </span>
+
+
 
 <span class="research">
 ["It's a Cruel Summer: Household Responses to Reductions in Government Nutrition Assistance"](https://www.sciencedirect.com/science/article/abs/pii/S0167268117302330) with Lorenzo Almada, **Journal of Economic Behavior and Organization**, 2017.
 <a href=https://www.sciencedirect.com/science/article/abs/pii/S0167268117302330><i class="fas fa-download"></i></a>
+<a href=https://scholar.google.com/scholar?hl=en&as_sdt=0%2C11&q=%22It%27s+a+Cruel+Summer%3A+Household+Responses+to+Reductions+in+Government+Nutrition+Assistance%22&btnG=><i class="ai ai-google-scholar"></i></a>
 </span>
 
 
 <span class="research">
 ["Supply-side Responses to Public Quality Ratings: Evidence from Medicare Advantage"](https://www.mitpressjournals.org/doi/10.1162/AJHE_a_00070) with Michael Darden, **American Journal of Health Economics**, 2017.
 <a href=https://www.mitpressjournals.org/doi/10.1162/AJHE_a_00070><i class="fas fa-download"></i></a>
+<a href=https://scholar.google.com/scholar?hl=en&as_sdt=0%2C11&q=%22Supply-side+Responses+to+Public+Quality+Ratings%3A+Evidence+from+Medicare+Advantage%22&btnG=><i class="ai ai-google-scholar"></i></a>
 </span>
 
 
 <span class="research">
 ["Eliminating Composite Bias in Treatment Effects Estimates: Applications to Quality of Life Assessments"](https://www.sciencedirect.com/science/article/abs/pii/S0167629616302041), **Journal of Health Economics**, 2016.
 <a href=https://www.sciencedirect.com/science/article/abs/pii/S0167629616302041><i class="fas fa-download"></i></a>
+<a href=https://scholar.google.com/scholar?hl=en&as_sdt=0%2C11&q=%22Eliminating+Composite+Bias+in+Treatment+Effects+Estimates%3A+Applications+to+Quality+of+Life+Assessments%22&btnG=><i class="ai ai-google-scholar"></i></a>
 </span>
 
 
 <span class="research">
 ["What Can We Learn about the Effects of Food Stamps on Obesity in the Presence of Misreporting"](https://academic.oup.com/ajae/article/98/4/997/1739753) with Lorenzo Almada and Rusty Tchernis, **American Journal of Agricultrual Economics**, 2016.
 <a href=https://academic.oup.com/ajae/article/98/4/997/1739753><i class="fas fa-download"></i></a>
+<a href=https://scholar.google.com/scholar?hl=en&as_sdt=0%2C11&q=%22What+Can+We+Learn+about+the+Effects+of+Food+Stamps+on+Obesity+in+the+Presence+of+Misreporting%22&btnG=><i class="ai ai-google-scholar"></i></a>
 </span>
 
 
@@ -55,36 +65,42 @@ Download my full CV [here](/files/mccarthy_cv.pdf), access my Google Scholar pag
 <span class="research">
 ["Advertising Intensity and Welfare in an Equilibrium Search Model"](https://www.sciencedirect.com/science/article/abs/pii/S0165176516300064), **Economics Letters**, 2016.
 <a href=https://www.sciencedirect.com/science/article/abs/pii/S0165176516300064><i class="fas fa-download"></i></a>
+<a href=https://scholar.google.com/scholar?hl=en&as_sdt=0%2C11&q=%22Advertising+Intensity+and+Welfare+in+an+Equilibrium+Search+Model%22&btnG=><i class="ai ai-google-scholar"></i></a>
 </span>
 
 
 <span class="research">
 ["The Star Treatment: Estimating the Impact of Star Ratings on Medicare Advantage Enrollments"](http://jhr.uwpress.org/content/50/4/980.abstract) with Michael Darden, **Journal of Human Resources**, 2015.
 <a href=http://jhr.uwpress.org/content/50/4/980.abstract><i class="fas fa-download"></i></a>
+<a href=https://scholar.google.com/scholar?hl=en&as_sdt=0%2C11&q=%22The+Star+Treatment%3A+Estimating+the+Impact+of+Star+Ratings+on+Medicare+Advantage+Enrollments%22&btnG=><i class="ai ai-google-scholar"></i></a>
 </span>
 
 
 <span class="research">
 ["Putting the Patient in Patient Reported Outcomes: A Robust Methodology for Health Outcomes Assessment"](https://onlinelibrary.wiley.com/doi/full/10.1002/hec.3113), **Health Economics**, 2015.
 <a href=https://onlinelibrary.wiley.com/doi/full/10.1002/hec.3113><i class="fas fa-download"></i></a>
+<a href=https://scholar.google.com/scholar?hl=en&as_sdt=0%2C11&q=%22Putting+the+Patient+in+Patient+Reported+Outcomes%3A+A+Robust+Methodology+for+Health+Outcomes+Assessment%22&btnG=><i class="ai ai-google-scholar"></i></a>
 </span>
 
 
 <span class="research">
 ["Bounding Treatment Effects: Stata Command for the Partial Identification of the Average Treatment Effect with Endogenous and Misreported Treatment Assignment"](https://www.stata-journal.com/article.html?article=st0386) with Daniel Millimet and Manan Roy, **The Stata Journal**, 2015.
 <a href=https://www.stata-journal.com/article.html?article=st0386><i class="fas fa-download"></i></a>
+<a href=https://scholar.google.com/scholar?hl=en&as_sdt=0%2C11&q=%22Bounding+Treatment+Effects%3A+Stata+Command+for+the+Partial+Identification+of+the+Average+Treatment+Effect+with+Endogenous+and+Misreported+Treatment+Assignment%22&btnG=><i class="ai ai-google-scholar"></i></a>
 </span>
 
 
 <span class="research">
 ["Cost Savings from Palliative Care Teams and Guidance for a Financially Viable Palliative Care Program"](https://onlinelibrary.wiley.com/doi/full/10.1111/1475-6773.12203) with Chessie Robinson, Sakib Huq, Martha Philastre, and Robert Fine, **Health Services Research**, 2014.
 <a href=https://onlinelibrary.wiley.com/doi/full/10.1111/1475-6773.12203><i class="fas fa-download"></i></a>
+<a href=https://scholar.google.com/scholar?hl=en&as_sdt=0%2C11&q=%22Cost+Savings+from+Palliative+Care+Teams+and+Guidance+for+a+Financially+Viable+Palliative+Care+Program%22&btnG=><i class="ai ai-google-scholar"></i></a>
 </span>
 
 
 <span class="research">
 ["The bmte Command: Methods for the Estimation of Treatment Effects when Exclusion Restrictions are Unavailable"](https://www.stata-journal.com/article.html?article=st0355) with Daniel Millimet and Rusty Tchernis, **The Stata Journal**, 2014.
 <a href=https://www.stata-journal.com/article.html?article=st0355><i class="fas fa-download"></i></a>
+<a href=https://scholar.google.com/scholar?hl=en&as_sdt=0%2C11&q=%22The+bmte+Command%3A+Methods+for+the+Estimation+of+Treatment+Effects+when+Exclusion+Restrictions+are+Unavailable%22&btnG=><i class="ai ai-google-scholar"></i></a>
 </span>
 
 
@@ -111,8 +127,6 @@ Download my full CV [here](/files/mccarthy_cv.pdf), access my Google Scholar pag
 <span class="research">
 "Who pays in pay-for-performance? Evidence from hospital pricing" with Eric Barrette and Michael Darden, *under review*. [NBER Working Paper 24304](https://www.nber.org/papers/w24304)
 </span>
-
-
 
 
 <span class="research">

@@ -11,6 +11,7 @@ Download my full CV [here](/files/mccarthy_cv.pdf), access my Google Scholar pag
 
 <span class="research">
 ["Capacity Constraints and Time Allocation in Public Health Clinics"](https://onlinelibrary.wiley.com/doi/full/10.1002/hec.3984) with Matthew Harris and Yinan Liu, **Health Economics**, 2020.
+
 <a href=https://onlinelibrary.wiley.com/doi/full/10.1002/hec.3984><i class="fas fa-download"></i></a>
 <a href=https://scholar.google.com/scholar?hl=en&as_sdt=0%2C11&q=%22Capacity+Constraints+and+Time+Allocation+in+Public+Health+Clinics%22&btnG=><i class="ai ai-google-scholar"></i></a>
 </span>
@@ -37,6 +38,7 @@ Download my full CV [here](/files/mccarthy_cv.pdf), access my Google Scholar pag
 ["It's a Cruel Summer: Household Responses to Reductions in Government Nutrition Assistance"](https://www.sciencedirect.com/science/article/abs/pii/S0167268117302330) with Lorenzo Almada, **Journal of Economic Behavior and Organization**, 2017.
 <a href=https://www.sciencedirect.com/science/article/abs/pii/S0167268117302330><i class="fas fa-download"></i></a>
 <a href=https://scholar.google.com/scholar?hl=en&as_sdt=0%2C11&q=%22It%27s+a+Cruel+Summer%3A+Household+Responses+to+Reductions+in+Government+Nutrition+Assistance%22&btnG=><i class="ai ai-google-scholar"></i></a>
+<iframe width="640" height="401" src="https://www.powtoon.com/embed/fbtk0TZ6sDh/" frameborder="0"></iframe>
 </span>
 
 

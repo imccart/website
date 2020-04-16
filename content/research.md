@@ -8,9 +8,15 @@ I am an assistant professor of economics at Emory University and a faculty resea
 Download my full CV [here](/files/mccarthy_cv.pdf), access my Google Scholar page [here](https://scholar.google.com/citations?user=zRCE7V0AAAAJ&hl=en), and access my RePec profile [here](https://ideas.repec.org/f/pmc207.html).
 
 # Selected publications
-1. ["Capacity Constraints and Time Allocation in Public Health Clinics"](https://onlinelibrary.wiley.com/doi/full/10.1002/hec.3984) with Matthew Harris and Yinan Liu, **Health Economics**, 2020.
 
-2. ["Quality Disclosure and the Timing of Insurers' Adjustments: Evidence from Medicare Advantage"](https://www.sciencedirect.com/science/article/abs/pii/S0167629617310433) **Journal of Health Economics**, 2018.
+<p class="research">
+["Capacity Constraints and Time Allocation in Public Health Clinics"](https://onlinelibrary.wiley.com/doi/full/10.1002/hec.3984) with Matthew Harris and Yinan Liu, **Health Economics**, 2020.<br>
+
+<a href=https://onlinelibrary.wiley.com/doi/full/10.1002/hec.3984><i class="fas fa-envelope fa-2x"></i></a>
+</p>
+
+
+["Quality Disclosure and the Timing of Insurers' Adjustments: Evidence from Medicare Advantage"](https://www.sciencedirect.com/science/article/abs/pii/S0167629617310433) **Journal of Health Economics**, 2018.
 
 3. ["Vertical Alignment Between Hospitals and Physicians as a Bargaining Response to Commercial Insurance Markets"](https://link.springer.com/article/10.1007/s11151-017-9609-5) with Sean Huang, **Review of Industrial Organization**, 2018
     + [Supplemental Appendix](/files/rio_appendix_2018.pdf)

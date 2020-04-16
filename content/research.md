@@ -14,20 +14,6 @@ Download my full CV [here](/files/mccarthy_cv.pdf), access my Google Scholar pag
 <a href=https://onlinelibrary.wiley.com/doi/full/10.1002/hec.3984><i class="fas fa-download"></i></a>
 </span>
 
-<button id="myBtn">Cite</button>
-
-<!-- The Modal -->
-<div id="myModal" class="modal">
-
-  <!-- Modal content -->
-  <div class="modal-content">
-    <span class="close">&times;</span>
-    <p>BibTeX cite</p>
-  </div>
-
-</div>
-
-
 
 <span class="research">
 ["Quality Disclosure and the Timing of Insurers' Adjustments: Evidence from Medicare Advantage"](https://www.sciencedirect.com/science/article/abs/pii/S0167629617310433) **Journal of Health Economics**, 2018.

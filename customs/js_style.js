@@ -1,25 +1,38 @@
-// Get the modal
-var modal = document.getElementById("myModal");
+(function ($) {
 
-// Get the button that opens the modal
-var btn = document.getElementById("myBtn");
+    // Load citation modal on 'Cite' click.
+    $('.js-cite-modal').click(function (e) {
+      e.preventDefault();
+      let filename = $(this).attr('data-filename');
+      let modal = $('#modal');
+      modal.find('.modal-body code').load(filename, function (response, status, xhr) {
+        if (status == 'error') {
+          let msg = "Error: ";
+          $('#modal-error').html(msg + xhr.status + " " + xhr.statusText);
+        } else {
+          $('.js-download-cite').attr('href', filename);
+        }
+      });
+      modal.modal('show');
+    });
 
-// Get the <span> element that closes the modal
-var span = document.getElementsByClassName("close")[0];
+    // Copy citation text on 'Copy' click.
+    $('.js-copy-cite').click(function (e) {
+      e.preventDefault();
+      // Get selection.
+      let range = document.createRange();
+      let code_node = document.querySelector('#modal .modal-body');
+      range.selectNode(code_node);
+      window.getSelection().addRange(range);
+      try {
+        // Execute the copy command.
+        document.execCommand('copy');
+      } catch (e) {
+        console.log('Error: citation copy failed.');
+      }
+      // Remove selection.
+      window.getSelection().removeRange(range);
+    });
+  });
 
-// When the user clicks the button, open the modal 
-btn.onclick = function() {
-  modal.style.display = "block";
-}
-
-// When the user clicks on <span> (x), close the modal
-span.onclick = function() {
-  modal.style.display = "none";
-}
-
-// When the user clicks anywhere outside of the modal, close it
-window.onclick = function(event) {
-  if (event.target == modal) {
-    modal.style.display = "none";
-  }
-}
+})(jQuery);

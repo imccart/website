@@ -9,11 +9,11 @@ Download my full CV [here](/files/mccarthy_cv.pdf), access my Google Scholar pag
 
 # Selected publications
 
-<p class="research">
+<span class="research">
 ["Capacity Constraints and Time Allocation in Public Health Clinics"](https://onlinelibrary.wiley.com/doi/full/10.1002/hec.3984) with Matthew Harris and Yinan Liu, **Health Economics**, 2020.<br>
 
 <a href=https://onlinelibrary.wiley.com/doi/full/10.1002/hec.3984><i class="fas fa-envelope fa-2x"></i></a>
-</p>
+</span>
 
 
 ["Quality Disclosure and the Timing of Insurers' Adjustments: Evidence from Medicare Advantage"](https://www.sciencedirect.com/science/article/abs/pii/S0167629617310433) **Journal of Health Economics**, 2018.

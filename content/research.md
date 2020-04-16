@@ -11,19 +11,19 @@ Download my full CV [here](/files/mccarthy_cv.pdf), access my Google Scholar pag
 
 <span class="research">
 ["Capacity Constraints and Time Allocation in Public Health Clinics"](https://onlinelibrary.wiley.com/doi/full/10.1002/hec.3984) with Matthew Harris and Yinan Liu, **Health Economics**, 2020.
-
 <a href=https://onlinelibrary.wiley.com/doi/full/10.1002/hec.3984><i class="fas fa-download"></i></a>
 </span>
 
 <span class="research">
 ["Quality Disclosure and the Timing of Insurers' Adjustments: Evidence from Medicare Advantage"](https://www.sciencedirect.com/science/article/abs/pii/S0167629617310433) **Journal of Health Economics**, 2018.
-
 <a href=https://www.sciencedirect.com/science/article/abs/pii/S0167629617310433><i class="fas fa-download"></i></a>
 </span>
 
+<span class="research">
+["Vertical Alignment Between Hospitals and Physicians as a Bargaining Response to Commercial Insurance Markets"](https://link.springer.com/article/10.1007/s11151-017-9609-5) with Sean Huang, **Review of Industrial Organization**, 2018
+<a href=https://link.springer.com/article/10.1007/s11151-017-9609-5><i class="fas fa-download"></i></a> <a href=/files/rio_appendix_2018.pdf><i class="fas fa-paperclip"></i></a>
+</span>
 
-3. ["Vertical Alignment Between Hospitals and Physicians as a Bargaining Response to Commercial Insurance Markets"](https://link.springer.com/article/10.1007/s11151-017-9609-5) with Sean Huang, **Review of Industrial Organization**, 2018
-    + [Supplemental Appendix](/files/rio_appendix_2018.pdf)
 
 4. ["It's a Cruel Summer: Household Responses to Reductions in Government Nutrition Assistance"](https://www.sciencedirect.com/science/article/abs/pii/S0167268117302330) with Lorenzo Almada, **Journal of Economic Behavior and Organization**, 2017
 

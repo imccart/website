@@ -85,7 +85,7 @@ Download my full CV [here](/files/mccarthy_cv.pdf), access my Google Scholar pag
 
 
 <span class="research">
-["Bounding Treatment Effects: Stata Command for the Partial Identification of the Average Treatment Effect with Endogenous and Misreported Treatment Assignment"](https://www.stata-journal.com/article.html?article=st0386) with Daniel Millimet and Manan Roy, **The Stata Journal**, 2015.
+["Bounding Treatment Effects: Stata Command for the Partial Identification of the Average Treatment Effect with Endogenous and Misreported Treatment Assignment"](https://www.stata-journal.com/article.html?article=st0386) with Daniel Millimet and Manan Roy, **The Stata Journal**, 2015.<br style="line-height:0px;"/>
 <a href=https://www.stata-journal.com/article.html?article=st0386><i class="fas fa-download"></i></a>
 <a href=https://scholar.google.com/scholar?hl=en&as_sdt=0%2C11&q=%22Bounding+Treatment+Effects%3A+Stata+Command+for+the+Partial+Identification+of+the+Average+Treatment+Effect+with+Endogenous+and+Misreported+Treatment+Assignment%22&btnG=><i class="ai ai-google-scholar"></i></a>
 </span>

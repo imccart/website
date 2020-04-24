@@ -29,8 +29,8 @@ Download my full CV [here](/files/mccarthy_cv.pdf), access my Google Scholar pag
 ["Vertical Alignment Between Hospitals and Physicians as a Bargaining Response to Commercial Insurance Markets"](https://link.springer.com/article/10.1007/s11151-017-9609-5) with Sean Huang, **Review of Industrial Organization**, 2018.<br style="line-height:0px;"/>
 <a href=https://link.springer.com/article/10.1007/s11151-017-9609-5><i class="fas fa-download"></i></a> <a href=/files/rio_appendix_2018.pdf><i class="fas fa-paperclip"></i></a>
 <a href=https://scholar.google.com/scholar?hl=en&as_sdt=0%2C11&q=%22Vertical+Alignment+Between+Hospitals+and+Physicians+as+a+Bargaining+Response+to+Commercial+Insurance+Markets%22&btnG=><i class="ai ai-google-scholar"></i></a>
+<a href=https://youtu.be/HfrTh3HWyH0><i class="fas fa-video"></i></a>
 </span>
-
 
 
 <span class="research">

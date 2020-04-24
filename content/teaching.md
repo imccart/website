@@ -15,14 +15,14 @@ This is a Freshman Seminar focusing on current issues in U.S. health care. The c
 This is an elective economics course focusing on “supply side” health economics. The course examines the industrial organization of health care markets in the U.S., including underlying theory, empirical findings, and related health care policy. We study insurance markets, informational asymmetries between physicians and patients, as well as issues of hospital pricing and payments.
 
 
-### [Econ/HLTH 470 - Research in Health Economics](https://imccart.github.io/Econ-372/)
+### [Econ/HLTH 470 - Research in Health Economics](https://imccart.github.io/Econ-470/)
 
 This is the capstone course for the joint major in Economics and Human Health. The course effectively combines health economics and human health content with data science. The course is therefore heavily applied in nature. Students complete an empirical research project using raw data and employ econometric methods to analyze a research question relevant to contemporary health care issues and/or health policy. The content of the course is split into three general areas: 1) data management in the real world; 2) health policy and health care institutions; and 3) empirical methods in program evaluation and causal inference. Each area of the course will be covered by way of an example research question, which is intended to help guide students in their own projects throughout the semester.
 
 
 ### Econ 771 - Health Economics II 
 
-This is a PhD course in supply side health economics. The course will be online soon(ish). This course explores the industrial organization of health care markets in the U.S., focusing on hospital production, information asymmetrics, and competition (including issues of insurer and hospital bargaining).
+This is a PhD course in supply side health economics. The course will be online soon(ish). This course explores the industrial organization of health care markets in the U.S., focusing on hospital production, information asymmetries, and competition (including issues of insurer and hospital bargaining).
 
 
 ### Awards

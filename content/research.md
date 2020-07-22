@@ -131,7 +131,7 @@ Download my full CV [here](/files/mccarthy_cv.pdf), access my Google Scholar pag
 
 
 <span class="research">
-"Online Reviews and Hospital Prices" with Kaylyn Sanbower and Leonardo S\'{a}nchez Arag\'{o}n, *under review*
+"Online Reviews and Hospital Prices" with Kaylyn Sanbower and Leonardo Sánchez Aragón, *under review*
 </span>
 
 

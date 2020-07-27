@@ -1,0 +1,64 @@
+---
+title: "IV Flowchart"
+author: "Ian Mccarthy"
+date: "Today"
+output: html_document
+---
+
+This describes some standard IV tests and sensitivity analyses:
+
+  
+```{r, echo=FALSE}
+DiagrammeR::grViz("
+
+  digraph instrumental_variables {
+
+    # add node statements
+    node [shape = box]
+    A [label = 'So you want to do IV, eh?']
+  
+    node [shape = box]
+    a [label = 'how big is the problem?']
+    b [label = 'specification tests']
+    c [label = 'sensitivity']
+    
+    node [shape = box]
+    c1 [label = 'IV is biased!']
+    c2 [label = 'what about outliers?']
+    
+    
+    node [shape = box]
+    a1  [label = 
+          <
+          Oster (2017)<br ALIGN='LEFT'/>          
+          Test of how sensitive<br ALIGN='LEFT'/>
+          estimates are to increasing<br ALIGN='LEFT'/>
+          amounts of selection on unobservables.<br ALIGN='LEFT'/>
+          In other words, how big of a problem<br ALIGN='LEFT'/>
+          must selection on unobservables<br ALIGN='LEFT'/>
+          be in order to make us question<br ALIGN='LEFT'/>
+          the initial results?<br ALIGN='LEFT'/>
+          psacalc in Stata<br ALIGN='LEFT'/>
+          >
+        ]
+    c21 [label = <Cohen et al (2011), robivreg in Stata>]
+    c12 [label = <Andrews and Armstrong (2017)<br ALIGN='LEFT'/> 
+                  aaniv in Stata<br ALIGN='LEFT'/> >]
+    
+    
+    # add edge statements
+    edge [color = grey, arrowhead = none, arrowtail = none]
+    A -> a; A -> b; A -> c; a -> a1; 
+    c -> c1; c -> c2; c2 -> c21;
+    
+    
+    
+    # add graph statement
+    graph [nodesep = 0.1]
+  
+  }
+      
+")
+
+```
+  

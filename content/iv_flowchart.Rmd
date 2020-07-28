@@ -12,14 +12,14 @@ library(DiagrammeR)
 
 mermaid('
 graph TD
-A-->B
+A("Thinking of IV?")-->B("How big is the problem?")
 A-->C
 C-->E
 B-->D
 C-->D
 D-->F
 E-->F
-click B "http://ianmccarthyecon.netlify.app/teaching/iv_problem.html" "This is a link"
+click B "http://ianmccarthyecon.netlify.app/teaching/iv_problem.html" "Details"
 ')
 ```
 

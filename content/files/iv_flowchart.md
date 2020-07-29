@@ -1,5 +1,5 @@
 ---
-slug: iv_methods
+slug: teaching
 title: Instrumental Variables
 mermaid: true
 ---

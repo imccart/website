@@ -25,12 +25,9 @@ This is the capstone course for the joint major in Economics and Human Health. T
 This is a PhD course in supply side health economics. This course explores the industrial organization of healthcare markets in the U.S., focusing on the following areas: hospital ownership and production, physician agency, quality and price disclosure, and hospital competition. If we have time, we will briefly cover some issues on health insurance markets. The class is effectively designed as a combination of empirical IO and causal inference, with applications to healthcare. As such, we will also examine several econometric tools and causal inference identification strategies. These methods will be introduced as needed throughout the course. Another goal of the class is to gain exposure to publicly available datasets for studying supply-side health economics issues, so we will work with several raw data sources throughout the semester.
 
 
-### Canonical methods
+### [Canonical methods](https://imccart.github.io/methods/)
 
 As part of these classes, I've put together a few quasi-interactive diagrams to help navigate some issues in applied empirical micro. These aren't comprehensive, but I think they serve as a decent reference for the key things to keep in mind, standard tests to consider, and alternative estimators (when relevant). I'm updating these things constantly as I find new information and correct my own misunderstanding. If you see something awry, please let me know!
-
-  - [Instrumental Variables](/files/iv_flowchart/)
-
 
 ### Awards
 

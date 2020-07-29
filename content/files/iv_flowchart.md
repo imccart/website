@@ -5,7 +5,7 @@ mermaid: true
 
 This is just a test for now...
 
-{{<mermaid align="left">}}
+{{<mermaid>}}
 graph LR;
     A[Hard edge] -->|Link text| B(Round edge)
     B --> C{Decision}

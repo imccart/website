@@ -13,7 +13,4 @@ graph TD;
   C-->D;
 {{</mermaid>}}
 
-{{ if (.Params.mermaid) }}
-<!-- MermaidJS support -->
 <script async src="https://unpkg.com/mermaid@8.2.3/dist/mermaid.min.js"></script>
-{{ end }}

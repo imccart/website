@@ -1,0 +1,141 @@
+---
+title: "IV Flowchart"
+author: "Ian McCarthy"
+date: "Today"
+output: html_document
+---
+
+This is just a test for now...
+
+<!-- ```{r, echo=FALSE, warning=FALSE} -->
+<!-- library(DiagrammeR) -->
+
+<!-- mermaid(' -->
+<!-- graph TD -->
+<!-- A("Thinking of IV?")-->B("How big is the problem?") -->
+<!-- A-->C -->
+<!-- C-->E -->
+<!-- B-->D -->
+<!-- C-->D -->
+<!-- D-->F -->
+<!-- E-->F -->
+<!-- ') -->
+<!-- ``` -->
+
+
+<!-- click B "https://ianmccarthyecon.netlify.app/teaching/" "Details" -->
+
+<!-- ```{r, echo=FALSE} -->
+<!-- DiagrammeR::grViz(" -->
+
+<!--   digraph instrumental_variables { -->
+
+
+<!--     # Level 1 node -->
+<!--     node [shape = box] -->
+<!--     A [label = 'So you want to do IV, eh?'] -->
+
+
+<!--     # Level 2 nodes -->
+<!--     node [shape = box] -->
+<!--     a [label = 'how big is the problem?'] -->
+<!--     b [label = 'specification tests'] -->
+<!--     c [label = 'sensitivity'] -->
+
+<!--     # Level 3 nodes -->
+<!--     node [shape = box] -->
+<!--     b1 [label = 'first-stage'] -->
+<!--     b2 [label = 'exogeneity'] -->
+<!--     b3 [label = 'exclusion'] -->
+<!--     c1 [label = 'IV is biased!'] -->
+<!--     c2 [label = 'what about outliers?'] -->
+<!--     c3 [label = 'weak instruments?'] -->
+
+
+<!--     # Level 4 nodes -->
+<!--     node [shape = box] -->
+<!--     b12 [label = 'relevance'] -->
+<!--     b13 [label = 'strength'] -->
+
+<!--     # Termminal level 3 nodes -->
+<!--     node [shape = box] -->
+<!--     a1  [label =  -->
+<!--     < -->
+<!--       <a href="https://ianmccarthyecon.nelify.app/resources/oster_2017">Oster (2017)</a> -->
+<!--     > -->
+<!--     ] -->
+
+<!--     a2  [label =  -->
+<!-- < -->
+<!-- <b>Hausman-Durbin-Wu Test</b><br ALIGN='LEFT'/> -->
+<!-- &#8226; Test of equality between<br ALIGN='LEFT'/> -->
+<!-- IV and OLS estimates.<br ALIGN='LEFT'/> -->
+<!-- &#8226; Caveat...assumes you have<br ALIGN='LEFT'/> -->
+<!-- a good instrument already.<br ALIGN='LEFT'/> -->
+<!-- &#8226; <b>hausman</b>  in Stata<br ALIGN='LEFT'/> -->
+<!-- > -->
+<!--         ]     -->
+
+
+
+
+<!--     # Termminal level 4 nodes     -->
+<!--     node [shape = box]     -->
+
+<!--     b31 [label =  -->
+<!-- < -->
+<!-- <b>Overidentification</b><br ALIGN='LEFT'/> -->
+<!-- &#8226; Sargan test with IID errors<br ALIGN='LEFT'/> -->
+<!-- &#8226; Hansen's J test with non-IID errors<br ALIGN='LEFT'/> -->
+<!-- &#8226; Requires overidentified model (extra IVs)<br ALIGN='LEFT'/> -->
+<!-- &#8226; Null is IVs are valid<br ALIGN='LEFT'/> -->
+<!-- > -->
+<!--         ] -->
+
+
+<!--     c21 [label =  -->
+<!-- < -->
+<!-- <b>Cohen et al (2011)</b><br ALIGN='LEFT'/> -->
+<!-- &#8226; Robust IV, allows estimation <br ALIGN='LEFT'/> -->
+<!-- that is less sensitive to outliers<br ALIGN='LEFT'/> -->
+<!-- using a location and scatter S-estimator. <br ALIGN='LEFT'/> -->
+<!-- &#8226; <b>robivreg</b>  in Stata<br ALIGN='LEFT'/> -->
+<!-- &#8226; <b>riv</b>  in R<br ALIGN='LEFT'/> -->
+<!-- > -->
+<!--         ] -->
+
+<!--     c12 [label =  -->
+<!-- < -->
+<!-- <b>Andrews and Armstrong (2017)</b><br ALIGN='LEFT'/> -->
+<!-- &#8226; Allows for an unbiased IV estimate<br ALIGN='LEFT'/> -->
+<!-- if you know the sign of the first stage.<br ALIGN='LEFT'/> -->
+<!-- &#8226; <b>aaniv</b>  in Stata<br ALIGN='LEFT'/>  -->
+<!-- > -->
+<!--         ] -->
+
+<!--     # Terminal level 5 nodes -->
+<!--     node [shape = box]     -->
+<!--     b121 [label = 'First-stage F-test for all instruments'] -->
+<!--     b122 [label = 'First-stage F-test for all instruments'] -->
+
+<!--     # add edge statements -->
+<!--     edge [color = grey, arrowhead = none, arrowtail = none] -->
+<!--     A -> a; A -> b; A -> c; a -> a1; a -> a2; -->
+<!--     c -> c1; c -> c2; c2 -> c21; c1 -> c12; -->
+<!--     b -> b1; b -> b2; b-> b3; -->
+<!--     {rank = same; a; b; c}; -->
+<!--     {rank = same; b1; b2; b3; c1; c2; c3}; -->
+<!--     {rank = same; c21; c12; a1; a2} -->
+
+
+
+
+<!--     # add graph statement -->
+<!--     graph [nodesep = 0.1] -->
+
+<!--   } -->
+
+<!-- ") -->
+
+<!-- ``` -->
+  

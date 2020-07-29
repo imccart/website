@@ -19,7 +19,7 @@ B-->D
 C-->D
 D-->F
 E-->F
-click B "http://ianmccarthyecon.netlify.app/teaching/iv_problem.html" "Details"
+click B "/files/iv_problem.html" "Details"
 ')
 ```
 

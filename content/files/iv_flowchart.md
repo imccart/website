@@ -7,11 +7,10 @@ This is just a test for now...
 
 {{<mermaid>}}
 graph TD;
-  A-->B;
-  A-->C;
-  B-->D;
-  C-->D;
-  click B "http://www.github.com" "This is a link"
+  A([Thinking of IV])-->B([How big is the problem?]);
+  B-->|it's big|C([Put your IV to the test]);
+  B-->|no biggie|D([No need for IV]);
+  click B "http://www.ianmccarthyecon.netlify.app/files/iv_problem.html" "Details"
 {{</mermaid>}}
 
 <script async src="https://unpkg.com/mermaid@8.2.3/dist/mermaid.min.js"></script>

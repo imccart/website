@@ -1,7 +1,0 @@
----
-title: Instrumental Variables
-output:
-  blogdown::html_page
----
-
-So you're thinking you might have some endogeneity problems, eh?

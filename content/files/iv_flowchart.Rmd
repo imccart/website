@@ -7,8 +7,17 @@ output: html_document
 
 This is just a test for now...
 
-```{r, echo=F}
-x <- 1
-y <- 2
-x+y
+```{r, echo=FALSE, warning=FALSE}
+library(DiagrammeR)
+
+mermaid('
+graph TD
+A("Thinking of IV?")-->B("How big is the problem?")
+A-->C
+C-->E
+B-->D
+C-->D
+D-->F
+E-->F
+')
 ```

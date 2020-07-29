@@ -19,10 +19,11 @@ B-->D
 C-->D
 D-->F
 E-->F
-click B "https://ianmccarthyecon.netlify.app/teaching/" "Details"
 ')
 ```
 
+
+<!-- click B "https://ianmccarthyecon.netlify.app/teaching/" "Details" -->
 
 <!-- ```{r, echo=FALSE} -->
 <!-- DiagrammeR::grViz(" -->

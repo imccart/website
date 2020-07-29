@@ -7,7 +7,7 @@ This is just a test for now...
 
 {{<mermaid>}}
 graph TD;
-  A("Thinking of IV"")-->B("How big is the problem?");
+  A("Thinking of IV")-->B("How big is the problem?");
   click B "http://www.ianmccarthyecon.netlify.app/files/iv_problem.html" "Details"
 {{</mermaid>}}
 

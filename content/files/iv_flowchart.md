@@ -1,5 +1,4 @@
 ---
-slug: teaching
 title: Instrumental Variables
 mermaid: true
 ---

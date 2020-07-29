@@ -6,3 +6,9 @@ output: html_document
 ---
 
 This is just a test for now...
+
+```{r, echo=F}
+x <- 1
+y <- 2
+x+y
+```

@@ -29,7 +29,7 @@ This is a PhD course in supply side health economics. This course explores the i
 
 As part of these classes, I've put together a few quasi-interactive diagrams to help navigate some issues in applied empirical micro. These aren't comprehensive, but I think they serve as a decent reference for the key things to keep in mind, standard tests to consider, and alternative estimators (when relevant). I'm updating these things constantly as I find new information and correct my own misunderstanding. If you see something awry, please let me know!
 
-  - [Instrumental Variables](/files/iv_flowchart.md)
+  - [Instrumental Variables](/files/iv_flowchart.html)
 
 
 ### Awards

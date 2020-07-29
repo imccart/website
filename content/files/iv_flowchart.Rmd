@@ -12,12 +12,7 @@ library(DiagrammeR)
 
 mermaid('
 graph TD
-A("Thinking of IV?")-->B("How big is the problem?")
-A-->C
-C-->E
-B-->D
-C-->D
-D-->F
+A-->B
 E-->F
 ')
 ```

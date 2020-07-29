@@ -1,5 +1,4 @@
 ---
-slug: teaching
 title: IV Pre-testing
 ---
 

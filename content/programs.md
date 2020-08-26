@@ -1,6 +1,6 @@
 ---
 slug: programs
-title: programs
+title: Programs and Projects
 ---
 
 # Stata Commands

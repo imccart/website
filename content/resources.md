@@ -5,7 +5,7 @@ title: Resources
 
 # Data from my projects
 
-I’m working to organize some of the publicly available datasets that I use more frequently (mainly Medicare Advantage and HCRIS) and associated code files. These are available as part of separate *GitHub* repositories. For code that is more specific to a given projects, please see the repositories under those individual projects/papers on my research page.
+I’m working to organize some of the publicly available datasets that I use more frequently (mainly Medicare Advantage and HCRIS) and associated code files. These are available as part of separate *GitHub* repositories. For code that is more specific to a given project, please see the repositories under those individual projects/papers on my research page.
 
 - [Medicare Advantage](https://github.com/imccart/Medicare-Advantage)
 - [Healthcare Cost Report Information System](https://github.com/imccart/HCRIS)

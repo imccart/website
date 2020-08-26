@@ -104,9 +104,9 @@ enableEmoji = true
         url = "/resources/"
 
         [[languages.en.menu.main]]
-        name = "Software"
+        name = "Programs"
         weight = 4
-        url = "/software/"
+        url = "/programs/"
 
         [[languages.en.menu.main]]
         name = "Contact"

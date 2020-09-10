@@ -39,6 +39,7 @@ It’s always nice to learn new things, freshen-up on things we thought we learn
   - [Causal Inference: The Mixtape](http://scunning.com/mixtape.html) by Scott Cunningham
   - [Causal Inference Book](https://www.hsph.harvard.edu/miguel-hernan/causal-inference-book/) by Jamie Robin and Miguel Hernan
   - [Econometrics](https://www.ssc.wisc.edu/~bhansen/econometrics/) by Bruce Hansen
+  - [Introductory Econometrics](https://github.com/NickCH-K/econometrics) class notes from Nick Huntington-Klein
 - For a great resource on `R` and lots of important data science topics, see Grant McDermott's [Data science for economists](https://github.com/uo-ec607/lectures) GitHub repository
 - Ever wish you had a central resource for lots of little commands and how to do things in different stats packages? Nick Huntington-Klein thought the same thing in his [Library of Statistical Techniques (LOST)](https://lost-stats.github.io/).
 
@@ -62,7 +63,7 @@ Academics aren't known for their patience, and economists are probably worse tha
 Academics are good at offering criticism, sometimes not so constructively, sometimes just wrong, sometimes mean, and sometimes wrong and mean at the same time. Follow some of these guides to make sure you don't fall in the latter category.
 
 - [The discussant's art](https://chrisblattman.com/2010/02/22/the-discussants-art/) by Chris Blattman
-- Writing referee reports, [one](http://marcfbellemare.com/wordpress/5542) by Marc Bellemare and [another](https://blog.academicsequitur.com/2019/06/30/how-to-write-a-good-referee-report/) by Tatyana Deryugina and [another](https://are.berkeley.edu/courses/ARE251/2004/assignments/RRGuidelines.pdf) by Elisabeth Sadoulet
+- Writing referee reports, [one](http://marcfbellemare.com/wordpress/5542) by Marc Bellemare and [another](https://blog.academicsequitur.com/2019/06/30/how-to-write-a-good-referee-report/) by Tatyana Deryugina and [another](https://are.berkeley.edu/courses/ARE251/2004/assignments/RRGuidelines.pdf) by Elisabeth Sadoulet and [another](https://pubs.aeaweb.org/doi/pdf/10.1257/jep.31.1.231) by Berk, Harvey, and Hirshleifer in the JEP
 - [How to be a great conference participant](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=1332144) by Art Carden
 
 
@@ -70,3 +71,16 @@ Academics are good at offering criticism, sometimes not so constructively, somet
 
 - [Stata coding guide](https://reifjulian.github.io/guide/) by Julian Reif
 - [Code and data for the social sciences](https://www.brown.edu/Research/Shapiro/pdfs/CodeAndData.pdf) by Matthew Getzkow and Jesse Shapiro
+
+
+# Some fun packages
+
+There are so many incredible things that people are doing in applied econometrics right now. This material seems to come out fast, and I often find myself with dozens of bookmarks that I forget or quickly lose track of. So, here's where I've decided to list some of the new programs and packages that I think are particularly useful for applied researchers. This is not comprehensive by any means...just a way to keep track of new programs that I either actively use in my work or that I want to start using.
+
+- `R` package for the Goodman-Bacon decomposition, [bacondecomp](https://cran.r-project.org/web/packages/bacondecomp/index.html). It also exists for Stata.
+- [Randomization Inference "Sandbox"](https://blogs.worldbank.org/impactevaluations/econometrics-sandbox-randomization-inference-event-study-designs) from the World Bank.
+- [panelView](https://yiqingxu.org/software/panelView/panelView.html) is a great way to visualize treatment timing in your data
+- Present your regression results and summary statistics neatly with [modelsummary](https://vincentarelbundock.github.io/modelsummary/) in `R`
+- Simple summary statistics in `R` with `vtable::sumtable()` from Nick Huntington-Klein, package code available [here](https://github.com/NickCH-K/vtable)
+- An `R` package for specification curves, [rdfanalysis](https://github.com/joachim-gassen/rdfanalysis)
+

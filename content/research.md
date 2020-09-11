@@ -10,9 +10,15 @@ Download my full CV [here](/files/mccarthy_cv.pdf), access my Google Scholar pag
 # Selected publications
 
 <span class="research">
+"Deterrence effects of antifraud and abuse enforcement in health care" with David Howard, *Journal of Health Economics*, accepted (link pending)
+</span>
+
+
+<span class="research">
 ["Capacity Constraints and Time Allocation in Public Health Clinics"](https://onlinelibrary.wiley.com/doi/full/10.1002/hec.3984) with Matthew Harris and Yinan Liu, **Health Economics**, 2020.<br style="line-height:0px;"/>
 <a href=https://onlinelibrary.wiley.com/doi/full/10.1002/hec.3984><i class="fas fa-download"></i></a>
 <a href=https://scholar.google.com/scholar?hl=en&as_sdt=0%2C11&q=%22Capacity+Constraints+and+Time+Allocation+in+Public+Health+Clinics%22&btnG=><i class="ai ai-google-scholar"></i></a>
+<a href=https://youtu.be/cBTryXN70o8><i class="fas fa-video"></i></a>
 </span>
 
 
@@ -108,10 +114,6 @@ Download my full CV [here](/files/mccarthy_cv.pdf), access my Google Scholar pag
 
 # Working papers
 <span class="research">
-"The role of antifraud enforcement in deterring wasteful medical care" with David Howard, *revise and resubmit*
-</span>
-
-<span class="research">
 "How does physician-hospital integration affect hospital prices and quality of care" with Haizhen Lin and Michael Richards, *revise and resubmit*
 </span>
 
@@ -133,8 +135,6 @@ Download my full CV [here](/files/mccarthy_cv.pdf), access my Google Scholar pag
 <span class="research">
 "Online Reviews and Hospital Prices" with Kaylyn Sanbower and Leonardo Sánchez Aragón, *under review*
 </span>
-
-
 
 
 <span class="research">

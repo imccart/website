@@ -10,7 +10,8 @@ Download my full CV [here](/files/mccarthy_cv.pdf), access my Google Scholar pag
 # Selected publications
 
 <span class="research">
-"Deterrence effects of antifraud and abuse enforcement in health care" with David Howard, *Journal of Health Economics*, accepted (link pending)
+"Deterrence effects of antifraud and abuse enforcement in health care" with David Howard, *Journal of Health Economics*, accepted<br style="line-height:0px;"/>
+<a href=https://www.nber.org/papers/w27900?utm_campaign=ntwh&utm_medium=email&utm_source=ntwg12><i class="fas fa-download"></i></a>
 </span>
 
 

@@ -11,8 +11,10 @@ Download my full CV [here](/files/mccarthy_cv.pdf), access my Google Scholar pag
 
 <span class="research">
 ["Deterrence effects of antifraud and abuse enforcement in health care"](https://authors.elsevier.com/c/1cBgFc7LF~F7l) with David Howard, *Journal of Health Economics*, 2021<br style="line-height:0px;"/>
-<a href=https://authors.elsevier.com/c/1cBgFc7LF~F7l><i class="fas fa-download"></i>Published version</a><br>
-<a href=https://www.nber.org/papers/w27900?utm_campaign=ntwh&utm_medium=email&utm_source=ntwg12><i class="fas fa-download"></i>NBER working paper</a>
+  <ul style="list-style-type:none;">
+    <li><a href=https://authors.elsevier.com/c/1cBgFc7LF~F7l><i class="fas fa-download"></i>Published version</a></li>
+    <li><a href=https://www.nber.org/papers/w27900?utm_campaign=ntwh&utm_medium=email&utm_source=ntwg12><i class="fas fa-download"></i>NBER working paper</a></li>
+  </ul>    
 </span>
 
 

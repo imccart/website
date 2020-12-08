@@ -29,4 +29,5 @@ This is a PhD course in supply side health economics. This course explores the i
 
 I've been fortunate to work with some incredible students. I fooled some of them into thinking I'm an OK teacher/adviser, and sometimes they nominate me for things.
 
-- *Excellence in teaching*, Phi Beta Kappa Society, 2020: Awarded to a faculty member "who has encouraged and helped students to excel, and who exemplifies intellectual rigor and enthusiasm for scholarly pursuits."
+- *Excellence in teaching*, Phi Beta Kappa Society: Awarded to a faculty member "who has encouraged and helped students to excel, and who exemplifies intellectual rigor and enthusiasm for scholarly pursuits."<br>
+Awarded: Fall 2019, Spring 2020

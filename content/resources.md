@@ -83,4 +83,23 @@ There are so many incredible things that people are doing in applied econometric
 - Present your regression results and summary statistics neatly with [modelsummary](https://vincentarelbundock.github.io/modelsummary/) in `R`
 - Simple summary statistics in `R` with `vtable::sumtable()` from Nick Huntington-Klein, package code available [here](https://github.com/NickCH-K/vtable)
 - An `R` package for specification curves, [rdfanalysis](https://github.com/joachim-gassen/rdfanalysis)
+- Really fast regression with fixed effects in `R`, [fixest](https://cran.r-project.org/web/packages/fixest/index.html)
 
+
+# Journey to Linux
+This year, after becoming increasingly exhausted with Windows updates (why do I have to use Skype, Teams, etc.? Come on!), I decided to commit to Linux (Ubuntu). Here's the process I followed with links where available:
+
+**Leaving Windows:**
+Switching from Windows to Ubuntu is very simple. The first step is just to get a bootable version of Ubuntu on a flash drive. You can do that [here](https://ubuntu.com/tutorials/create-a-usb-stick-on-windows#1-overview).
+
+**Basic setup:**
+Getting an initial setup is also very easy. Here are a few key programs that I use just based on my personal setup preferences:
+1. Google Chrome: Download the .deb file, `wget https://dl.google.com/linux/direct/google-chrome-stable_current_amd64.deb`, and install using dpkg, `sudo dpkg -i google-chrome-stable_current_amd64.deb`. More info [here](https://itsfoss.com/install-chrome-ubuntu/).
+2. R and RStudio: Installing R is as simple as `sudo apt-get install r-base`. To get RStudio, you can download the .deb file [here](https://rstudio.com/products/rstudio/download/#download) and install using `sudo apt install ./rstudio-1.3.1093-amd64.deb` (depending on the file that you downloaded).
+3. Text editor: I still prefer *Notepad++*, even though there's not really a clear Linux option. But you can do it via snapd...`sudo snap install notepad-plus-plus`.
+4. Email: I use Thunderbird as my Outlook replacement. It's an improvement because I can also include gmail, but some of the standard outlook features are different. Overall, I think I prefer Outlook but Thunderbird is a more than sufficient substitute. Plus it comes pre-installed on Ubuntu.
+5. Cache git credentials: I still haven't fully figured this out with RStudio. Seems like I'm regularly prompted for my git user name and password even though I've followed all the steps I can find. I suspect that the cache is cleared every time I restart, otherwise it works well. But this is still a frustrating part of the process.
+6. WinApps: I use OneNote heavily. Unfortunately, the easiest way to use OneNote with Linux is with a web-version, which doesn't have the same functionality as the desktop version. To solve this problem and gain full access to desktop OneNote, I had to use WinApps.
+    - WinApps is basically a way to launch several Windows Applications through a Virtual Machine (VM) in Linux. Much of the process works in the background, so once things are setup, it's pretty smooth. But setup can be a little tricky. If this is something you'd like to do, [here's](https://github.com/Fmstrat/winapps) a really nice step-by-step guide. I summarize the steps below as well.
+    - Creating a Virtual Machine. [These](https://github.com/Fmstrat/winapps/blob/main/docs/KVM.md) instructions worked well. One error I ran into was that the virtual machine wasn't connecting at first. I had to run `sudo virt-manager` after installing with `sudo apt-get install -y virt-manager`, after which everything ran smoothly. Note that you must have a the right version of Microsoft Office account for this to work. There are a lot of steps here.
+    - Once you're set up, just run `virsh start RDPWindows` from the command line, then `bin/winapps check` to check your connection.

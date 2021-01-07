@@ -84,6 +84,7 @@ There are so many incredible things that people are doing in applied econometric
 - Simple summary statistics in `R` with `vtable::sumtable()` from Nick Huntington-Klein, package code available [here](https://github.com/NickCH-K/vtable)
 - An `R` package for specification curves, [rdfanalysis](https://github.com/joachim-gassen/rdfanalysis)
 - Really fast regression with fixed effects in `R`, [fixest](https://cran.r-project.org/web/packages/fixest/index.html)
+- `R` package for sensitivity analysis of OLS and IV (sensitivity meaning sensitivity to unobserved confounders), [sensemakr](https://cran.r-project.org/web/packages/sensemakr/index.html)
 
 
 # Journey to Linux

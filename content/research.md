@@ -10,6 +10,11 @@ Download my full CV [here](/files/mccarthy_cv.pdf), access my Google Scholar pag
 # Selected publications
 
 <span class="research">
+"Hospital Pricing Following Integration with Physician Practices" with Haizhen Lin and Michael Richards, **Journal of Health Economics**, forthcoming<br style="line-height:0px;"/>
+</span>
+
+
+<span class="research">
 ["Deterrence effects of antifraud and abuse enforcement in health care"](https://authors.elsevier.com/c/1cBgFc7LF~F7l) with David Howard, **Journal of Health Economics**, 2021<br style="line-height:0px;"/>
 <a href=https://authors.elsevier.com/c/1cBgFc7LF~F7l><i class="fas fa-download"></i></a><a href=https://scholar.google.com/scholar?hl=en&as_sdt=0%2C11&q=deterrence+effects+of+antifraud+and+abuse+enforcement+in+health+care&btnG=><i class="ai ai-google-scholar"></i></a>
 </span>
@@ -114,11 +119,6 @@ Download my full CV [here](/files/mccarthy_cv.pdf), access my Google Scholar pag
 
 
 # Working papers
-<span class="research">
-"How does physician-hospital integration affect hospital prices and quality of care" with Haizhen Lin and Michael Richards, *revise and resubmit*
-</span>
-
-
 <span class="research">
 "Multimarket contact in health insurance: Evidence from Medicare Advantage" with Haizhen Lin, *under review*. [NBER Working Paper 24486](https://www.nber.org/papers/w24486)
 </span>

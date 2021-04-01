@@ -10,7 +10,7 @@ Download my full CV [here](/files/mccarthy_cv.pdf), access my Google Scholar pag
 # Selected publications
 
 <span class="research">
-"Hospital Pricing Following Integration with Physician Practices" with Haizhen Lin and Michael Richards, **Journal of Health Economics**, forthcoming<br style="line-height:0px;"/>
+["Hospital Pricing Following Integration with Physician Practices"](https://authors.elsevier.com/c/1cp1dc7LG0tXZ) with Haizhen Lin and Michael Richards, **Journal of Health Economics**, 2021<br style="line-height:0px;"/>
 </span>
 
 

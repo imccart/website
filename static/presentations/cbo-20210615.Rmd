@@ -142,12 +142,73 @@ count: false
   - From Howe, TX
   - Undergrad at the University of North Texas
   - PhD at Indiana University
-  - FTI Consulting
+  - FTI Consulting, Dallas, TX
 ]
 
 .pull-right[
   ![](../images/fti.png)
 ]
 
+
+---
+count: false
+
+# Background
+
+.pull-left[
+  - From Howe, TX
+  - Undergrad at the University of North Texas
+  - PhD at Indiana University
+  - FTI Consulting, Dallas, TX
+  - Baylor Scott and White Health Care, Dallas, TX
+]
+
+.pull-right[
+  ![](../images/baylor.png)
+]
+
+
+---
+count: false
+
+# Background
+
+.pull-left[
+  - From Howe, TX
+  - Undergrad at the University of North Texas
+  - PhD at Indiana University
+  - FTI Consulting, Dallas, TX
+  - Baylor Scott and White Health Care, Dallas, TX
+  - Emory University
+]
+
+.pull-right[
+  ![](../images/emory.jpg)
+]
+
+
+---
+class: inverse, center, middle
+name: insurance
+
+# Health insurance choice
+
+<html><div style='float:left'></div><hr color='#EB811B' size=1px width=1055px></html>
+
+---
+# Decision making
+
+knitr::include_url("https://onlinelibrary.wiley.com/doi/abs/10.1002/hec.1539")
+
+---
+count: false
+
+# Decision making
+
+knitr::include_url("https://imccart.github.io/ACA-Decision-Support/finals/creed/creed-202105.html#1")
+
+
+---
+# Quality disclosure
 
 

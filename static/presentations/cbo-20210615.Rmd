@@ -1,0 +1,153 @@
+---
+title: "Hospitals, Physicians, and Insurance Decisions"
+subtitle: "Ian McCarthy"
+author: Quick look at some of my research
+date: June 15, 2021 #"`r format(Sys.time(), '%d %B %Y')`"
+header-includes: 
+  - \usepackage{graphicx}
+  - \usepackage{amsmath}
+output:
+#  html_document: default (toggle on for "simplified" view)
+  xaringan::moon_reader:
+    css: [default, metropolis, metropolis-fonts, custom.css] 
+    lib_dir: libs
+    nature:
+      highlightStyle: github
+      highlightLines: true
+      countIncrementalSlides: false
+      ratio: "16:9"
+      beforeInit: ["macros.js","https://platform.twitter.com/widgets.js"]
+#knit: pagedown::chrome_print
+---
+
+<!-- Adjust some CSS code for font size, maintain R code font size -->
+<style type="text/css">
+.remark-slide-content {
+    font-size: 30px;
+    padding: 1em 2em 1em 2em;    
+}
+.remark-code, .remark-inline-code { 
+    font-size: 20px;
+}
+</style>
+
+
+<!-- Set R options for how code chunks are displayed and load packages -->
+```{r setup, include=FALSE}
+options(htmltools.dir.version = FALSE)
+options(dplyr.summarise.inform = FALSE)
+library(knitr)
+opts_chunk$set(
+  fig.align="center",  
+  fig.height=3, #fig.width=6,
+  # out.width="748px", #out.length="520.75px",
+  dpi=300, #fig.path='Figs/',
+  cache=T#, echo=F, warning=F, message=F
+  )
+
+knitr::opts_hooks$set(fig.callout = function(options) {
+  if(options$fig.callout) {
+    options$echo = FALSE
+  }
+  options
+})
+
+if (!require("pacman")) install.packages("pacman")
+pacman::p_load(tidyverse, ggplot2, dplyr, lubridate, readr, readxl, hrbrthemes,
+               scales, gganimate, gapminder, gifski, png, tufte, plotly, OECD,
+               ggrepel, xaringanExtra)
+```
+
+
+```{r xaringan-scribble, echo=FALSE}
+xaringanExtra::use_scribble(rgb(0.9, 0.5, 0.5))
+```
+
+
+# Health care in the U.S.
+
+.center[
+<iframe width="800" height="500" src="https://www.youtube.com/embed/u2AFI_M-QGg?start=135&end=197" frameborder="0" allowfullscreen></iframe>
+]
+
+
+---
+class: inverse
+
+# Outline of talk
+
+1. [Background](#background)
+2. [Health Insurance Choice](#insurance)
+3. [Vertical Integration](#integration)
+4. [Physician Learning and Referrals](#referrals)
+
+
+---
+class: inverse, center, middle
+name: background
+
+# Personal background
+
+<html><div style='float:left'></div><hr color='#EB811B' size=1px width=1055px></html>
+
+---
+# Background
+
+.pull-left[
+  - From Howe, TX
+]
+
+.pull-right[
+  ![](../images/howe-main-street.png)
+]
+
+---
+count: false
+
+
+# Background
+
+.pull-left[
+  - From Howe, TX
+  - Undergrad at the University of North Texas
+]
+
+.pull-right[
+  ![](../images/unt.png)
+]
+
+
+---
+count: false
+
+# Background
+
+.pull-left[
+  - From Howe, TX
+  - Undergrad at the University of North Texas
+  - PhD at Indiana University
+]
+
+.pull-right[
+  ![](../images/indiana-university.jpg)
+]
+
+
+---
+count: false
+
+# Background
+
+.pull-left[
+  - From Howe, TX
+  - Undergrad at the University of North Texas
+  - PhD at Indiana University
+  - FTI Consulting
+]
+
+.pull-right[
+  ![](../images/fti.png)
+]
+
+
+

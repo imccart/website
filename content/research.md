@@ -10,12 +10,13 @@ Download my full CV [here](/files/mccarthy_cv.pdf), access my Google Scholar pag
 # Selected publications
 
 <span class="research">
-["Hospital Pricing Following Integration with Physician Practices"](https://authors.elsevier.com/c/1cp1dc7LG0tXZ) with Haizhen Lin and Michael Richards, **Journal of Health Economics**, 2021<br style="line-height:0px;"/>
+["Hospital Pricing Following Integration with Physician Practices"](https://www.sciencedirect.com/science/article/pii/S0167629621000291) with Haizhen Lin and Michael Richards, **Journal of Health Economics**, 2021<br style="line-height:0px;"/>
+<a href=https://www.sciencedirect.com/science/article/pii/S0167629621000291><i class="fas fa-download"></i></a><a href=https://scholar.google.com/scholar?hl=en&as_sdt=0%2C11&q=Hospital+Pricing+Following+Integration+with+Physician+Practices&btnG=><i class="ai ai-google-scholar"></i></a>
 </span>
 
 
 <span class="research">
-["Deterrence effects of antifraud and abuse enforcement in health care"](https://authors.elsevier.com/c/1cBgFc7LF~F7l) with David Howard, **Journal of Health Economics**, 2021<br style="line-height:0px;"/>
+["Deterrence effects of antifraud and abuse enforcement in health care"](https://www.sciencedirect.com/science/article/pii/S0167629620310511) with David Howard, **Journal of Health Economics**, 2021<br style="line-height:0px;"/>
 <a href=https://www.sciencedirect.com/science/article/pii/S0167629620310511><i class="fas fa-download"></i></a><a href=https://scholar.google.com/scholar?hl=en&as_sdt=0%2C11&q=deterrence+effects+of+antifraud+and+abuse+enforcement+in+health+care&btnG=><i class="ai ai-google-scholar"></i></a>
 </span>
 
@@ -124,7 +125,7 @@ Download my full CV [here](/files/mccarthy_cv.pdf), access my Google Scholar pag
 </span>
 
 <span class="research">
-"Owning the agent: Hospital influence on physician behaviors" with Haizhen Lin and Michael Richards, *under review*
+"Owning the agent: Hospital influence on physician behaviors" with Haizhen Lin and Michael Richards, *under review*.  [NBER Working Paper 28859](https://www.nber.org/papers/w28859)
 </span>
 
 

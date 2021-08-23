@@ -44,8 +44,6 @@ enableEmoji = true
     
     # Custom CSS
     custom_css = ["css/academicons.min.css"]
-    
-    customSCSS = ["customs/css_style.scss"]
 
     # Custom JS
     custom_js = ["customs/js_style.js"]

@@ -21,5 +21,5 @@ This is a half-day workshop I led for the CDC. It focuses on difference-in-diffe
 2021-06 **Personal Introduction to the CBO**<br>
 I am a visiting scholar with the Congressional Budget Office (CBO) during the Fall of 2021. As part of this position, I gave a few short "getting to know me" presentations to different CBO groups. 
 
-<a href="http://extras.talks.ianmccarthyecon.com/cbo-20210615.html"><i class="icon: fas fa-chalkboard-teacher">Slides</i></a>
+<a href="https://extras.talks.ianmccarthyecon.com/cbo-20210615.html"><i class="icon: fas fa-chalkboard-teacher">Slides</i></a>
 </span>

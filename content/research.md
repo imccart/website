@@ -10,47 +10,56 @@ Download my full CV [here](/files/mccarthy_cv.pdf), access my Google Scholar pag
 # Selected publications
 
 <span class="research">
-["Hospital Pricing Following Integration with Physician Practices"](https://www.sciencedirect.com/science/article/pii/S0167629621000291) with Haizhen Lin and Michael Richards, **Journal of Health Economics**, 2021<br style="line-height:0px;"/>
-<a href=https://www.sciencedirect.com/science/article/pii/S0167629621000291><i class="fas fa-download"></i></a><a href=https://scholar.google.com/scholar?hl=en&as_sdt=0%2C11&q=Hospital+Pricing+Following+Integration+with+Physician+Practices&btnG=><i class="ai ai-google-scholar"></i></a>
+["Hospital Pricing Following Integration with Physician Practices"](https://www.sciencedirect.com/science/article/pii/S0167629621000291) with Haizhen Lin and Michael Richards, **Journal of Health Economics**, 2021<br>
+
+<a href=https://www.sciencedirect.com/science/article/pii/S0167629621000291><i class="fas fa-download">**Download Paper**</i></a><br>
+<a href=https://scholar.google.com/scholar?hl=en&as_sdt=0%2C11&q=Hospital+Pricing+Following+Integration+with+Physician+Practices&btnG=><i class="ai ai-google-scholar">**Cite**</i></a>
 </span>
 
 
 <span class="research">
-["Deterrence effects of antifraud and abuse enforcement in health care"](https://www.sciencedirect.com/science/article/pii/S0167629620310511) with David Howard, **Journal of Health Economics**, 2021<br style="line-height:0px;"/>
-<a href=https://www.sciencedirect.com/science/article/pii/S0167629620310511><i class="fas fa-download"></i></a><a href=https://scholar.google.com/scholar?hl=en&as_sdt=0%2C11&q=deterrence+effects+of+antifraud+and+abuse+enforcement+in+health+care&btnG=><i class="ai ai-google-scholar"></i></a>
+["Deterrence effects of antifraud and abuse enforcement in health care"](https://www.sciencedirect.com/science/article/pii/S0167629620310511) with David Howard, **Journal of Health Economics**, 2021<br>
+
+<a href=https://www.sciencedirect.com/science/article/pii/S0167629620310511><i class="fas fa-download">**Download Paper**</i></a><br>
+<a href=https://scholar.google.com/scholar?hl=en&as_sdt=0%2C11&q=deterrence+effects+of+antifraud+and+abuse+enforcement+in+health+care&btnG=><i class="ai ai-google-scholar">**Cite**</i></a>
 </span>
 
 
 <span class="research">
-["Capacity Constraints and Time Allocation in Public Health Clinics"](https://onlinelibrary.wiley.com/doi/full/10.1002/hec.3984) with Matthew Harris and Yinan Liu, **Health Economics**, 2020.<br style="line-height:0px;"/>
-<a href=https://onlinelibrary.wiley.com/doi/full/10.1002/hec.3984><i class="fas fa-download"></i></a>
-<a href=https://scholar.google.com/scholar?hl=en&as_sdt=0%2C11&q=%22Capacity+Constraints+and+Time+Allocation+in+Public+Health+Clinics%22&btnG=><i class="ai ai-google-scholar"></i></a>
-<a href=https://youtu.be/yayjHp2Bp9s><i class="fas fa-video"></i></a>
-</span>
+["Capacity Constraints and Time Allocation in Public Health Clinics"](https://onlinelibrary.wiley.com/doi/full/10.1002/hec.3984) with Matthew Harris and Yinan Liu, **Health Economics**, 2020.<br>
 
-
-
-<span class="research">
-["Quality Disclosure and the Timing of Insurers' Adjustments: Evidence from Medicare Advantage"](https://www.sciencedirect.com/science/article/abs/pii/S0167629617310433) **Journal of Health Economics**, 2018.<br style="line-height:0px;"/>
-<a href=https://www.sciencedirect.com/science/article/abs/pii/S0167629617310433><i class="fas fa-download"></i></a>
-<a href=https://scholar.google.com/scholar?hl=en&as_sdt=0%2C11&q=%22Quality+Disclosure+and+the+Timing+of+Insurers%27+Adjustments%3A+Evidence+from+Medicare+Advantage%22&btnG=><i class="ai ai-google-scholar"></i></a>
+<a href=https://onlinelibrary.wiley.com/doi/full/10.1002/hec.3984><i class="fas fa-download">**Download Paper**</i></a><br>
+<a href=https://scholar.google.com/scholar?hl=en&as_sdt=0%2C11&q=%22Capacity+Constraints+and+Time+Allocation+in+Public+Health+Clinics%22&btnG=><i class="ai ai-google-scholar">**Cite**</i></a><br>
+<a href=https://youtu.be/yayjHp2Bp9s><i class="fas fa-video">**Video Abstract**</i></a>
 </span>
 
 
 
 <span class="research">
-["Vertical Alignment Between Hospitals and Physicians as a Bargaining Response to Commercial Insurance Markets"](https://link.springer.com/article/10.1007/s11151-017-9609-5) with Sean Huang, **Review of Industrial Organization**, 2018.<br style="line-height:0px;"/>
-<a href=https://link.springer.com/article/10.1007/s11151-017-9609-5><i class="fas fa-download"></i></a> <a href=/files/rio_appendix_2018.pdf><i class="fas fa-paperclip"></i></a>
-<a href=https://scholar.google.com/scholar?hl=en&as_sdt=0%2C11&q=%22Vertical+Alignment+Between+Hospitals+and+Physicians+as+a+Bargaining+Response+to+Commercial+Insurance+Markets%22&btnG=><i class="ai ai-google-scholar"></i></a>
-<a href=https://youtu.be/HfrTh3HWyH0><i class="fas fa-video"></i></a>
+["Quality Disclosure and the Timing of Insurers' Adjustments: Evidence from Medicare Advantage"](https://www.sciencedirect.com/science/article/abs/pii/S0167629617310433) **Journal of Health Economics**, 2018.<br>
+
+<a href=https://www.sciencedirect.com/science/article/abs/pii/S0167629617310433><i class="fas fa-download">**Download Paper**</i></a><br>
+<a href=https://scholar.google.com/scholar?hl=en&as_sdt=0%2C11&q=%22Quality+Disclosure+and+the+Timing+of+Insurers%27+Adjustments%3A+Evidence+from+Medicare+Advantage%22&btnG=><i class="ai ai-google-scholar">**Cite**</i></a>
+</span>
+
+
+
+<span class="research">
+["Vertical Alignment Between Hospitals and Physicians as a Bargaining Response to Commercial Insurance Markets"](https://link.springer.com/article/10.1007/s11151-017-9609-5) with Sean Huang, **Review of Industrial Organization**, 2018.<br>
+
+<a href=https://link.springer.com/article/10.1007/s11151-017-9609-5><i class="fas fa-download">**Download Paper**</i></a><br>
+<a href=/files/rio_appendix_2018.pdf><i class="fas fa-paperclip">**Supplemental Materials**</i></a><br>
+<a href=https://scholar.google.com/scholar?hl=en&as_sdt=0%2C11&q=%22Vertical+Alignment+Between+Hospitals+and+Physicians+as+a+Bargaining+Response+to+Commercial+Insurance+Markets%22&btnG=><i class="ai ai-google-scholar">**Cite**</i></a>
+<a href=https://youtu.be/HfrTh3HWyH0><i class="fas fa-video">**Video Abstract**</i></a>
 </span>
 
 
 <span class="research">
-["It's a Cruel Summer: Household Responses to Reductions in Government Nutrition Assistance"](https://www.sciencedirect.com/science/article/abs/pii/S0167268117302330) with Lorenzo Almada, **Journal of Economic Behavior and Organization**, 2017.<br style="line-height:0px;"/>
-<a href=https://www.sciencedirect.com/science/article/abs/pii/S0167268117302330><i class="fas fa-download"></i></a>
-<a href=https://scholar.google.com/scholar?hl=en&as_sdt=0%2C11&q=%22It%27s+a+Cruel+Summer%3A+Household+Responses+to+Reductions+in+Government+Nutrition+Assistance%22&btnG=><i class="ai ai-google-scholar"></i></a>
-<a href=https://youtu.be/gQ6OdyAwIV4><i class="fas fa-video"></i></a>
+["It's a Cruel Summer: Household Responses to Reductions in Government Nutrition Assistance"](https://www.sciencedirect.com/science/article/abs/pii/S0167268117302330) with Lorenzo Almada, **Journal of Economic Behavior and Organization**, 2017.<br>
+
+<a href=https://www.sciencedirect.com/science/article/abs/pii/S0167268117302330><i class="fas fa-download">**Download Paper**</i></a><br>
+<a href=https://scholar.google.com/scholar?hl=en&as_sdt=0%2C11&q=%22It%27s+a+Cruel+Summer%3A+Household+Responses+to+Reductions+in+Government+Nutrition+Assistance%22&btnG=><i class="ai ai-google-scholar">**Cite**</i></a><br>
+<a href=https://youtu.be/gQ6OdyAwIV4><i class="fas fa-video">**Video Abstract**</i></a>
 </span>
 
 

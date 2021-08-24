@@ -8,7 +8,7 @@ Below are recent talks, presentations, workshops, etc. Research presentations ar
 
 ------------------------------------------------------------------------
 <span class="talks">
-**Causal Inference with Panel Data**<br style="line-height:0px;"/>
+2021-08 **Causal Inference with Panel Data**<br>
 
 <a href="https://cdc202108.talks.ianmccarthyecon.com"><i class="fas fa-external-link-square-alt">Companion Site</i></a><br>
 <a href="https://github.com/imccart/202108-cdc-methodsworkshop"><i class="fab fa-github">GitHub Repo</i></a>

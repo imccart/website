@@ -2,4 +2,10 @@
    margin-bottom: 3cm;
 }
 
-a{text-decoration:none; border:none;}
+.talks {
+   margin-bottom: 3cm;
+   border-top: double;
+}
+
+
+

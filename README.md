@@ -4,7 +4,7 @@ This is the README file for my personal/academic website, built using Blogdown w
 
 Here are some very basic instructions for building your website in a similar fashion:<br>
 
-1. Install blogdown in R and update all packages. Blogdown has lots of dependencies so evertyhing needs to be updated.
+1. Install blogdown in R and update all packages. Blogdown has lots of dependencies so everything needs to be updated.
 
 2. Use blogdown to install hugo, blogdown::install_hugo()
 

@@ -109,6 +109,11 @@ enableEmoji = true
         url = "/programs/"
 
         [[languages.en.menu.main]]
-        name = "Contact"
+        name = "Talks"
         weight = 5
+        url = "/talks/"
+
+        [[languages.en.menu.main]]
+        name = "Contact"
+        weight = 6
         url = "/contact/"

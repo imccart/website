@@ -13,7 +13,6 @@ pygmentsstyle = "b2"
 pygmentscodefences = true
 pygmentscodefencesguesssyntax = true
 
-disqusShortname = "ianmccarthy"
 googleAnalytics = "UA-158371232-1"
 enableEmoji = true
 

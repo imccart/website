@@ -104,21 +104,16 @@ enableEmoji = true
         url = "/resources/"
 
         [[languages.en.menu.main]]
-        name = "Programs"
-        weight = 4
-        url = "/programs/"
-
-        [[languages.en.menu.main]]
         name = "Talks"
-        weight = 5
+        weight = 4
         url = "/talks/"
 
         [[languages.en.menu.main]]
         name = "Ramblings"
-        weight = 6
+        weight = 5
         url = "/posts/"
 
         [[languages.en.menu.main]]
         name = "Contact"
-        weight = 7
+        weight = 6
         url = "/contact/"

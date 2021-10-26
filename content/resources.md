@@ -9,6 +9,8 @@ I’m working to organize some of the publicly available datasets that I use mor
 
 - [Medicare Advantage](https://github.com/imccart/Medicare-Advantage)
 - [Healthcare Cost Report Information System](https://github.com/imccart/HCRIS)
+- [Physician Shared Patients](https://github.com/imccart/Physician-Shared-Patients)
+- [Insurance and Medicaid Expansion](https://github.com/imccart/Insurance-Access)
 
 # Stata Commands
 Through some work with excellent mentors and co-authors [Daniel Millimet](https://faculty.smu.edu/millimet/) and [Rusty Tchernis](https://www.rustytchernis.com/), I've had an opportunity to help write a couple of Stata commands. Links and descriptions to these commands are below.

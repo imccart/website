@@ -20,7 +20,7 @@ Download my full CV [here](/files/mccarthy_cv.pdf), access my Google Scholar pag
 
 # Selected publications
 <span class="research">
-"Multimarket contact in health insurance: Evidence from Medicare Advantage" with Haizhen Lin, accepted at *Journal of Industrial Economics*. [NBER Working Paper 24486](https://www.nber.org/papers/w24486)
+"Multimarket contact in health insurance: Evidence from Medicare Advantage" with Haizhen Lin, accepted at **Journal of Industrial Economics**. [NBER Working Paper 24486](https://www.nber.org/papers/w24486)
 </span>
 
 ------------------------------------------------------------------------

@@ -10,7 +10,7 @@ Download my full CV [here](/files/mccarthy_cv.pdf), access my Google Scholar pag
 # Ongoing Projects
 
 <span class="research">
-2021-08 **How Efficient is the Market for Physician Referrals?**<br>
+**How Efficient is the Market for Physician Referrals?**<br>
 <a href="https://referrals-learning.research.ianmccarthyecon.com"><i class="fas fa-external-link-square-alt">**Companion Site**</i></a><br>
 <a href="https://github.com/imccart/referrals-and-learning"><i class="fab fa-github">**GitHub Repo**</i></a>
 </span>

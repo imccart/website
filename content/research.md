@@ -19,6 +19,12 @@ Download my full CV [here](/files/mccarthy_cv.pdf), access my Google Scholar pag
 
 
 # Selected publications
+<span class="research">
+"Multimarket contact in health insurance: Evidence from Medicare Advantage" with Haizhen Lin, accepted at *Journal of Industrial Economics*. [NBER Working Paper 24486](https://www.nber.org/papers/w24486)
+</span>
+
+------------------------------------------------------------------------
+
 
 <span class="research">
 ["Hospital Pricing Following Integration with Physician Practices"](https://www.sciencedirect.com/science/article/pii/S0167629621000291) with Haizhen Lin and Michael Richards, **Journal of Health Economics**, 2021<br>
@@ -144,10 +150,6 @@ Download my full CV [here](/files/mccarthy_cv.pdf), access my Google Scholar pag
 
 
 # Working papers
-<span class="research">
-"Multimarket contact in health insurance: Evidence from Medicare Advantage" with Haizhen Lin, resubmitted to *Journal of Industrial Economics*. [NBER Working Paper 24486](https://www.nber.org/papers/w24486)
-</span>
-
 <span class="research">
 "Owning the agent: Hospital influence on physician behaviors" with Haizhen Lin and Michael Richards, revise & resubmit at *RAND Journal of Economics*.  [NBER Working Paper 28859](https://www.nber.org/papers/w28859)
 </span>

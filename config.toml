@@ -21,7 +21,7 @@ enableEmoji = true
     description = "Personal website for Ian McCarthy"
     keywords = "research, personal"
     info1 = "Associate Professor of Economics, Emory University"
-    info2 = "Faculty Research Fellow, NBER"    
+    info2 = "Research Associate, NBER"    
     avatarurl = "images/mccarthy-headshot.jpg"
     footercontent = ""
 

@@ -15,8 +15,6 @@ Download my full CV [here](/files/mccarthy_cv.pdf), access my Google Scholar pag
 <a href="https://github.com/imccart/referrals-and-learning"><i class="fab fa-github">**GitHub Repo**</i></a>
 </span>
 
-------------------------------------------------------------------------
-
 
 # Selected publications
 <span class="research">

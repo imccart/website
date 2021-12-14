@@ -10,7 +10,7 @@ Since joining Emory University in 2014, I've had the opportunity to teach severa
 This is a Freshman Seminar focusing on current issues in U.S. health care. The class is organized around weekly podcasts and videos. This content helps to facilitate more detailed discussion throughout each class. I supplement this material with questions from students each week. I ask students to submit their questions in the first half of the week, and we use these questions to further advance our weekly discussions. 
 
 
-### [Econ 372 - Economics of Health Care Markets](https://econ372s21.classes.ianmccarthyecon.com/)
+### [Econ 372 - Economics of Health Care Markets](https://econ372s22.classes.ianmccarthyecon.com/)
 
 This is an elective economics course focusing on “supply side” health economics. The course examines the industrial organization of health care markets in the U.S., including underlying theory, empirical findings, and related health care policy. We study insurance markets, informational asymmetries between physicians and patients, as well as issues of hospital pricing and payments.
 

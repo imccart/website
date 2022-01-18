@@ -149,7 +149,7 @@ Download my full CV [here](/files/mccarthy_cv.pdf), access my Google Scholar pag
 
 # Working papers
 <span class="research">
-"Owning the agent: Hospital influence on physician behaviors" with Haizhen Lin and Michael Richards, revise & resubmit at *RAND Journal of Economics*.  [NBER Working Paper 28859](https://www.nber.org/papers/w28859)
+"Owning the agent: Hospital influence on physician behaviors" with Haizhen Lin and Michael Richards, *under review*.  [NBER Working Paper 28859](https://www.nber.org/papers/w28859)
 </span>
 
 

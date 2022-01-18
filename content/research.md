@@ -162,6 +162,10 @@ Download my full CV [here](/files/mccarthy_cv.pdf), access my Google Scholar pag
 "Online Reviews and Hospital Prices" with Kaylyn Sanbower and Leonardo Sánchez Aragón, *under review*
 </span>
 
+<span class="research">
+"Price Spillovers for Multi-product Firms: The Case of Specialty Hospitals" with Mehul V. Raval, *under review*
+</span>
+
 
 <span class="research">
 "Physician Affiliation and Hospital Production"

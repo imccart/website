@@ -48,13 +48,19 @@ It’s always nice to learn new things, freshen-up on things we thought we learn
 
 - [NBER Lectures](http://www.nber.org/SI_econometrics_lectures.html) are very well done and presented by the best in their respective fields.
 - Like the NBER Lectures, the [AEA Continiung Education](https://www.aeaweb.org/conference/cont-ed) webcasts are great for learning new methods, even if you couldn’t attend the pre-conference workshops.
+  - [Cross Section Econometrics](https://www.aeaweb.org/conference/cont-ed/2017-webcasts)
+  - [Mastering Mostly Harmless Econometrics](https://www.aeaweb.org/conference/cont-ed/2020-webcasts)
 - Want to learn Python like a secret government spy? Take a look at the [NSA's Python Course](https://archive.org/details/comp3321/mode/2up/search/device), made available by a freedom of information act request from [Chris Swenson](http://caswenson.com/).
 - Some free econometrics textbooks!
   - [Causal Inference: The Mixtape](http://scunning.com/mixtape.html) by Scott Cunningham
   - [Causal Inference Book](https://www.hsph.harvard.edu/miguel-hernan/causal-inference-book/) by Jamie Robin and Miguel Hernan
   - [Econometrics](https://www.ssc.wisc.edu/~bhansen/econometrics/) by Bruce Hansen
   - [Introductory Econometrics](https://github.com/NickCH-K/econometrics) class notes from Nick Huntington-Klein
-- For a great resource on `R` and lots of important data science topics, see Grant McDermott's [Data science for economists](https://github.com/uo-ec607/lectures) GitHub repository
+  - [Causal Inference for the Brave and True](https://matheusfacure.github.io/python-causality-handbook/landing-page.html)
+  - [Causal Inference: What If](https://www.hsph.harvard.edu/miguel-hernan/causal-inference-book/)
+- Resources for coding:
+  - [Coding for Economists](https://aeturrell.github.io/coding-for-economists/intro.html)
+  - For a great resource on `R` and lots of important data science topics, see Grant McDermott's [Data science for economists](https://github.com/uo-ec607/lectures) GitHub repository
 - Ever wish you had a central resource for lots of little commands and how to do things in different stats packages? Nick Huntington-Klein thought the same thing in his [Library of Statistical Techniques (LOST)](https://lost-stats.github.io/).
 
 

@@ -15,6 +15,15 @@ Download my full CV [here](/files/mccarthy_cv.pdf), access my Google Scholar pag
 <a href="https://github.com/imccart/referrals-and-learning"><i class="fab fa-github">**GitHub Repo**</i></a>
 </span>
 
+------------------------------------------------------------------------
+
+<span class="research">
+**Owning the Agent: Hospital Influence on Physician Behaviors**, with Seth Richards-Shubik<br>
+<a href="https://vi-treatment.research.ianmccarthyecon.com"><i class="fas fa-external-link-square-alt">**Companion Site**</i></a><br>
+<a href="https://github.com/imccart/vi-and-treatment"><i class="fab fa-github">**GitHub Repo**</i></a><br>
+<a href="https://www.nber.org/papers/w28859"><i class="fa-regular fa-memo-pad">**NBER Working Paper 28859**</i></a>
+</span>
+
 
 # Selected publications
 <span class="research">

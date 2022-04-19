@@ -11,17 +11,17 @@ Download my full CV [here](/files/mccarthy_cv.pdf), access my Google Scholar pag
 
 <span class="research">
 **How Efficient is the Market for Physician Referrals?**, with Seth Richards-Shubik<br>
-<a href="https://referrals-learning.research.ianmccarthyecon.com"><i class="fas fa-external-link-square-alt">**Companion Site**</i></a><br>
-<a href="https://github.com/imccart/referrals-and-learning"><i class="fab fa-github">**GitHub Repo**</i></a>
+<a href="https://referrals-learning.research.ianmccarthyecon.com"><i class="fas fa-external-link-square-alt"> **Companion Site**</i></a><br>
+<a href="https://github.com/imccart/referrals-and-learning"><i class="fab fa-github"> **GitHub Repo**</i></a>
 </span>
 
 ------------------------------------------------------------------------
 
 <span class="research">
 **Owning the Agent: Hospital Influence on Physician Behaviors**, with Seth Richards-Shubik<br>
-<a href="https://vi-treatment.research.ianmccarthyecon.com"><i class="fas fa-external-link-square-alt">**Companion Site**</i></a><br>
-<a href="https://github.com/imccart/vi-and-treatment"><i class="fab fa-github">**GitHub Repo**</i></a><br>
-<a href="https://www.nber.org/papers/w28859"><i class="icon: fas fa-memo-pad">**NBER Working Paper 28859**</i></a>
+<a href="https://vi-treatment.research.ianmccarthyecon.com"><i class="fas fa-external-link-square-alt"> **Companion Site**</i></a><br>
+<a href="https://github.com/imccart/vi-and-treatment"><i class="fab fa-github"> **GitHub Repo**</i></a><br>
+<a href="https://www.nber.org/papers/w28859"><i class="ai ai-obp"> **NBER Working Paper 28859**</i></a>
 </span>
 
 
@@ -35,7 +35,7 @@ Download my full CV [here](/files/mccarthy_cv.pdf), access my Google Scholar pag
 
 <span class="research">
 ["Hospital Pricing Following Integration with Physician Practices"](https://www.sciencedirect.com/science/article/pii/S0167629621000291) with Haizhen Lin and Michael Richards, **Journal of Health Economics**, 2021<br>
-<a href=https://www.sciencedirect.com/science/article/pii/S0167629621000291><i class="fas fa-download">**Download Paper**</i></a><br>
+<a href=https://www.sciencedirect.com/science/article/pii/S0167629621000291><i class="fas fa-download"> **Download Paper**</i></a><br>
 <a href=https://scholar.google.com/scholar?hl=en&as_sdt=0%2C11&q=Hospital+Pricing+Following+Integration+with+Physician+Practices&btnG=><i class="ai ai-google-scholar">**Cite**</i></a>
 </span>
 

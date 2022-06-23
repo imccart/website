@@ -26,7 +26,6 @@ Download my full CV [here](/files/mccarthy_cv.pdf), access my Google Scholar pag
 ------------------------------------------------------------------------
 <span class="research">
 **Decision Assistance and Insurer Steering in Health Insurance** with Evan Saltzman<br>
-<a href="https://aca-decision-support.research.ianmccarthyecon.com"><i class="fas fa-external-link-square-alt"> **Companion Site**</i></a><br>
 <a href="https://github.com/imccart/aca-decision-support"><i class="fab fa-github"> **GitHub Repo**</i></a>
 </span>
 

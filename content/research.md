@@ -92,7 +92,7 @@ Download my full CV [here](/files/mccarthy_cv.pdf), access my Google Scholar pag
 
 ------------------------------------------------------------------------
 <span class="research">
-["Quality Disclosure and the Timing of Insurers' Adjustments: Evidence from Medicare Advantage"](https://www.sciencedirect.com/science/article/abs/pii/S0167629617310433) **Journal of Health Economics**, 2018.<br>
+["Quality Disclosure and the Timing of Insurers' Adjustments: Evidence from Medicare Advantage,"](https://www.sciencedirect.com/science/article/abs/pii/S0167629617310433) **Journal of Health Economics**, 2018.<br>
 <a href=https://www.sciencedirect.com/science/article/abs/pii/S0167629617310433><i class="fas fa-download"> **Download Paper**</i></a><br>
 <a href=https://scholar.google.com/scholar?hl=en&as_sdt=0%2C11&q=%22Quality+Disclosure+and+the+Timing+of+Insurers%27+Adjustments%3A+Evidence+from+Medicare+Advantage%22&btnG=><i class="ai ai-google-scholar"> **Cite**</i></a>
 </span>
@@ -127,7 +127,7 @@ Download my full CV [here](/files/mccarthy_cv.pdf), access my Google Scholar pag
 
 ------------------------------------------------------------------------
 <span class="research">
-["Eliminating Composite Bias in Treatment Effects Estimates: Applications to Quality of Life Assessments"](https://www.sciencedirect.com/science/article/abs/pii/S0167629616302041), **Journal of Health Economics**, 2016.<br>
+["Eliminating Composite Bias in Treatment Effects Estimates: Applications to Quality of Life Assessments,"](https://www.sciencedirect.com/science/article/abs/pii/S0167629616302041) **Journal of Health Economics**, 2016.<br>
 <a href=https://www.sciencedirect.com/science/article/abs/pii/S0167629616302041><i class="fas fa-download"> **Download Paper**</i></a><br>
 <a href=https://scholar.google.com/scholar?hl=en&as_sdt=0%2C11&q=%22Eliminating+Composite+Bias+in+Treatment+Effects+Estimates%3A+Applications+to+Quality+of+Life+Assessments%22&btnG=><i class="ai ai-google-scholar"> **Cite**</i></a>
 </span>
@@ -143,7 +143,7 @@ Download my full CV [here](/files/mccarthy_cv.pdf), access my Google Scholar pag
 
 ------------------------------------------------------------------------
 <span class="research">
-["Advertising Intensity and Welfare in an Equilibrium Search Model"](https://www.sciencedirect.com/science/article/abs/pii/S0165176516300064), **Economics Letters**, 2016.<br>
+["Advertising Intensity and Welfare in an Equilibrium Search Model,"](https://www.sciencedirect.com/science/article/abs/pii/S0165176516300064) **Economics Letters**, 2016.<br>
 <a href=https://www.sciencedirect.com/science/article/abs/pii/S0165176516300064><i class="fas fa-download"> **Download Paper**</i></a><br>
 <a href=https://scholar.google.com/scholar?hl=en&as_sdt=0%2C11&q=%22Advertising+Intensity+and+Welfare+in+an+Equilibrium+Search+Model%22&btnG=><i class="ai ai-google-scholar"> **Cite**</i></a>
 </span>
@@ -159,7 +159,7 @@ Download my full CV [here](/files/mccarthy_cv.pdf), access my Google Scholar pag
 
 ------------------------------------------------------------------------
 <span class="research">
-["Putting the Patient in Patient Reported Outcomes: A Robust Methodology for Health Outcomes Assessment"](https://onlinelibrary.wiley.com/doi/full/10.1002/hec.3113), **Health Economics**, 2015.<br>
+["Putting the Patient in Patient Reported Outcomes: A Robust Methodology for Health Outcomes Assessment,"](https://onlinelibrary.wiley.com/doi/full/10.1002/hec.3113) **Health Economics**, 2015.<br>
 <a href=https://onlinelibrary.wiley.com/doi/full/10.1002/hec.3113><i class="fas fa-download"> **Download Paper**</i></a><br>
 <a href=https://scholar.google.com/scholar?hl=en&as_sdt=0%2C11&q=%22Putting+the+Patient+in+Patient+Reported+Outcomes%3A+A+Robust+Methodology+for+Health+Outcomes+Assessment%22&btnG=><i class="ai ai-google-scholar"> **Cite**</i></a>
 </span>

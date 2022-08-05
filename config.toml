@@ -98,9 +98,9 @@ enableEmoji = true
         url = "/teaching/"
 
         [[languages.en.menu.main]]
-        name = "Resources"
+        name = "Service"
         weight = 3
-        url = "/resources/"
+        url = "/service/"
 
         [[languages.en.menu.main]]
         name = "Talks"
@@ -113,6 +113,11 @@ enableEmoji = true
         url = "/posts/"
 
         [[languages.en.menu.main]]
-        name = "Contact"
+        name = "Resources"
         weight = 6
+        url = "/resources/"
+
+        [[languages.en.menu.main]]
+        name = "Contact"
+        weight = 7
         url = "/contact/"

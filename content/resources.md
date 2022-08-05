@@ -21,9 +21,10 @@ Through some work with excellent mentors and co-authors [Daniel Millimet](https:
 - [tebounds](https://www.stata-journal.com/article.html?article=st0386). This command implements several versions of Manski-type bounds for the average treatment effect in the case of a binary outcome and binary treatment. A particular advantage of these estimators is that they allow for potentially misreported and endogenous treatment status.
 
 
+<!---
 # Applied Empirical Micro Project
-I'm actively working on an "interactive" econometrics project, the goal of which is to organize a handful of common econometric issues in applied empirical micro. The working title of this project is [Navigating Empirical Methods](https://empiricalmethods.ianmccarthyecon.com). This resource is far from a comprehensive econometrics book, and the focus really isn't on covering the details of any specific estimator or methods. Rather, this will hopefully serve as a reference for the key things to keep in mind when implementing a given research design or estimation procedure, standard tests to consider, and alternative estimators (when relevant). I’m updating these things constantly as I find new information and correct my own misunderstanding. If you see something awry, please [let me know](mailto:ian.mccarthy@emory.edu)!
-
+I am (was) actively working on an "interactive" econometrics project, the goal of which is to organize a handful of common econometric issues in applied empirical micro. The working title of this project is [Navigating Empirical Methods](https://empiricalmethods.ianmccarthyecon.com). This resource is far from a comprehensive econometrics book, and the focus really isn't on covering the details of any specific estimator or methods. Rather, this will hopefully serve as a reference for the key things to keep in mind when implementing a given research design or estimation procedure, standard tests to consider, and alternative estimators (when relevant). I'm trying to update the
+-->
 
 # External data sources
 
@@ -62,6 +63,10 @@ It’s always nice to learn new things, freshen-up on things we thought we learn
   - [Coding for Economists](https://aeturrell.github.io/coding-for-economists/intro.html)
   - For a great resource on `R` and lots of important data science topics, see Grant McDermott's [Data science for economists](https://github.com/uo-ec607/lectures) GitHub repository
 - Ever wish you had a central resource for lots of little commands and how to do things in different stats packages? Nick Huntington-Klein thought the same thing in his [Library of Statistical Techniques (LOST)](https://lost-stats.github.io/).
+- Resources for specific estimators and research designs:
+  - [The DiD Project](https://asjadnaqvi.github.io/DiD/). An up-to-date compilation of code, literature, and accessible blog/video posts from [Asjad Naqvi](https://asjadnaqvi.github.io/)
+  - [RD Designs and Packages](https://rdpackages.github.io/). Comprehensive set of RD tools and links to the most recent literature from [Matias Cattaneo](https://cattaneo.princeton.edu/) and team.
+  - [Nonparametric and Semiparametric Methods](https://nppackages.github.io/). Another great set of tools for implementing nonparametric and semiparametric methods in program evaluation from [Matias Cattaneo](https://cattaneo.princeton.edu/) and team.
 
 
 # Writing and presenting like an academic

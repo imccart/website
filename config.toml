@@ -108,7 +108,7 @@ enableEmoji = true
         url = "/talks/"
 
         [[languages.en.menu.main]]
-        name = "Ramblings"
+        name = "Thoughts"
         weight = 5
         url = "/posts/"
 

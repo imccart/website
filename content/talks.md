@@ -32,3 +32,12 @@ These are the slides for a talk I did at Oxford College on U.S. health care and 
 
 <a href="https://extras.talks.ianmccarthyecon.com/oxford-hospital-pricing.html"><i class="icon: fas fa-chalkboard-teacher">**Slides**</i></a>
 </span>
+
+
+------------------------------------------------------------------------
+<span class="talks">
+2022-08 **Presentation on Health Economics and Emory**<br>
+These are the slides for a talk with Emory Alumni on U.S. health care, hospital pricing, and health economics at Emory<br>
+
+<a href="https://extras.talks.ianmccarthyecon.com/emory-alumni-2022.html"><i class="icon: fas fa-chalkboard-teacher">**Slides**</i></a>
+</span>

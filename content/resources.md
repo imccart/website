@@ -11,6 +11,7 @@ I’m working to organize some of the publicly available datasets that I use mor
 - [Healthcare Cost Report Information System](https://github.com/imccart/HCRIS)
 - [Physician Shared Patients](https://github.com/imccart/Physician-Shared-Patients)
 - [Insurance and Medicaid Expansion](https://github.com/imccart/Insurance-Access)
+- [Provider of Services Files](https://github.com/imccart/cms-pos)
 
 
 # Stata Commands

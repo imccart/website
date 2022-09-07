@@ -67,7 +67,7 @@ It’s always nice to learn new things, freshen-up on things we thought we learn
   - [The DiD Project](https://asjadnaqvi.github.io/DiD/). An up-to-date compilation of code, literature, and accessible blog/video posts from [Asjad Naqvi](https://asjadnaqvi.github.io/)
   - [RD Designs and Packages](https://rdpackages.github.io/). Comprehensive set of RD tools and links to the most recent literature from [Matias Cattaneo](https://cattaneo.princeton.edu/) and team.
   - [Nonparametric and Semiparametric Methods](https://nppackages.github.io/). Another great set of tools for implementing nonparametric and semiparametric methods in program evaluation from [Matias Cattaneo](https://cattaneo.princeton.edu/) and team.
-
+  - [Clustering and inference in DD](https://drive.google.com/file/d/1wma5x8-6NvGbjd5SgN1_zwVVaDmXa2Kb/view). Nice flow chart suggesting the appropriate method for inference with different numbers of treated or control group.
 
 # Writing and presenting like an academic
 

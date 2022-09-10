@@ -7,6 +7,7 @@ I am an associate professor of economics at Emory University and a research asso
 
 Download my full CV [here](/files/mccarthy_cv.pdf), access my Google Scholar page [here](https://scholar.google.com/citations?user=zRCE7V0AAAAJ&hl=en), and access my RePec profile [here](https://ideas.repec.org/f/pmc207.html).
 
+
 # Ongoing Projects
 
 <span class="research">
@@ -26,14 +27,6 @@ Download my full CV [here](/files/mccarthy_cv.pdf), access my Google Scholar pag
 
 ------------------------------------------------------------------------
 <span class="research">
-**Decision Assistance and Insurer Steering in Health Insurance** with Evan Saltzman<br>
-<a href="https://github.com/imccart/aca-decision-support"><i class="fab fa-github"> **GitHub Repo**</i></a>
-</span>
-
-
-
-------------------------------------------------------------------------
-<span class="research">
 **Owning the Agent: Hospital Influence on Physician Behaviors** with Haizhen Lin and Michael Richards<br>
 <a href="https://physician-hospital-vi.research.ianmccarthyecon.com"><i class="fas fa-external-link-square-alt"> **Companion Site**</i></a><br>
 <a href="https://github.com/imccart/physician-hospital-vi"><i class="fab fa-github"> **GitHub Repo**</i></a><br>
@@ -42,24 +35,28 @@ Download my full CV [here](/files/mccarthy_cv.pdf), access my Google Scholar pag
 
 
 ------------------------------------------------------------------------
-
 <span class="research">
-**Who pays in pay-for-performance? Evidence from hospital pricing** with Eric Barrette and Michael Darden<br>
-<a href="https://github.com/imccart/pfp-and-pricing"><i class="fab fa-github"> **GitHub Repo**</i></a><br>
-<a href="https://www.nber.org/papers/w24304"><i class="ai ai-obp"> **NBER Working Paper 24304**</i></a>
+**Online Reviews and Hospital Markets** with Kaylyn Sanbower and Leonardo Sánchez Aragón<br>
 </span>
 
 
 ------------------------------------------------------------------------
-
 <span class="research">
-**Online Reviews and Hospital Markets** with Kaylyn Sanbower and Leonardo Sánchez Aragón<br>
+**Decision Assistance and Insurer Steering in Health Insurance** with Evan Saltzman<br>
+<a href="https://github.com/imccart/aca-decision-support"><i class="fab fa-github"> **GitHub Repo**</i></a>
 </span>
 
 
 
 
 # Selected publications
+
+<span class="research">
+"Who pays in pay-for-performance? Evidence from hospital prices and financial penalties" with Eric Barrette and Michael Darden, accepted at **American Journal of Health Economics**. [NBER Working Paper 24304](https://www.nber.org/papers/w24304)
+</span>
+
+------------------------------------------------------------------------
+
 <span class="research">
 "Multimarket contact in health insurance: Evidence from Medicare Advantage" with Haizhen Lin, accepted at **Journal of Industrial Economics**. [NBER Working Paper 24486](https://www.nber.org/papers/w24486)
 </span>

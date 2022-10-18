@@ -111,3 +111,9 @@ There are so many incredible things that people are doing in applied econometric
 - An `R` package for specification curves, [rdfanalysis](https://github.com/joachim-gassen/rdfanalysis)
 - Really fast regression with fixed effects in `R`, [fixest](https://cran.r-project.org/web/packages/fixest/index.html)
 - `R` package for sensitivity analysis of OLS and IV (sensitivity meaning sensitivity to unobserved confounders), [sensemakr](https://cran.r-project.org/web/packages/sensemakr/index.html)
+
+
+# For graduate students
+
+Getting started with research can be challenging. How do you develop an initial question? How do you convert this question into a paper? How do you know when to stop pursuing a question and move on to another idea? How do you take care of yourself given the stresses of the research process and the inherent rejection of it all? There are lots of resources that can help in these areas, and here's a site that has many of these resources in one place:
+- [Advice for PhD Students in Economics](https://sites.google.com/view/econgradadvice/)

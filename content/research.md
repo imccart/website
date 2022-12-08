@@ -22,6 +22,7 @@ Download my full CV [here](/files/mccarthy_cv.pdf), access my Google Scholar pag
 **Price Spillovers for Multi-product Firms: The Case of Specialty Hospitals** with Mehul V. Raval<br>
 <a href="https://ch-spillovers.research.ianmccarthyecon.com"><i class="fas fa-external-link-square-alt"> **Companion Site**</i></a><br>
 <a href="https://github.com/imccart/ch-spillovers"><i class="fab fa-github"> **GitHub Repo**</i></a><br>
+<a href="https://www.nber.org/papers/w30425"><i class="ai ai-obp"> **NBER Working Paper 30425**</i></a>
 </span>
 
 

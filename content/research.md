@@ -37,7 +37,7 @@ Download my full CV [here](/files/mccarthy_cv.pdf), access my Google Scholar pag
 
 ------------------------------------------------------------------------
 <span class="research">
-**Online Reviews and Hospital Markets** with Kaylyn Sanbower and Leonardo Sánchez Aragón<br>
+**Online Reviews and Hospital Choices** with Kaylyn Sanbower and Leonardo Sánchez Aragón<br>
 </span>
 
 

@@ -6,38 +6,10 @@ title: Talks
 Below are recent talks, presentations, workshops, etc. Research presentations are typically contained in their own project repositories with links below. Most other presentations are part of a broad "extras" repository, available [here](https://extras.talks.ianmccarthyecon.com/) as a site and [here](https://github.com/imccart/extra-presentations) as a raw github repo.
 
 
-------------------------------------------------------------------------
-<span class="talks">
-2021-08 **Causal Inference with Panel Data**<br>
-This is a half-day workshop I led for the CDC. It focuses on difference-in-differences (DD) and presents some code for more recent DD estimators.
+- 2021-08 [Causal Inference with Panel Data](https://cdc202108.talks.ianmccarthyecon.com). This is a half-day workshop I led for the CDC. It focuses on difference-in-differences (DD) and presents some code for more recent DD estimators.
 
-<a href="https://cdc202108.talks.ianmccarthyecon.com"><i class="fas fa-external-link-square-alt">**Companion Site**</i></a><br>
-<a href="https://github.com/imccart/202108-cdc-methodsworkshop"><i class="fab fa-github">**GitHub Repo**</i></a>
-</span>
+- 2021-06 [Personal Introduction to the CBO](https://extras.talks.ianmccarthyecon.com/cbo-20210615.html). I am a visiting scholar with the Congressional Budget Office (CBO), starting in the Fall of 2021. As part of this position, I gave a few short "getting to know me" presentations to different CBO groups.
 
+- 2022-03 [Presentation on U.S. Health Care and Pricing](https://extras.talks.ianmccarthyecon.com/oxford-hospital-pricing.html). These are the slides for a talk I did at Oxford College on U.S. health care and hospital pricing
 
-------------------------------------------------------------------------
-<span class="talks">
-2021-06 **Personal Introduction to the CBO**<br>
-I am a visiting scholar with the Congressional Budget Office (CBO) during the Fall of 2021. As part of this position, I gave a few short "getting to know me" presentations to different CBO groups.<br>
-
-<a href="https://extras.talks.ianmccarthyecon.com/cbo-20210615.html"><i class="icon: fas fa-chalkboard-teacher">**Slides**</i></a>
-</span>
-
-
-------------------------------------------------------------------------
-<span class="talks">
-2022-03 **Presentation on U.S. Health Care and Pricing**<br>
-These are the slides for a talk I did at Oxford College on U.S. health care and hospital pricing<br>
-
-<a href="https://extras.talks.ianmccarthyecon.com/oxford-hospital-pricing.html"><i class="icon: fas fa-chalkboard-teacher">**Slides**</i></a>
-</span>
-
-
-------------------------------------------------------------------------
-<span class="talks">
-2022-08 **Presentation on Health Economics and Emory**<br>
-These are the slides for a talk with Emory Alumni on U.S. health care, hospital pricing, and health economics at Emory<br>
-
-<a href="https://extras.talks.ianmccarthyecon.com/emory-alumni-2022.html"><i class="icon: fas fa-chalkboard-teacher">**Slides**</i></a>
-</span>
+- 2022-08 [Presentation on Health Economics and Emory](https://extras.talks.ianmccarthyecon.com/emory-alumni-2022.html). These are the slides for a talk with Emory Alumni on U.S. health care, hospital pricing, and health economics at Emory

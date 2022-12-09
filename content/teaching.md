@@ -12,13 +12,13 @@ This is a Freshman Seminar focusing on current issues in U.S. health care. The c
 
 
 ------------------------------------------------------------------------
-### [Econ 372 - Economics of Health Care Markets](https://econ372s22.classes.ianmccarthyecon.com/)
+### [Econ 372 - Economics of Health Care Markets](https://econ372s23.classes.ianmccarthyecon.com/)
 
 This is an elective economics course focusing on “supply side” health economics. The course examines the industrial organization of health care markets in the U.S., including underlying theory, empirical findings, and related health care policy. We study insurance markets, informational asymmetries between physicians and patients, as well as issues of hospital pricing and payments.
 
 
 ------------------------------------------------------------------------
-### [Econ/HLTH 470 - Research in Health Economics](https://econ470s22.classes.ianmccarthyecon.com/)
+### [Econ/HLTH 470 - Research in Health Economics](https://econ470s23.classes.ianmccarthyecon.com/)
 
 This is the capstone course for the joint major in Economics and Human Health. The course effectively combines health economics and human health content with data science. The course is therefore heavily applied in nature. Students complete an empirical research project using raw data and employ econometric methods to analyze a research question relevant to contemporary health care issues and/or health policy. The content of the course is split into three general areas: 1) data management in the real world; 2) health policy and health care institutions; and 3) empirical methods in program evaluation and causal inference. Each area of the course will be covered by way of an example research question, which is intended to help guide students in their own projects throughout the semester.
 

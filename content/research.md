@@ -49,7 +49,7 @@ Download my full CV [here](/files/mccarthy_cv.pdf), access my Google Scholar pag
 
 ------------------------------------------------------------------------
 
-"Multimarket contact in health insurance: Evidence from Medicare Advantage" with Haizhen Lin, **Journal of Industrial Economics**, 2023
+["Multimarket contact in health insurance: Evidence from Medicare Advantage"](http://doi.org/10.1111/joie.12318) with Haizhen Lin, **Journal of Industrial Economics**, 2023
 - [NBER Working Paper 24486](https://www.nber.org/papers/w24486)
 - [Published Version](http://doi.org/10.1111/joie.12318)
 

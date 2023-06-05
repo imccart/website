@@ -11,14 +11,12 @@ Download my full CV [here](/files/mccarthy_cv.pdf), access my Google Scholar pag
 # Ongoing Projects
 
 **How Efficient is the Market for Physician Referrals?** with Seth Richards-Shubik
-- [Companion Site](https://referrals-learning.research.ianmccarthyecon.com)
 - [GitHub Repo](https://github.com/imccart/referrals-and-learning)
 
 
 ------------------------------------------------------------------------
 
 **Price Spillovers for Multi-product Firms: The Case of Specialty Hospitals** with Mehul V. Raval
-- [Companion Site](https://ch-spillovers.research.ianmccarthyecon.com)
 - [GitHub Repo](https://github.com/imccart/ch-spillovers)
 - [NBER Working Paper](https://www.nber.org/papers/w30425)
 
@@ -27,7 +25,6 @@ Download my full CV [here](/files/mccarthy_cv.pdf), access my Google Scholar pag
 ------------------------------------------------------------------------
 
 **Owning the Agent: Hospital Influence on Physician Behaviors** with Haizhen Lin and Michael Richards
-- [Companion Site](https://physician-hospital-vi.research.ianmccarthyecon.com)
 - [GitHub Repo](https://github.com/imccart/physician-hospital-vi)
 - [NBER Working Paper](https://www.nber.org/papers/w28859)
 

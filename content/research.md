@@ -20,6 +20,11 @@ Download my full CV [here](/files/mccarthy_cv.pdf), access my Google Scholar pag
 - [GitHub Repo](https://github.com/imccart/ch-spillovers)
 - [NBER Working Paper](https://www.nber.org/papers/w30425)
 
+*Presentations*
+- [Emory Presentation, October 2019](https://imccart.github.io/ch-spillovers/presentations/Emory201910/McCarthy-Childrens-Hospitals-Slides.pdf). I presented some very early summary statistics related to this project as part of an internal brown bag at Emory.
+- [ASHEcon Presentation, June 2022](https://imccart.github.io/ch-spillovers/presentations/ashecon-202206.html). I presented the paper as part of the 2022 ASHEcon Annual Conference in Austin, TX. 
+
+
 
 
 ------------------------------------------------------------------------
@@ -27,6 +32,18 @@ Download my full CV [here](/files/mccarthy_cv.pdf), access my Google Scholar pag
 **Owning the Agent: Hospital Influence on Physician Behaviors** with Haizhen Lin and Michael Richards
 - [GitHub Repo](https://github.com/imccart/physician-hospital-vi)
 - [NBER Working Paper](https://www.nber.org/papers/w28859)
+
+*Presentations*
+- [Emory University, Economics Lunch and Learn, 2018](https://imccart.github.io/physician-hospital-vi/presentations/emory-lunchandlearn-2018/McCarthy Physician VI Slides.pdf)
+- [Emory University, Rollins School of Public Health, 2018](https://imccart.github.io/physician-hospital-vi/presentations/emory-rollins-2018/McCarthy Physician VI Slides.pdf)
+- [John's Hopkins University, 2018](https://imccart.github.io/physician-hospital-vi/presentations/jhu-2018/JHU_Slides_169.pdf)
+- [George Washington University, 2018](https://imccart.github.io/physician-hospital-vi/presentations/gwu-2018/McCarthy Physician VI Slides.pdf)
+- [University of Nevada, Las Vegas, 2018](https://imccart.github.io/physician-hospital-vi/presentations/unlv-2018/McCarthy Physician VI Slides.pdf)
+- [Indiana University/Purdue University, 2019](https://imccart.github.io/physician-hospital-vi/presentations/iupui-2019/McCarthy Physician VI Slides.pdf)
+- [Indiana University, 2019](https://imccart.github.io/physician-hospital-vi/presentations/iu-2019/McCarthy Physician VI Slides.pdf)
+- [West Virginia University, 2019](https://imccart.github.io/physician-hospital-vi/presentations/wvu-2019/McCarthy Physician VI Slides.pdf)
+- [Southeastern Health Economics Study Group, 2019](https://imccart.github.io/physician-hospital-vi/presentations/shesg-2019/McCarthy Physician VI Slides.pdf)
+- [American Economic Association, 2020](https://imccart.github.io/physician-hospital-vi/presentations/aea-2020/McCarthy Physician VI Slides.pdf)
 
 
 ------------------------------------------------------------------------
@@ -36,7 +53,6 @@ Download my full CV [here](/files/mccarthy_cv.pdf), access my Google Scholar pag
 ------------------------------------------------------------------------
 **Decision Assistance and Insurer Steering in Health Insurance** with Evan Saltzman
 - [GitHub Repo](https://github.com/imccart/aca-decision-support)
-
 
 
 

@@ -30,20 +30,20 @@ Download my full CV [here](/files/mccarthy_cv.pdf), access my Google Scholar pag
 ------------------------------------------------------------------------
 
 **Owning the Agent: Hospital Influence on Physician Behaviors** with Haizhen Lin and Michael Richards
-- [GitHub Repo](https://github.com/imccart/physician-hospital-vi)
+- [GitHub Repo](https://github.com/imccart/physician-hospital-VI)
 - [NBER Working Paper](https://www.nber.org/papers/w28859)
 
 *Presentations*
-- [Emory University, Economics Lunch and Learn, 2018](https://imccart.github.io/physician-hospital-vi/presentations/emory-lunchandlearn-2018/McCarthy-Physician-VI-Slides.pdf)
-- [Emory University, Rollins School of Public Health, 2018](https://imccart.github.io/physician-hospital-vi/presentations/emory-rollins-2018/McCarthy-Physician-VI-Slides.pdf)
-- [John's Hopkins University, 2018](https://imccart.github.io/physician-hospital-vi/presentations/jhu-2018/JHU_Slides_169.pdf)
-- [George Washington University, 2018](https://imccart.github.io/physician-hospital-vi/presentations/gwu-2018/McCarthy-Physician-VI-Slides.pdf)
-- [University of Nevada, Las Vegas, 2018](https://imccart.github.io/physician-hospital-vi/presentations/unlv-2018/McCarthy-Physician-VI-Slides.pdf)
-- [Indiana University/Purdue University, 2019](https://imccart.github.io/physician-hospital-vi/presentations/iupui-2019/McCarthy-Physician-VI-Slides.pdf)
-- [Indiana University, 2019](https://imccart.github.io/physician-hospital-vi/presentations/iu-2019/McCarthy-Physician-VI-Slides.pdf)
-- [West Virginia University, 2019](https://imccart.github.io/physician-hospital-vi/presentations/wvu-2019/McCarthy-Physician-VI-Slides.pdf)
-- [Southeastern Health Economics Study Group, 2019](https://imccart.github.io/physician-hospital-vi/presentations/shesg-2019/McCarthy-Physician-VI-Slides.pdf)
-- [American Economic Association, 2020](https://imccart.github.io/physician-hospital-vi/presentations/aea-2020/McCarthy-Physician-VI-Slides.pdf)
+- [Emory University, Economics Lunch and Learn, 2018](https://imccart.github.io/physician-hospital-VI/presentations/emory-lunchandlearn-2018/McCarthy-Physician-VI-Slides.pdf)
+- [Emory University, Rollins School of Public Health, 2018](https://imccart.github.io/physician-hospital-VI/presentations/emory-rollins-2018/McCarthy-Physician-VI-Slides.pdf)
+- [John's Hopkins University, 2018](https://imccart.github.io/physician-hospital-VI/presentations/jhu-2018/JHU_Slides_169.pdf)
+- [George Washington University, 2018](https://imccart.github.io/physician-hospital-VI/presentations/gwu-2018/McCarthy-Physician-VI-Slides.pdf)
+- [University of Nevada, Las Vegas, 2018](https://imccart.github.io/physician-hospital-VI/presentations/unlv-2018/McCarthy-Physician-VI-Slides.pdf)
+- [Indiana University/Purdue University, 2019](https://imccart.github.io/physician-hospital-VI/presentations/iupui-2019/McCarthy-Physician-VI-Slides.pdf)
+- [Indiana University, 2019](https://imccart.github.io/physician-hospital-VI/presentations/iu-2019/McCarthy-Physician-VI-Slides.pdf)
+- [West Virginia University, 2019](https://imccart.github.io/physician-hospital-VI/presentations/wvu-2019/McCarthy-Physician-VI-Slides.pdf)
+- [Southeastern Health Economics Study Group, 2019](https://imccart.github.io/physician-hospital-VI/presentations/shesg-2019/McCarthy-Physician-VI-Slides.pdf)
+- [American Economic Association, 2020](https://imccart.github.io/physician-hospital-VI/presentations/aea-2020/McCarthy-Physician-VI-Slides.pdf)
 
 
 ------------------------------------------------------------------------

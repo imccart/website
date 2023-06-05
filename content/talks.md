@@ -3,7 +3,7 @@ slug: talks
 title: Talks
 ---
 
-Below are recent talks, presentations, workshops, etc. Research presentations are typically contained in their own project repositories with links below. Most other presentations are part of a broad "extras" repository, available [here](https://extras.talks.ianmccarthyecon.com/) as a site and [here](https://github.com/imccart/extra-presentations) as a raw github repo.
+Below are recent talks, presentations, workshops, etc. Research presentations are linked to each project on my [research](/research/) page. Most other presentations are part of a broad "extras" repository, available [here](https://extras.talks.ianmccarthyecon.com/) as a site and [here](https://github.com/imccart/extra-presentations) as a raw github repo.
 
 
 ## Workshops

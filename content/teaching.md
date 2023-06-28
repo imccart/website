@@ -12,7 +12,7 @@ This is a Freshman Seminar focusing on current issues in U.S. health care. The c
 
 
 ------------------------------------------------------------------------
-### [Econ 372 - Economics of Health Care Markets](https://econ372s23.classes.ianmccarthyecon.com/)
+### [Econ 372 - Economics of Health Care Markets](https://econ372f23.classes.ianmccarthyecon.com/)
 
 This is an elective economics course focusing on “supply side” health economics. The course examines the industrial organization of health care markets in the U.S., including underlying theory, empirical findings, and related health care policy. We study insurance markets, informational asymmetries between physicians and patients, as well as issues of hospital pricing and payments.
 

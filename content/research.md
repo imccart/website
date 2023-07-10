@@ -16,12 +16,6 @@ Download my full CV [here](/files/mccarthy_cv.pdf), access my Google Scholar pag
 
 ------------------------------------------------------------------------
 
-**Price Spillovers for Multi-product Firms: The Case of Specialty Hospitals** with Mehul V. Raval
-- [GitHub Repo](https://github.com/imccart/ch-spillovers)
-- [NBER Working Paper](https://www.nber.org/papers/w30425)
-
-------------------------------------------------------------------------
-
 **Owning the Agent: Hospital Influence on Physician Behaviors** with Haizhen Lin and Michael Richards
 - [GitHub Repo](https://github.com/imccart/physician-hospital-VI)
 - [NBER Working Paper](https://www.nber.org/papers/w28859)
@@ -37,7 +31,15 @@ Download my full CV [here](/files/mccarthy_cv.pdf), access my Google Scholar pag
 
 # Selected publications
 
-"Who pays in pay-for-performance? Evidence from hospital prices and financial penalties" with Eric Barrette and Michael Darden, accepted at **American Journal of Health Economics**. 
+------------------------------------------------------------------------
+
+["Price spillovers and specialization in health care: The case of children's hospitals"](http://doi.org/10.1002/hec.4734) with Mehul V. Raval, **Health Economics**, 2023
+- [GitHub Repo](https://github.com/imccart/ch-spillovers)
+- [NBER Working Paper](https://www.nber.org/papers/w30425)
+
+------------------------------------------------------------------------
+
+["Who pays in pay-for-performance? Evidence from hospital prices and financial penalties"](https://www.journals.uchicago.edu/doi/epdf/10.1086/723280) with Eric Barrette and Michael Darden, **American Journal of Health Economics**, 2023
 - [NBER Working Paper 24304](https://www.nber.org/papers/w24304)
 
 ------------------------------------------------------------------------

@@ -34,9 +34,6 @@ Below are recent talks, presentations, workshops, etc. Research presentations ar
 -   [ASHEcon, June 2023, Wu 2023](https://extras.talks.ianmccarthyecon.com/ashecon-2023-wu.html) Slides for discussion of *Origin of Physician Practice Variation: Role of Training and Clinical Trials* presented by Bingxiao Wu
 -   [ASHEcon, June 2023, Khvan 2023](https://extras.talks.ianmccarthyecon.com/ashecon-2023-khvan.html) Slides for discussion of *Role of Insurance in Monitoring Physician Fraud and Other Healthcare Delivery Crimes* presented by Margarita Khvan
 -   [ASHEcon, June 2023, Chang 2023](https://extras.talks.ianmccarthyecon.com/ashecon-2023-chang.html) Slides for discussion of *Effect of Critical Access Hospital Designation on Inpatient Prices in Employer-Sponsored Insurance* presented by Jessica Chang
-
-
-
-
+-   [MHEC, September 2023, Levin 2023](https://extras.talks.ianmccarthyecon.com/mhec-2023-levin.html) Slides for discussion of *If We (re)Build it, Will They Come? Evidence from California* presented by Zach Levin
 
 

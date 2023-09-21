@@ -2,6 +2,7 @@
 slug: research
 title: Research
 ---
+<script src="https://kit.fontawesome.com/2276195f7e.js" crossorigin="anonymous"></script>
 
 I am an associate professor of economics at Emory University and a research associate with the NBER. My research examines the effects of institutions, policies, and market structure on health care pricing and delivery. The majority of my ongoing work studies the relationship between hospitals and physicians and how this relationship may influence hospital production, pricing, and physician behaviors. My research also examines several aspects related to the Medicare Advantage market. In addition to issues of competitiveness, pricing, and network formation, my research on Medicare Advantage often relates to literature on the economics of information, where my coauthors and I examine how consumers and firms respond to changes in available plan information (i.e., quality disclosure).
 
@@ -11,6 +12,8 @@ Download my full CV [here](/files/mccarthy_cv.pdf), access my Google Scholar pag
 # Ongoing Projects
 
 **How Efficient is the Market for Physician Referrals?** with Seth Richards-Shubik
+<i class="fab fa-github">
+
 <img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/github.svg">
 <a href="https://github.com/imccart/referrals-and-learning"></a>
 

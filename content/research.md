@@ -11,9 +11,7 @@ Download my full CV [here](/files/mccarthy_cv.pdf), access my Google Scholar pag
 # Ongoing Projects
 
 **How Efficient is the Market for Physician Referrals?** with Seth Richards-Shubik
-<a href="https://github.com/imccart/referrals-and-learning" aria-label="GitHub">
-<i class="fab fa-github" aria-hidden="true"></i>
-</a>
+<a href="https://github.com/imccart/referrals-and-learning"><img src="https://github.com/FortAwesome/Font-Awesome/blob/6.x/svgs/brands/github.svg" width="50" height="50"></a>
 
 
 ------------------------------------------------------------------------

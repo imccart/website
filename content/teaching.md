@@ -24,7 +24,7 @@ This is the capstone course for the joint major in Economics and Human Health. T
 
 
 ------------------------------------------------------------------------
-### [Econ 771 - Health Economics II](https://econ771f22.classes.ianmccarthyecon.com/)
+### [Econ 771 - Health Economics II](https://econ771s24.classes.ianmccarthyecon.com/)
 
 This is a PhD course in supply side health economics. This course explores the industrial organization of healthcare markets in the U.S., focusing on the following areas: hospital ownership and production, physician agency, quality and price disclosure, and hospital competition. If we have time, we will briefly cover some issues on health insurance markets. The class is effectively designed as a combination of empirical IO and causal inference, with applications to healthcare. As such, we will also examine several econometric tools and causal inference identification strategies. These methods will be introduced as needed throughout the course. Another goal of the class is to gain exposure to publicly available datasets for studying supply-side health economics issues, so we will work with several raw data sources throughout the semester.
 

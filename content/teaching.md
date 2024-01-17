@@ -20,13 +20,13 @@ This is an elective economics course focusing on “supply side” health econom
 ------------------------------------------------------------------------
 ### [Econ/HLTH 470 - Research in Health Economics](https://econ470s24.classes.ianmccarthyecon.com/)
 
-This is the capstone course for the joint major in Economics and Human Health. The course effectively combines health economics and human health content with data science. The course is therefore heavily applied in nature. Students complete an empirical research project using raw data and employ econometric methods to analyze a research question relevant to contemporary health care issues and/or health policy. The content of the course is split into three general areas: 1) data management in the real world; 2) health policy and health care institutions; and 3) empirical methods in program evaluation and causal inference. Each area of the course will be covered by way of an example research question, which is intended to help guide students in their own projects throughout the semester.
+This is the capstone course for the joint major in Economics and Human Health. The course effectively combines health economics and human health content with data science. Using real-world data, we explore four research questions throughout the semester, each exemplifying a different research design.
 
 
 ------------------------------------------------------------------------
 ### [Econ 771 - Health Economics II](https://econ771s24.classes.ianmccarthyecon.com/)
 
-This is a PhD course in supply side health economics. This course explores the industrial organization of healthcare markets in the U.S., focusing on the following areas: hospital ownership and production, physician agency, quality and price disclosure, and hospital competition. If we have time, we will briefly cover some issues on health insurance markets. The class is effectively designed as a combination of empirical IO and causal inference, with applications to healthcare. As such, we will also examine several econometric tools and causal inference identification strategies. These methods will be introduced as needed throughout the course. Another goal of the class is to gain exposure to publicly available datasets for studying supply-side health economics issues, so we will work with several raw data sources throughout the semester.
+This is a PhD course in supply side health economics. This course explores the industrial organization of healthcare markets in the U.S., focusing on health insurance, physician agency, healthcare pricing and competition, information disclosure, physician learning, and waste.
 
 
 ------------------------------------------------------------------------

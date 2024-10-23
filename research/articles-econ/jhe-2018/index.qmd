@@ -1,0 +1,24 @@
+---
+title: "Quality disclosure and the timing of insurers’ adjustments: Evidence from medicare advantage"
+date: 2018-07-11
+author:
+  - name: Ian McCarthy
+    url: https://www.ianmccarthyecon.com/
+    orcid: 0000-0001-7942-3468
+    affiliation: Department of Economics, Emory University
+categories: 
+  - Health insurance
+  - Health care pricing
+  - Quality disclosure
+pub-info:
+  reference: >-
+    <strong>Ian McCarthy</strong>. 2018. “Quality disclosure and the timing of insurers’ adjustments: Evidence from medicare advantage,” <em>Journal of Health Economics</em> 61:13-26. doi: <a href="https://doi.org/10.1016/j.jhealeco.2018.06.007"><code>10.1016/j.jhealeco.2018.06.007</code></a>
+  links:
+    - name: Final version
+      url: https://doi.org/10.1016/j.jhealeco.2018.06.007
+      icon: fa-solid fa-scroll
+    - name: Add to Zotero
+      url: https://www.zotero.org/save?type=doi&q=10.1016/j.jhealeco.2018.06.007
+      icon: ai ai-zotero
+doi: 10.1016/j.jhealeco.2018.06.007
+---

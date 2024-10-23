@@ -1,0 +1,32 @@
+---
+title: "Multimarket Contact in Health Insurance: Evidence from Medicare Advantage"
+date: 2023-04-05
+author:
+  - name: Haizhen Lin
+    url: https://host.kelley.iu.edu/hzlin/
+    affiliation: Kelley School of Business, Indiana University
+  - name: Ian McCarthy
+    url: https://www.ianmccarthyecon.com/
+    orcid: 0000-0001-7942-3468
+    affiliation: Department of Economics, Emory University
+categories: 
+  - Health insurance 
+  - Health care pricing
+pub-info:
+  reference: >-
+    Haizhen Lin and <strong>Ian McCarthy</strong>. 2023. “Multimarket Contact in Health Insurance: Evidence from Medicare Advantage,” <em>Journal of Industrial Economics</em> 71(1):212-55. doi: <a href="https://doi.org/10.1111/joie.12318"><code>10.1111/joie.12318</code></a>
+  links:
+    - name: Preprint
+      url: "https://www.nber.org/papers/w30425"
+      icon: fa-solid fa-file-pdf
+    - name: Final version
+      url: https://doi.org/10.1111/joie.12318
+      icon: fa-solid fa-scroll
+    - name: Code
+      url: https://github.com/imccart/ch-spillovers
+      icon: fa-brands fa-github
+    - name: Add to Zotero
+      url: https://www.zotero.org/save?type=doi&q=10.1111/joie.12318
+      icon: ai ai-zotero
+doi: 10.1111/joie.12318
+---

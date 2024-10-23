@@ -1,0 +1,30 @@
+---
+title: "Hospital Pricing Following Integration with Physician Practices"
+date: 2021-03-27
+author:
+  - name: Haizhen Lin
+    url: https://host.kelley.iu.edu/hzlin/
+    affiliation: Kelley School of Business, Indiana University
+  - name: Ian McCarthy
+    url: https://www.ianmccarthyecon.com/
+    orcid: 0000-0001-7942-3468
+    affiliation: Department of Economics, Emory University
+  - name: Michael Richards
+    url: https://michaelrichards.yourwebsitespace.com/
+    affiliation: Brooks School of Public Policy, Cornell University
+categories: 
+  - Hospitals
+  - Health care pricing
+  - Vertical integration
+pub-info:
+  reference: >-
+    Haizhen Lin, <strong>Ian McCarthy</strong>, and Michael Richards. 2021. “Hospital Pricing Following Integration with Physician Practices,” <em>Journal of Health Economics</em> 77. doi: <a href="https://doi.org/10.1016/j.jhealeco.2021.102444"><code>10.1016/j.jhealeco.2021.102444</code></a>
+  links:
+    - name: Final version
+      url: https://doi.org/10.1016/j.jhealeco.2021.102444
+      icon: fa-solid fa-scroll
+    - name: Add to Zotero
+      url: https://www.zotero.org/save?type=doi&q=10.1016/j.jhealeco.2021.102444
+      icon: ai ai-zotero
+doi: 10.1016/j.jhealeco.2021.102444
+---

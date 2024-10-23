@@ -1,0 +1,28 @@
+---
+title: "Supply-Side Responses to Public Quality Ratings: Evidence from Medicare Advantage"
+date: 2017-04-01
+author:
+  - name: Ian McCarthy
+    url: https://www.ianmccarthyecon.com/
+    orcid: 0000-0001-7942-3468
+    affiliation: Department of Economics, Emory University
+  - name: Michael Darden
+    url: https://www.medarden.com/
+    affiliation: Carey School of Business, Johns Hopkins University
+categories: 
+  - Quality disclosure
+  - Health insurance
+  - Health care pricing
+pub-info:
+  reference: >-
+    <strong>Ian McCarthy</strong> and Michael Darden. 2017. “Supply-Side Responses to Public Quality Ratings: Evidence from Medicare Advantage,” <em>American Journal of Health Economics</em> 3(2):140-64. doi: <a href="https://doi.org/10.1162/AJHE_a_00070"><code>10.1162/AJHE_a_00070</code></a>
+  links:
+    - name: Final version
+      url: https://doi.org/10.1162/AJHE_a_00070
+      icon: fa-solid fa-scroll
+    - name: Add to Zotero
+      url: https://www.zotero.org/save?type=doi&q=10.1162/AJHE_a_00070
+      icon: ai ai-zotero
+doi: 10.1162/AJHE_a_00070
+---
+

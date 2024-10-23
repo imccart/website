@@ -1,0 +1,67 @@
+---
+title: "Price Spillovers and Specialization in Health Care: The Case of Children's Hospitals"
+date: 2023-07-08
+author:
+  - name: Ian McCarthy
+    url: https://www.ianmccarthyecon.com/
+    orcid: 0000-0001-7942-3468
+    affiliation: Department of Economics, Emory University
+  - name: Mehul Raval
+    url: https://www.luriechildrens.org/en/doctors/raval-mehul-v/
+    affiliation: Feinberg School of Medicine, Northwestern University
+categories: 
+  - Hospitals 
+  - Discrete choice
+  - Health care pricing
+pub-info:
+  reference: >-
+    <strong>Ian McCarthy</strong> and Mehul Raval. 2023. “Price Spillovers and Specialization in Health Care: The Case of Children's Hospitals,” <em>Health Economics</em> 32:2408-23. doi: <a href="https://doi.org/10.1002/hec.4734"><code>10.1002/hec.4734</code></a>
+  links:
+    - name: Preprint
+      url: "https://www.nber.org/papers/w30425"
+      icon: fa-solid fa-file-pdf
+    - name: Final version
+      url: https://doi.org/10.1002/hec.4734
+      icon: fa-solid fa-scroll
+    - name: Code
+      url: https://github.com/imccart/ch-spillovers
+      icon: fa-brands fa-github
+    - name: Add to Zotero
+      url: https://www.zotero.org/save?type=doi&q=10.1002/hec.4734
+      icon: ai ai-zotero
+  extra: >-
+    Presented at the American Society of Health Economists Annual Meeting in June 2022 in Austin, TX
+doi: 10.1002/hec.4734
+---
+
+## Important links
+
+- [NBER Working Paper](https://www.nber.org/papers/w30425)
+- [GitHub repository](https://github.com/imccart/ch-spillovers)
+
+## Abstract
+
+Specialty hospitals tend to negotiate higher commercial insurance payments, even for relatively routine procedures with comparable clinical quality across hospital types. How specialty hospitals can maintain such a price premium remains an open question. In this paper, we examine a potential (horizontal) differentiation effect in which patients perceive specialty hospitals as sufficiently distinct from other hospitals, so that specialty hospitals effectively compete in a separate market from general acute care hospitals. We estimate this effect in the context of routine pediatric procedures offered by both specialty children's hospitals as well as general acute care hospitals, and we find strong empirical evidence of a differentiation effect in which specialty children's hospitals appear largely immune to competitive forces from non-children's hospitals.
+
+
+## Important figure(s)
+
+
+## Citation
+
+<p class="buttons" style="text-align:center;">
+<a class="btn btn-danger" target="_blank" href="https://www.zotero.org/save?type=doi&q=10.1002/hec.4734">{{< ai zotero >}}&emsp;Add to Zotero {{< fa square-arrow-up-right >}}</a>
+</p>
+
+```bibtex
+@article{mccarthy-revul-he2023,
+    Author = {Ian McCarthy and Mehul Raval},
+    Doi = {10.1002/hec.4734},
+    Journal = {Health Economics},
+    Month = {10},
+    Number = {10},
+    Pages = {2408--2423},
+    Title = {Price spillovers and specialization in health care: The case of children's hospitals},
+    Volume = {32},
+    Year = {2023}}
+```

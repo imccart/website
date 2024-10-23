@@ -1,0 +1,47 @@
+---
+title: "Talks"
+listing:
+  - id: background
+    contents: background.yml
+    sort: "date desc"
+    template: ../html/talks/listing.ejs
+  - id: workshops
+    contents: workshops.yml
+    sort: "date desc"
+    template: ../html/talks/listing.ejs
+  - id: discussant
+    contents: discussant.yml
+    sort: "date desc"
+    template: ../html/talks/listing.ejs
+title-block-banner: "#4499CF"
+page-layout: full
+toc: true
+toc-location: right
+toc-title: Year
+date-format: "MMMM D, YYYY"
+---
+
+
+Below are recent talks, presentations, workshops, etc. Research presentations are linked to each project on my research page. These presentations are part of a broad “extras” repository, available here as a site and here as a raw github repo.
+
+::: {.callout-note}
+### Copyright
+
+Except where noted, all content is © Ian McCarthy and licensed under [Creative Commons](https://creativecommons.org/licenses/by-sa/4.0/).
+:::
+
+## Background
+
+:::{#background}
+:::
+
+## Workshops
+
+:::{#workshops}
+:::
+
+## Discussions
+
+:::{#discussant}
+:::
+

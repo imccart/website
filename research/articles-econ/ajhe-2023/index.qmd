@@ -1,0 +1,67 @@
+---
+title: "Who pays in pay-for-performance? Evidence from hospital prices and financial penalties"
+date: 2023-06-22
+author:
+  - name: Michael Darden
+    url: https://www.medarden.com/
+    affiliation: Carey School of Business, Johns Hopkins University
+  - name: Ian McCarthy
+    url: https://www.ianmccarthyecon.com/
+    orcid: 0000-0001-7942-3468
+    affiliation: Department of Economics, Emory University
+  - name: Eric Barrette
+    affiliation: Medtronic
+categories: 
+  - Hospitals 
+  - Health care pricing
+pub-info:
+  reference: >-
+    Michael Darden, <strong>Ian McCarthy</strong>, and Eric Barrette. 2023. “Who pays in pay-for-performance? Evidence from hospital prices and financial penalties,” <em>American Journal of Health Economics</em> 9(3):435-60. doi: <a href="https://doi.org/10.1086/723280"><code>10.1086/723280</code></a>
+  links:
+    - name: Preprint
+      url: "https://www.nber.org/papers/w24304"
+      icon: fa-solid fa-file-pdf
+    - name: Final version
+      url: https://doi.org/10.1086/723280
+      icon: fa-solid fa-scroll
+    - name: Code
+      url: https://github.com/imccart/Hospital-P4P
+      icon: fa-brands fa-github
+    - name: Add to Zotero
+      url: https://www.zotero.org/save?type=doi&q=10.1086/723280
+      icon: ai ai-zotero
+  extra: >-
+    Presented at the Midwest Health Economics Conference in Columbus, OH in April 2018 and the National Bureau of Economic Research Summer Institute, Health Care Section, July 2018
+doi: 10.1086/723280
+---
+
+## Important links
+
+- [NBER Working Paper](https://www.nber.org/papers/w24304)
+- [GitHub repository](https://github.com/imccart/Hospital-P4P)
+
+## Abstract
+
+Public pay-for-performance (P4P) programs tie hospital payments to predetermined sets of quality measures and are intended to encourage or discourage certain outcomes. To the extent that financial penalties from these programs induce some response by hospitals, such penalties may translate into higher negotiated payments from commercial insurance payers. In this paper, we employ data on commercial insurance payments from a large, multi-payer database to study the extent to which penalties levied under the Hospital Readmission Reduction Program (HRRP) and the Hospital Value-Based Purchasing (HVBP) program, two major P4P components of the Affordable Care Act, caused changes in private hospital payments. We find that the bulk of any penalties resulting from HRRP and HVBP are borne by private insurance patients in the form of higher private insurance payments. Specifically, we show that HRRP and HVBP financial penalties led to increases in private payments of 1.9 percent, with effects concentrated among circulatory system procedures. These penalties were also associated with a 3.1 percent reduction in Medicare discharges. Our estimates are larger for hospitals with higher shares of privately insured patients, which suggests the importance of hospital bargaining power in facilitating higher commercial insurance payments.
+
+
+## Important figure(s)
+
+
+## Citation
+
+<p class="buttons" style="text-align:center;">
+<a class="btn btn-danger" target="_blank" href="https://www.zotero.org/save?type=doi&q=10.1086/723280">{{< ai zotero >}}&emsp;Add to Zotero {{< fa square-arrow-up-right >}}</a>
+</p>
+
+```bibtex
+@article{mccarthy-revul-he2023,
+    Author = {Michael Darden and Ian McCarthy and Eric Barrette},
+    Doi = {10.1086/723280},
+    Journal = {American Journal of Health Economics},
+    Number = {3},
+    Pages = {435--460},
+    Title = {Who pays in pay-for-performance? Evidence from hospital prices and financial penalties},
+    Volume = {9},
+    Year = {2023}}
+```

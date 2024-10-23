@@ -1,0 +1,35 @@
+---
+title: "What Can We Learn about the Effects of Food Stamps on Obesity in the Presence of Misreporting?"
+date: 2016-06-06
+author:
+  - name: Lorenzo Almada
+    url: https://aysps.gsu.edu/profile/lorenzo-almada/
+    affiliation: Andrew Young School of Policy Studies, Georgia State University
+  - name: Ian McCarthy
+    url: https://www.ianmccarthyecon.com/
+    orcid: 0000-0001-7942-3468
+    affiliation: Department of Economics, Emory University
+  - name: Rusty Tchernis
+    url: https://aysps.gsu.edu/profile/rusty-tchernis/
+    affiliation: Andrew Young School of Policy Studies, Georgia State University
+categories: 
+  - Bounds
+  - Misreporting
+  - SNAP
+pub-info:
+  reference: >-
+    Lorenzo Almada, <strong>Ian McCarthy</strong>, and Rusty Tchernis. 2016. “What Can We Learn about the Effects of Food Stamps on Obesity in the Presence of Misreporting?,” <em>American Journal of Agricultural Economics</em> 98(4):997-1017. doi: <a href="https://doi.org/10.1093/ajae/aaw017"><code>10.1093/ajae/aaw017</code></a>
+  links:
+    - name: Preprint
+      url: "https://www.nber.org/papers/w21596"
+      icon: fa-solid fa-file-pdf
+    - name: Final version
+      url: https://doi.org/10.1093/ajae/aaw017
+      icon: fa-solid fa-scroll
+    - name: Add to Zotero
+      url: https://www.zotero.org/save?type=doi&q=10.1093/ajae/aaw017
+      icon: ai ai-zotero
+  extra: >-
+    Honorable Mention for Best Paper in the Economics of Food Safety and Nutrition by the Agricultural and Applied Economics Association
+doi: 10.1093/ajae/aaw017
+---

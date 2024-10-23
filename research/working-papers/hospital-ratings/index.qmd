@@ -1,0 +1,34 @@
+---
+title: "Online Reviews and Hospital Choices"
+date: 2024-09-01
+author:
+  - name: Ian McCarthy
+    url: https://www.ianmccarthyecon.com/
+    orcid: 0000-0001-7942-3468
+    affiliation: Department of Economics, Emory University
+  - name: Kaylyn Sanbower
+    url: https://kaylynrsanbower.netlify.app/
+    affiliation: Economic Analysis Group, Antitrust Division, U.S. Department of Justice
+  - name: Leonardo Sanchez-Aragon
+    url: https://leonardosanchezaragon.netlify.app/
+    affiliation: Escuela Superior Politecnica del Litoral, Guayaquil, Ecuador
+categories:
+  - Hospitals
+  - Quality disclosure
+pub-info:
+  reference: >-
+    <strong>Ian McCarthy</strong>, Kaylyn Sanbower, and Leonardo Sanchez-Aragon. “Online Reviews and Hospital Choices,” <em>Working Paper</em>
+  links:
+  - name: Code
+    url: https://github.com/kaylynsanbower/reviews_and_hospital_markets
+    icon: fa-brands fa-github
+---
+
+## Important links
+
+- [GitHub repository](https://github.com/kaylynsanbower/reviews_and_hospital_markets)
+
+
+## Abstract
+
+Due to pervasive information problems and the multifaceted nature of hospital quality, selecting a hospital for an elective inpatient stay is a complicated and difficult decision. Online reviews provide an easily accessible and salient source of hospital quality information, thereby potentially affecting hospital choice and related outcomes such as hospital prices. Using the universe of hospital Yelp reviews and inpatient claims data for elective procedures in Florida from 2012 through 2017, we exploit exogenous variation in online hospital ratings over time to identify the effect of online reviews on hospital choice.  We find that among admissions for elective, inpatient procedures, patients are willing to travel between 5 and 30 percent further to receive care from a hospital with a higher Yelp rating, relative to other hospitals in the market. We also find evidence that higher ratings translate into higher commercial payments from insurers, albeit with relatively modest magnitudes. Our results indicate that novel, accessible sources of quality information have the potential to affect health care decisions, with potential downstream effects on health care prices.

@@ -1,0 +1,18 @@
+---
+title: "Teaching"
+listing:
+  - id: courses
+    contents: courses.yml
+    sort: "date desc"
+    template: ../html/teaching/listing.ejs
+title-block-banner: "#4499CF"
+page-layout: full
+---
+
+Since joining Emory University in 2014, I’ve had the opportunity to teach several health economics courses, including a freshman seminar in health policy, an upper-level elective on supply-side health economics, a capstone course on research methods in health economics and policy, and a PhD course on supply-side health economics. Over time, I’ve migrated most of my teaching material to stand-alone websites for each class, each with its own GitHub repository. Links and brief descriptions for these classes are available below.
+
+<br>
+
+:::{courses}
+:::
+

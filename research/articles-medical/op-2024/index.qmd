@@ -1,0 +1,61 @@
+---
+title: "Association Between Medicare Site-Based Payment Policy, Physician Practice Characteristics, and Vertical Integration Among Oncologists"
+date: 2024-07-02
+author:
+  - name: Xin Hu
+    url: https://sites.google.com/view/xinhu
+    affiliation: Department of Public Health Services, University of Virginia
+  - name: Ian McCarthy
+    url: https://www.ianmccarthyecon.com/
+    orcid: 0000-0001-7942-3468
+    affiliation: Department of Economics, Emory University
+  - name: Robin Yabroff
+    affiliation: American Cancer Society
+  - name: Wen You
+    affiliation: Department of Public Health Services, University of Virginia
+  - name: Joseph Lipscomb
+    affiliation: Rollins School of Public Health, Emory University
+  - name: Ilana Graetz
+    affiliation: Rollins School of Public Health, Emory University    
+categories: 
+  - Hospitals
+  - Physicians
+  - Vertical integration
+pub-info:
+  reference: >-
+    Xin Hu, <strong>Ian McCarthy</strong>, Robin Yabroff, Wen You, Joseph Lipscomb, and Ilana Graetz. 2024. “Association Between Medicare Site-Based Payment Policy, Physician Practice Characteristics, and Vertical Integration Among Oncologists,” <em>Journal of Clinical Oncology: Oncology Practice</em> (online ahead of print). doi: <a href="https://doi.org/10.1200/op.24.00091"><code>10.1200/op.24.00091</code></a>
+  links:
+    - name: Final version
+      url: https://doi.org/10.1200/op.24.00091
+      icon: fa-solid fa-scroll
+    - name: Add to Zotero
+      url: https://www.zotero.org/save?type=doi&q=10.1200/op.24.00091
+      icon: ai ai-zotero
+doi: 10.1200/op.24.00091
+---
+
+## Abstract
+
+Purpose: Medicare's differential payments for services delivered in physician offices versus hospital outpatient settings incentivize hospital-physician integration (ie, vertical integration) across many specialties, but evidence for oncologists is mixed. We examined the association of Medicare site-based payment policy and physician practice characteristics, including service volume and diversity, with vertical integration among oncologists in 2013-2019.
+
+Methods: Using the Medicare Provider Utilization and Payment Data and Medicare Data on Provider Practice and Specialty in 2013-2019, we extracted nonintegrated medical/hematologic oncologists (hereafter oncologists) in 2013 and followed them through 2019. We quantified the incentives from Medicare site-based payment policy using the hospital-office ratio-total Medicare payments if all services were delivered in the hospital outpatient department (HOPD) versus physician office. Vertical integration was defined as billing >10% of services to HOPD in a year. Multivariable linear probability regressions estimated the association between hospital-office ratio and vertical integration in 2014-2019 with and without accounting for provider characteristics.
+
+Results: In 2013, the average hospital-office ratio was 1.63, which increased to 1.99 in 2018. A 25th-to-75th percentile increase in the hospital-office ratio was negatively associated with integration (-1.01 percentage points [ppts], 95% CI = -1.45 to -0.57, p < .001) not accounting for physician practice characteristics; this association was attenuated (-0.30 ppts, 95% CI = -0.67 to 0.07, p = .11) after adjusting for these characteristics. Higher baseline (ie, 2013) service volume (Quartile4 v Quartile1 = -3.00 ppts, 95% CI = -4.42 to -1.59, p < .001), more diverse services (Quartile4 v Quartile1 = -3.55 ppts, 95% CI = -4.97 to -2.13, p < .001), and urban location (-5.23 ppts, 95% CI = -6.89 to -3.57, p < .001) were more strongly associated with vertical integration.
+
+Conclusion: Compared to Medicare site-based payment policy, oncologists' practice characteristics emerged as more potent factors for integration and should be considered to ensure the intended impacts of site-based payment reform. Our finding raises questions about the effectiveness of ongoing movements toward site-neutral payment for drug administration services to deter vertical integration in oncology.
+
+
+## Citation
+
+<p class="buttons" style="text-align:center;">
+<a class="btn btn-danger" target="_blank" href="https://www.zotero.org/save?type=doi&q=10.1200/op.24.00091">{{< ai zotero >}}&emsp;Add to Zotero {{< fa square-arrow-up-right >}}</a>
+</p>
+
+```bibtex
+@article{xin-etal-op2024,
+    Author = {Xin Hu and Ian McCarthy and Robin Yabroff and Wen You and Joseph Lipscomb and Ilana Graetz},
+    Doi = {10.1200/op.24.00091},
+    Journal = {JCO Ongology Practice},
+    Title = {Association Between Medicare Site-Based Payment Policy, Physician Practice Characteristics, and Vertical Integration Among Oncologists},
+    Year = {2024}}
+```

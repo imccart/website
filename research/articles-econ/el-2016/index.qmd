@@ -1,0 +1,25 @@
+---
+title: "Advertising Intensity and Welfare in an Equilibrium Search Model"
+date: 2016-04-01
+author:
+  - name: Ian McCarthy
+    url: https://www.ianmccarthyecon.com/
+    orcid: 0000-0001-7942-3468
+    affiliation: Department of Economics, Emory University
+categories: 
+  - Consumer search
+pub-info:
+  reference: >-
+    <strong>Ian McCarthy</strong>. 2016. "Advertising Intensity and Welfare in an Equilibrium Search Model,” <em>Economics Letters</em> 141:20-26. doi: <a href="https://doi.org/10.1016/j.econlet.2016.01.022"><code>10.1016/j.econlet.2016.01.022</code></a>
+  links:
+    - name: Preprint
+      url: "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=1087416"
+      icon: fa-solid fa-file-pdf
+    - name: Final version
+      url: https://doi.org/10.1016/j.econlet.2016.01.022
+      icon: fa-solid fa-scroll
+    - name: Add to Zotero
+      url: https://www.zotero.org/save?type=doi&q=10.1016/j.econlet.2016.01.022
+      icon: ai ai-zotero
+doi: 10.1016/j.econlet.2016.01.022
+---

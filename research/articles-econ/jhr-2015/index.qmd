@@ -1,0 +1,30 @@
+---
+title: "The Star Treatment: Estimating the Impact of Star Ratings on Medicare Advantage Enrollments"
+date: 2015-10-02
+author:
+  - name: Michael Darden
+    url: https://www.medarden.com/
+    affiliation: Carey School of Business, Johns Hopkins University
+  - name: Ian McCarthy
+    url: https://www.ianmccarthyecon.com/
+    orcid: 0000-0001-7942-3468
+    affiliation: Department of Economics, Emory University
+categories: 
+  - Health insurance 
+  - Quality disclosure
+pub-info:
+  reference: >-
+    Michael Darden and <strong>Ian McCarthy</strong>. 2015. “The Star Treatment: Estimating the Impact of Star Ratings on Medicare Advantage Enrollments,” <em>Journal of Human Resources</em> 50(4):980-1008. doi: <a href="https://doi.org/10.3368/jhr.50.4.980"><code>10.3368/jhr.50.4.980</code></a>
+  links:
+    - name: Preprint
+      url: "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2328803"
+      icon: fa-solid fa-file-pdf
+    - name: Final version
+      url: https://doi.org/10.3368/jhr.50.4.980
+      icon: fa-solid fa-scroll
+    - name: Add to Zotero
+      url: https://www.zotero.org/save?type=doi&q=10.3368/jhr.50.4.980
+      icon: ai ai-zotero
+doi: 10.3368/jhr.50.4.980
+---
+

@@ -1,0 +1,35 @@
+[
+  {
+    "listing": "/teaching/index.html",
+    "items": []
+  },
+  {
+    "listing": "/talks/index.html",
+    "items": []
+  },
+  {
+    "listing": "/research/index.html",
+    "items": [
+      "/research/working-papers/physician-vi/index.html",
+      "/research/working-papers/physician-learning/index.html",
+      "/research/working-papers/exchange-plan-pricing/index.html",
+      "/research/working-papers/hospital-ratings/index.html",
+      "/research/working-papers/health-insurance-brokers/index.html",
+      "/research/articles-econ/he-2023/index.html",
+      "/research/articles-econ/ajhe-2023/index.html",
+      "/research/articles-econ/jie-2023/index.html",
+      "/research/articles-econ/jhe-2023/index.html",
+      "/research/articles-econ/jhe-2021/index.html",
+      "/research/articles-econ/he-2020/index.html",
+      "/research/articles-econ/jhe-2018/index.html",
+      "/research/articles-econ/rio-2018/index.html",
+      "/research/articles-econ/jebo-2017/index.html",
+      "/research/articles-econ/ajhe-2017/index.html",
+      "/research/articles-econ/jhe-2016/index.html",
+      "/research/articles-econ/ajae-2016/index.html",
+      "/research/articles-econ/el-2016/index.html",
+      "/research/articles-econ/jhr-2015/index.html",
+      "/research/articles-medical/op-2024/index.html"
+    ]
+  }
+]

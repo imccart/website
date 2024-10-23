@@ -1,0 +1,28 @@
+---
+title: "It's a cruel summer: Household responses to reductions in government nutrition assistance"
+date: 2017-09-22
+author:
+  - name: Lorenzo Almada
+    url: https://aysps.gsu.edu/profile/lorenzo-almada/
+    affiliation: Andrew Young School of Policy Studies, Georgia State University
+  - name: Ian McCarthy
+    url: https://www.ianmccarthyecon.com/
+    orcid: 0000-0001-7942-3468
+    affiliation: Department of Economics, Emory University
+categories: 
+  - SNAP
+pub-info:
+  reference: >-
+    Lorenzo Almada and <strong>Ian McCarthy</strong>. 2017. “It's a cruel summer: Household responses to reductions in government nutrition assistance,” <em>Journal of Economic Behavior and Organization</em> 143:45-57. doi: <a href="https://doi.org/10.1016/j.jebo.2017.08.009"><code>10.1016/j.jebo.2017.08.009</code></a>
+  links:
+    - name: Preprint
+      url: "https://www.nber.org/papers/w23633"
+      icon: fa-solid fa-file-pdf
+    - name: Final version
+      url: https://doi.org/10.1016/j.jebo.2017.08.009
+      icon: fa-solid fa-scroll
+    - name: Add to Zotero
+      url: https://www.zotero.org/save?type=doi&q=10.1016/j.jebo.2017.08.009
+      icon: ai ai-zotero
+doi: 10.1016/j.jebo.2017.08.009
+---

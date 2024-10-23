@@ -1,0 +1,32 @@
+---
+title: "Learning and Efficiency in the Market for Physician Referrals"
+date: 2024-09-07
+author:
+  - name: Ian McCarthy
+    url: https://www.ianmccarthyecon.com/
+    orcid: 0000-0001-7942-3468
+    affiliation: Department of Economics, Emory University
+  - name: Seth Richards-Shubik
+    url: https://econ.jhu.edu/directory/seth-richards-shubik/
+    affiliation: Department of Economics, Johns Hopkins University
+categories:
+  - Physicians
+  - Referrals
+  - Learning
+pub-info:
+  reference: >-
+    <strong>Ian McCarthy</strong> and Seth Richards-Shubik. “Learning and Efficiency in the Market for Physician Referrals,” <em>Working Paper</em>
+  links:
+  - name: Code
+    url: https://github.com/imccart/referrals-and-learning
+    icon: fa-brands fa-github
+---
+
+## Important links
+
+- [GitHub repository](https://github.com/imccart/referrals-and-learning)
+
+
+## Abstract
+
+In many areas of care, primary care physicians (PCPs) greatly influence a patient's choice of specialist, but how well do PCPs learn about specialist quality, if at all? In this paper, we study PCP referrals to specialists, using the population of orthopedic procedures for Medicare fee-for-service beneficiaries from 2008 through 2018. We document substantial heterogeneity in specialist quality and cost within geographic markets, and we present design-based evidence that PCPs adjust their referrals specifically based on the outcomes of their own patients. We then employ a structural learning model to study learning and efficiency in the market for physician referrals. In the model, PCPs update their beliefs about specialist quality based on the outcomes of their referred patients. The model also accounts for habit persistence and capacity constraints, which are important limitations for counterfactual reallocations under improved learning. We find that PCPs respond modestly to the outcomes of their referred patients; however, PCPs remain slow to learn about quality difference among specialists in their market, instead relying more on prior relationships in governing referrals. This suggests there is scope to improve market efficiency if PCPs can learn more quickly and better tailor referral decisions on specialist quality. 

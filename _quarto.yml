@@ -1,0 +1,95 @@
+project:
+  type: website
+  output-dir: docs  
+
+  preview: 
+    port: 5555
+    browser: true
+    watch-inputs: true
+    navigate: true
+
+  render:
+    - "*.qmd"
+    - "*.md"
+
+  resources:
+    - "files/**"
+
+freeze: true
+
+# Metadata stuff
+pagetitle: "{{< meta title >}} | Ian McCarthy"
+author-meta: "Ian McCarthy"
+
+website:
+  title: "Ian McCarthy"
+  description: "Stuff."
+  site-url: "https://www.ianmccarthyecon.com"
+  repo-url: "https://github.com/imccart/website"
+
+  twitter-card: 
+    creator: "@ianhealthecon"
+    site: "@ianhealthecon"
+  
+  navbar:
+    pinned: true
+
+    left:
+      - text: "About"
+        href: "index.qmd"
+      - text: "CV"
+        href: "cv/index.qmd"
+      - text: "Research"
+        file: research/index.qmd
+      - text: "Teaching"
+        href: "teaching/index.qmd"
+      - text: "Service"
+        href: service/index.qmd
+#      - text: "Talks"
+#        href: "talks/index.qmd"
+#      - text: "Resources"
+#        file: resources/index.qmd
+    
+    right:
+      - text: "{{< iconify bi envelope size=1.1em title='E-mail' >}}"
+        href: "mailto:ian.mccarthy@emory.edu"
+      - text: "{{< iconify bi github size=1.1em title='GitHub' >}}"
+        href: https://github.com/imccart
+        rel: me
+      - text: "{{< iconify bi linkedin size=1.1em title='LinkedIn' >}}"
+        href: https://www.linkedin.com/in/ianmccarthyecon
+        rel: me
+      - text: "{{< iconify bi twitter size=1.1em title='X' >}}"
+        href: https://www.x.com/ianhealthecon
+        rel: me
+      - text: "{{< iconify academicons google-scholar size=1.4em title='Google Scholar' >}}"
+        href: https://scholar.google.com/citations?user=zRCE7V0AAAAJ&hl=en
+        rel: me
+      - text: "{{< iconify academicons ideas-repec size=1.4em title='RePec' >}}"
+        href: https://ideas.repec.org/f/pmc207.html
+        rel: me
+
+
+  page-footer:
+    left: |
+      <span class="faux-block">{{< fa brands creative-commons >}} {{< var years >}} Ian McCarthy</span>
+      <span class="faux-block">All content licensed under<br>[{{< fa brands creative-commons >}} {{< fa brands creative-commons-by >}} Creative Commons CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)</span>      
+    center: |
+      <span class="faux-block">{{< fa brands orcid >}} <strong>ORCID</strong> [{{< var orcid >}}](https://orcid.org/{{< var orcid >}})</span>
+    right: |
+      <span class="faux-block">Made with {{< fa brands r-project >}} and [Quarto](https://quarto.org/)</span>
+      <span class="faux-block">[View the source at {{< fa brands github >}} GitHub]({{< var github-url >}})</span>
+
+format:
+  html:
+    theme: 
+      - html/ath.scss
+    grid: 
+      body-width: 900px
+    toc: false
+    code-link: true
+    anchor-sections: true
+    fig-cap-location: margin
+    reference-location: margin
+    footnotes-hover: true
+    highlight-style: monokai

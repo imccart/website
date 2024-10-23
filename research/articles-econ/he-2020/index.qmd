@@ -1,0 +1,32 @@
+---
+title: "Capacity constraints and time allocation in public health clinics"
+date: 2020-01-14
+author:
+  - name: Matthew Harris
+    url: https://haslam.utk.edu/people/profile/matthew-harris/
+    affiliation: Haslam College of Business, The University of Tennessee
+  - name: Yinan Liu
+    url: https://www.ynliu.com/
+    affiliation: School of Applied Economics, Renmin University of China
+  - name: Ian McCarthy
+    url: https://www.ianmccarthyecon.com/
+    orcid: 0000-0001-7942-3468
+    affiliation: Department of Economics, Emory University
+categories: 
+  - Capacity
+  - Health care quality
+pub-info:
+  reference: >-
+    Matthew Harris, Yinan Liu, and <strong>Ian McCarthy</strong>. 2020. “Capacity constraints and time allocation in public health clinics,” <em>Health Economics</em> 29(3):324-336. doi: <a href="https://doi.org/10.1002/hec.3984"><code>10.1002/hec.3984</code></a>
+  links:
+    - name: Preprint
+      url: "https://www.nber.org/papers/w25706"
+      icon: fa-solid fa-file-pdf
+    - name: Final version
+      url: https://doi.org/10.1002/hec.3984
+      icon: fa-solid fa-scroll
+    - name: Add to Zotero
+      url: https://www.zotero.org/save?type=doi&q=10.1002/hec.3984
+      icon: ai ai-zotero
+doi: 10.1002/hec.3984
+---

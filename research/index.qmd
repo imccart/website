@@ -1,0 +1,42 @@
+---
+title: "Research"
+listing:
+  - id: working-papers
+    contents: "working-papers/*/index.qmd"
+    sort: "date desc"
+    template: ../html/research/listing.ejs
+  - id: articles-econ
+    contents: "articles-econ/*/index.qmd"
+    sort: "date desc"
+    template: ../html/research/listing.ejs
+    categories: true
+  - id: articles-medical
+    contents: "articles-medical/*/index.qmd"
+    sort: "date desc"
+    template: ../html/research/listing.ejs
+    categories: true    
+page-layout: full
+include-back-link: false
+toc-location: right
+---
+
+ My research examines the effects of institutions, policies, and market structure on health care pricing and delivery. The majority of my work stems from information problems inherent in health care and how these information problems play out in health care pricing and delivery. 
+ 
+ Selected publications are listed below. For a full list of papers and other academic activities, see my complete [CV](../cv/mccarthy-cv.pdf).
+
+
+## Ongoing Projects
+
+:::{#working-papers}
+:::
+
+## Publications in Economics Journals
+
+:::{#articles-econ}
+:::
+
+## Publications in Medical and Health Policy Journals
+
+:::{#articles-medical}
+:::
+

@@ -1,0 +1,36 @@
+
+- title: Current Issues in U.S. Health Care
+  description: "This is a Freshman Seminar focusing on current issues in U.S. health care. The class is organized around weekly podcasts and videos. This content helps to facilitate more detailed discussion throughout each class. I supplement this material with questions from students each week. I ask students to submit their questions in the first half of the week, and we use these questions to further advance our weekly discussions."
+  university: Emory University
+  number: ECON 190
+  url: https://imccart.github.io/Econ-190/
+  semester:
+  - name: Spring 2022
+    url: https://imccart.github.io/Econ-190/
+
+- title: Economics of Health Care Markets
+  description: "This is an elective economics course focusing on “supply side” health economics. The course examines the industrial organization of health care markets in the U.S., including underlying theory, empirical findings, and related health care policy. We study insurance markets, informational asymmetries between physicians and patients, as well as issues of hospital pricing and payments."
+  university: Emory University
+  number: ECON 372
+  url: https://econ372f24.classes.ianmccarthyecon.com/
+  semester:
+  - name: Fall 2024
+    url: https://econ372f24.classes.ianmccarthyecon.com/
+
+- title: Research in Health Economics
+  description: "This is the capstone course for the joint major in Economics and Human Health. The course effectively combines health economics and human health content with data science. Using real-world data, we explore four research questions throughout the semester, each exemplifying a different research design."
+  university: Emory University
+  number: ECON/HLTH 470
+  url: https://econ470s24.classes.ianmccarthyecon.com/
+  semester:
+  - name: Spring 2024
+    url: https://econ470s24.classes.ianmccarthyecon.com/
+
+- title: Health Economics II
+  description: "This is a PhD course in supply side health economics. This course explores the industrial organization of healthcare markets in the U.S., focusing on health insurance, physician agency, healthcare pricing and competition, information disclosure, physician learning, and waste."
+  university: Emory University
+  number: ECON 771
+  url: https://econ771s24.classes.ianmccarthyecon.com/
+  semester:
+  - name: Spring 2024
+    url: https://econ771s24.classes.ianmccarthyecon.com/

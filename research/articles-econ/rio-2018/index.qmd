@@ -1,0 +1,33 @@
+---
+title: "Vertical Alignment Between Hospitals and Physicians as a Bargaining Response to Commercial Insurance Markets"
+date: 2018-03-28
+author:
+  - name: Ian McCarthy
+    url: https://www.ianmccarthyecon.com/
+    orcid: 0000-0001-7942-3468
+    affiliation: Department of Economics, Emory University
+  - name: Sean Huang
+    url: https://gufaculty360.georgetown.edu/s/contact/00336000014TYERAA4/sean-huang
+    affiliation: Department of Health Management and Policy, Georgetown University
+categories: 
+  - Hospitals
+  - Physicians
+  - Vertical integration
+pub-info:
+  reference: >-
+    <strong>Ian McCarthy</strong> and Sean Huang. 2018. “Vertical Alignment Between Hospitals and Physicians as a Bargaining Response to Commercial Insurance Markets,” <em>Review of Industrial Organization</em> 53:7-29. doi: <a href="https://doi.org/10.1007/s11151-017-9609-5"><code>10.1007/s11151-017-9609-5</code></a>
+  links:
+    - name: Preprint
+      url: "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2612879"
+      icon: fa-solid fa-file-pdf
+    - name: Final version
+      url: https://doi.org/10.1007/s11151-017-9609-5
+      icon: fa-solid fa-scroll
+    - name: Supplemental material
+      url: articles-econ/rio-2018/rio-2018-appendix.pdf
+      icon: fa-solid fa-file-pdf      
+    - name: Add to Zotero
+      url: https://www.zotero.org/save?type=doi&q=10.1007/s11151-017-9609-5
+      icon: ai ai-zotero
+doi: 10.1007/s11151-017-9609-5
+---

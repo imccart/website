@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://www.ianmccarthyecon.com/index.html</loc>
-    <lastmod>2024-08-23T11:37:34.616Z</lastmod>
+    <lastmod>2024-08-23T11:37:29.000Z</lastmod>
   </url>
   <url>
     <loc>https://www.ianmccarthyecon.com/teaching/index.html</loc>
@@ -18,7 +18,7 @@
   </url>
   <url>
     <loc>https://www.ianmccarthyecon.com/research/index.html</loc>
-    <lastmod>2024-09-08T11:57:53.265Z</lastmod>
+    <lastmod>2024-10-23T19:24:17.600Z</lastmod>
   </url>
   <url>
     <loc>https://www.ianmccarthyecon.com/research/articles-econ/rio-2018/index.html</loc>
@@ -62,7 +62,7 @@
   </url>
   <url>
     <loc>https://www.ianmccarthyecon.com/research/working-papers/hospital-ratings/index.html</loc>
-    <lastmod>2024-09-07T12:39:35.084Z</lastmod>
+    <lastmod>2024-09-07T12:39:31.000Z</lastmod>
   </url>
   <url>
     <loc>https://www.ianmccarthyecon.com/research/working-papers/health-insurance-brokers/index.html</loc>
@@ -71,5 +71,13 @@
   <url>
     <loc>https://www.ianmccarthyecon.com/research/working-papers/exchange-plan-pricing/index.html</loc>
     <lastmod>2024-09-08T11:57:34.868Z</lastmod>
+  </url>
+  <url>
+    <loc>https://www.ianmccarthyecon.com/research/articles-medical/ha-2024/index.html</loc>
+    <lastmod>2024-10-23T19:17:36.022Z</lastmod>
+  </url>
+  <url>
+    <loc>https://www.ianmccarthyecon.com/research/articles-econ/he-2015/index.html</loc>
+    <lastmod>2024-10-23T19:24:12.722Z</lastmod>
   </url>
 </urlset>

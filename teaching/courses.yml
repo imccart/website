@@ -21,10 +21,13 @@
   description: "This is the capstone course for the joint major in Economics and Human Health. The course effectively combines health economics and human health content with data science. Using real-world data, we explore four research questions throughout the semester, each exemplifying a different research design."
   university: Emory University
   number: ECON/HLTH 470
-  url: https://econ470s24.classes.ianmccarthyecon.com/
+  url: https://econ470s25.classes.ianmccarthyecon.com/
   semester:
   - name: Spring 2024
     url: https://econ470s24.classes.ianmccarthyecon.com/
+  - name: Spring 2025
+    url: https://econ470s25.classes.ianmccarthyecon.com/
+
 
 - title: Health Economics II
   description: "This is a PhD course in supply side health economics. This course explores the industrial organization of healthcare markets in the U.S., focusing on health insurance, physician agency, healthcare pricing and competition, information disclosure, physician learning, and waste."

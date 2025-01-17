@@ -20,7 +20,7 @@ categories:
   - Health care pricing
 pub-info:
   reference: >-
-    Caroline Hanson, <strong>Ian McCarthy</strong>, Eamon Molloy, and Karen Stockley. “New Data Show Nongroup Plans Paid Significantly Lower Prices to Providers Than Employer Plans In 2021,” <em>forthcoming</em> at <em>Health Affairs</em>
+    Caroline Hanson, <strong>Ian McCarthy</strong>, Eamon Molloy, and Karen Stockley. 2024. “New Data Show Nongroup Plans Paid Significantly Lower Prices to Providers Than Employer Plans In 2021,” <em>Health Affairs</em> 43(12):1672-79. doi: <a href="https://doi.org/10.1377/hlthaff.2024.00913"><code>10.1377/hlthaff.2024.00913</code></a>
   links:
     - name: Final version
       url: https://doi.org/10.1377/hlthaff.2024.00913

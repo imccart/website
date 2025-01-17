@@ -1,0 +1,29 @@
+---
+title: "Bounding treatment effects: A command for the partial identification of the average treatment effect with endogenous and misreported treatment assignment"
+date: 2015-06-01
+author:
+  - name: Ian McCarthy
+    url: https://www.ianmccarthyecon.com/
+    orcid: 0000-0001-7942-3468
+    affiliation: Department of Economics, Emory University
+  - name: Daniel Milliment
+    url: https://people.smu.edu/dmillimet/
+    affiliation: Department of Economics, Southern Methodist University
+  - name: Manan Roy
+    url: https://hcm.appstate.edu/faculty-and-staff/manan-roy
+    affiliation: Health Care Management, Appalachian State University
+categories: 
+  - Misreporting
+  - Bounds
+pub-info:
+  reference: >-
+    <strong>Ian McCarthy</strong>. 2015. “Bounding Treatment Effects: A Command for the Partial Identification of the Average Treatment Effect with Endogenous and Misreported Treatment Assignment,” <em>The Stata Journal</em> 15(2):411-436. doi: <a href="https://doi.org/10.1177/1536867X1501500205"><code>10.1177/1536867X1501500205</code></a>
+  links:
+    - name: Final version
+      url: https://doi.org/10.1177/1536867X1501500205
+      icon: fa-solid fa-scroll
+    - name: Add to Zotero
+      url: https://www.zotero.org/save?type=doi&q=10.1177/1536867X1501500205
+      icon: ai ai-zotero
+doi: 10.1177/1536867X1501500205
+---

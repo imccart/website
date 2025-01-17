@@ -1,0 +1,32 @@
+---
+title: "Cost savings from palliative care teams and guidance for a financially viable palliative care program"
+date: 2015-02-01
+author:
+  - name: Ian McCarthy
+    url: https://www.ianmccarthyecon.com/
+    orcid: 0000-0001-7942-3468
+    affiliation: Department of Economics, Emory University
+  - name: Chessie Robinson
+    affiliation: Employers Health Network
+  - name: Saqibul Huq
+    affiliation: Department of Neurological Surgery, University of Pittsburgh
+  - name: Martha Philastre
+    affiliation: Baylor Scott and White Health
+  - name: Robert Fine
+    affiliation: Baylor Scott and White Health
+categories: 
+  - Palliative care
+  - Health care quality
+  - Cost-effectiveness
+pub-info:
+  reference: >-
+    <strong>Ian McCarthy</strong>, Chessie Robinson, Saqibul Huq, Martha Philastre, and Robert Fine. 2015. “Cost savings from palliative care teams and guidance for a financially viable palliative care program,” <em>Health Services Research</em>. 50(1):217-236. doi: <a href="https://doi.org/10.1111/1475-6773.12203"><code>10.1111/1475-6773.12203</code></a>
+  links:
+    - name: Final version
+      url: https://doi.org/10.1111/1475-6773.12203
+      icon: fa-solid fa-scroll
+    - name: Add to Zotero
+      url: https://www.zotero.org/save?type=doi&q=10.1111/1475-6773.12203
+      icon: ai ai-zotero
+doi: 10.1111/1475-6773.12203
+---

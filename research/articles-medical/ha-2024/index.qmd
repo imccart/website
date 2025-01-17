@@ -23,12 +23,12 @@ pub-info:
     Caroline Hanson, <strong>Ian McCarthy</strong>, Eamon Molloy, and Karen Stockley. “New Data Show Nongroup Plans Paid Significantly Lower Prices to Providers Than Employer Plans In 2021,” <em>forthcoming</em> at <em>Health Affairs</em>
   links:
     - name: Final version
-      url: 
+      url: https://doi.org/10.1377/hlthaff.2024.00913
       icon: fa-solid fa-scroll
     - name: Add to Zotero
-      url: 
+      url: https://www.zotero.org/save?type=doi&q=10.1377/hlthaff.2024.00913
       icon: ai ai-zotero
-doi: "."
+doi: 10.1377/hlthaff.2024.00913
 ---
 
 ## Abstract
@@ -44,8 +44,11 @@ Numerous studies show that employer plans pay providers significantly more than 
 ```bibtex
 @article{hanson-etal2024,
     Author = {Caroline Hanson and Ian McCarthy and Eamon Molloy and Karen Stockley},
-    Doi = {..},
+    Doi = {10.1377/hlthaff.2024.00913},
     Journal = {Health Affairs},
+    Number = {12},
+    Pages = {1672-79},
+    Volume = {43}
     Title = {New Data Show Nongroup Plans Paid Significantly Lower Prices to Providers Than Employer Plans In 2021},
     Year = {2024}}
 ```

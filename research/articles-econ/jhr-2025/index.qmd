@@ -1,6 +1,6 @@
 ---
 title: "Owning the Agent: Hospital Influence on Physician Behaviors"
-date: 2024-09-08
+date: 2025-02-01
 author:
   - name: Haizhen Lin
     url: https://host.kelley.iu.edu/hzlin/
@@ -21,7 +21,7 @@ categories:
   - Vertical integration
 pub-info:
   reference: >-
-    Haizhen Lin, <strong>Ian McCarthy</strong>, Michael Richards, and Christopher Whaley. “Owning the Agent: Hospital Influence on Physician Behaviors,” <em>Revise and Resubmit</em> at <em>Journal of Human Resources</em>
+    Haizhen Lin, <strong>Ian McCarthy</strong>, Michael Richards, and Christopher Whaley. 2025. “Owning the Agent: Hospital Influence on Physician Behaviors,” <em>Accepted</em> at <em>Journal of Human Resources</em>
   links:
   - name: Working Paper
     url: "https://www.nber.org/papers/w28859"

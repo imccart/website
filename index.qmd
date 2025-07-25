@@ -38,7 +38,7 @@ format:
 
 ::: {.g-col-12 .g-col-sm-8}
 
-Welcome! My name is Ian McCarthy, and I'm an Associate Professor of Economics at Emory University and a Research Associate with the National Bureau of Economic Research. I study issues related to health care pricing, equity, and efficiency. I also teach health economics classes at the undergraduate and graduate levels at Emory.
+Welcome! My name is Ian McCarthy, and I'm an Associate Professor of Economics at Emory University and a Research Associate with the National Bureau of Economic Research. I study issues related to health care pricing, competition, and efficiency. I also teach health economics classes at the undergraduate and graduate levels at Emory.
 
 Prior to joining Emory, I was a senior consultant and director in the economic consulting practice of FTI Consulting in Dallas, TX. I was also an associate investigator and the director of health economics for the Baylor Health Care System in Dallas, TX.
 

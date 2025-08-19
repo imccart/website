@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://www.ianmccarthyecon.com/index.html</loc>
-    <lastmod>2025-07-25T17:42:15.678Z</lastmod>
+    <lastmod>2025-08-19T18:06:03.070Z</lastmod>
   </url>
   <url>
     <loc>https://www.ianmccarthyecon.com/teaching/index.html</loc>
@@ -99,5 +99,9 @@
   <url>
     <loc>https://www.ianmccarthyecon.com/service/index.html</loc>
     <lastmod>2025-08-19T17:59:19.862Z</lastmod>
+  </url>
+  <url>
+    <loc>https://www.ianmccarthyecon.com/research/working-papers/hospital-closures/index.html</loc>
+    <lastmod>2025-08-19T18:05:51.658Z</lastmod>
   </url>
 </urlset>

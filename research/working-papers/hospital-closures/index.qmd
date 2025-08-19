@@ -1,0 +1,31 @@
+---
+title: "Hospital Closures and Critical Access Hospital Designation"
+date: 2024-09-01
+author:
+  - name: Katie Leinenbach
+    url: https://www.katieleinenbach.com/
+    affiliation: Senior Quantitative Analyst, Demand Side Analytics
+  - name: Ian McCarthy
+    url: https://www.ianmccarthyecon.com/
+    orcid: 0000-0001-7942-3468
+    affiliation: Department of Economics, Emory University
+categories:
+  - Hospitals
+  - Quality disclosure
+pub-info:
+  reference: >-
+    <strong>Ian McCarthy</strong>, Kaylyn Sanbower, and Leonardo Sanchez-Aragon. “Online Reviews and Hospital Choices,” <em>Working Paper</em>
+  links:
+  - name: Code
+    url: https://github.com/kaylynsanbower/reviews_and_hospital_markets
+    icon: fa-brands fa-github
+---
+
+## Important links
+
+- [GitHub repository](https://github.com/imccart/hospital-closures)
+
+
+## Abstract
+
+Hospitals are critical inputs into patient health and, increasingly, local economies. And yet policy-makers continue to struggle with the increasing rate of hospital closures, particularly in rural ares. Created by the Balanced Budget Act in 1997, Critical Access Hospital (CAH) designation was designed to offer financial assistance to hospitals in financial distress, focusing on hospitals in rural areas. We explore whether CAH designation improves a hospital's financial standing, and ultimately its effects on hospital closures and mergers. 

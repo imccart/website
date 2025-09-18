@@ -1,0 +1,37 @@
+---
+title: "Formation of Physician Referral Networks: Drivers and Potential Consequences"
+date: 2025-09-07
+author:
+  - name: Ian McCarthy
+    url: https://www.ianmccarthyecon.com/
+    orcid: 0000-0001-7942-3468
+    affiliation: Department of Economics, Emory University
+  - name: Shirley Cai
+    url: https://shirleycai.netlify.app/
+    affiliation: Department of Economics, Emory University
+  - name: Pablo Estrada
+    url: https://www.pabloestrada.io/
+    affiliation: Capital One
+  - name: Jillian Wilkins
+    url: https://jillwilkins.github.io/
+    affiliation: Department of Economics, Emory University  
+categories:
+  - Physicians
+  - Referrals
+pub-info:
+  reference: >-
+    <strong>Ian McCarthy</strong>, Shirley Cai, Pablo Estrada, and Jillian Wilkins. "Formation of Physician Referral Networks: Drivers and Potential Consequences," <em>Working Paper</em>
+  links:
+  - name: Code
+    url: https://github.com/imccart/physician-referral-formation
+    icon: fa-brands fa-github
+---
+
+## Important links
+
+- [GitHub repository](https://github.com/imccart/physician-referral-formation)
+
+
+## Abstract
+
+Roughly one‑third of U.S. primary care visits end with a specialist referral, yet little is known about how these referral links are first established. Focusing on primary care physicians (PCPs) who enter or relocate to a new market, we study the determinants of initial PCP–specialist networks using the universe of 2009–2018 Medicare fee‑for‑service claims, focusing on referrals for planned and elective orthopedic surgeries. A reduced‑form network‑formation model with two‑sided fixed effects shows that sharing a common physician practice is overwhelmingly the most dominant factor in forming initial referral links, followed by gender homophily and geographic proximity. When re-interpreting results in terms of quality of care, distance between PCPs and specialists emerges as a more important factor, with results suggesting that preference for closer specialists might actually improve quality of care conditional on existing organizational and demographic homophily. An extension into the dynamics of referral links shows that demographic concordance measures dissipate over time, while the effects of organizational preference and distance attenuate but remain significant factors.

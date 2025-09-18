@@ -14,10 +14,10 @@ categories:
   - Quality disclosure
 pub-info:
   reference: >-
-    <strong>Ian McCarthy</strong>, Kaylyn Sanbower, and Leonardo Sanchez-Aragon. “Online Reviews and Hospital Choices,” <em>Working Paper</em>
+    <strong>Ian McCarthy</strong>, Katie Leinenbach. “Hospital Closures and Critical Access Hospital Designation,” <em>Working Paper</em>
   links:
   - name: Code
-    url: https://github.com/kaylynsanbower/reviews_and_hospital_markets
+    url: https://github.com/imccart/hospital-closures
     icon: fa-brands fa-github
 ---
 

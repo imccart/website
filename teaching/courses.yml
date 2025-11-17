@@ -26,10 +26,10 @@
   number: ECON/HLTH 470
   url: https://econ470s25.classes.ianmccarthyecon.com/
   semester:
-  - name: Spring 2024
-    url: https://econ470s24.classes.ianmccarthyecon.com/
   - name: Spring 2025
     url: https://econ470s25.classes.ianmccarthyecon.com/
+  - name: Spring 2026
+    url: https://econ470s26.classes.ianmccarthyecon.com/
 
 
 - title: Health Economics II

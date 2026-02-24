@@ -870,6 +870,30 @@ pre.text, pre.sourceCode, .cell-output pre {
 }
 
 
+// Credits
+.home-credits {
+    max-width: 900px;
+    margin: 2em auto 0;
+    padding-top: 1.5em;
+    border-top: 1px solid $card-border;
+    text-align: center;
+
+    p {
+        font-size: 0.82em;
+        color: $gray-500;
+        line-height: 1.6;
+    }
+
+    a {
+        color: $gray-500;
+        text-decoration: underline;
+
+        &:hover {
+            color: $accent;
+        }
+    }
+}
+
 // Teaching
 .teaching {
     .course-entry {

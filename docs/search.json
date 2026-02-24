@@ -1,17 +1,17 @@
 [
   {
-    "objectID": "cv/index.html",
-    "href": "cv/index.html",
-    "title": "Curriculum vitæ",
-    "section": "",
-    "text": "Download current CV"
-  },
-  {
     "objectID": "index.html",
     "href": "index.html",
     "title": "Ian McCarthy",
     "section": "",
-    "text": "Ian McCarthy\n      Associate Professor of Economics, Emory University\n      Research Associate, NBER\n      \n      \n        I study how information problems shape health care markets, including why hospitals charge what they do, how insurance design affects care, and what happens when providers consolidate. Before academia, I spent several years in economic consulting and health system administration, which informs how I think about these questions.\n      \n      \n         Research\n         CV\n         Contact\n      \n    \n  \n\n\n  \n    \n    Research\n    Health care pricing, hospital competition, vertical integration, and insurance markets. I use large administrative datasets and quasi-experimental methods.\n    See papers →\n  \n  \n    \n    Teaching\n    Undergraduate and PhD courses in health economics and empirical methods at Emory. All course materials are open access.\n    See courses →\n  \n  \n    \n    Service\n    Department, university, and professional service, including editorial work, grant reviews, and faculty governance.\n    See service →"
+    "text": "Ian McCarthy\n      Associate Professor of Economics, Emory University\n      Research Associate, NBER\n      \n      \n        I study how information problems shape health care markets, including why hospitals charge what they do, how insurance design affects care, and what happens when providers consolidate. Before academia, I spent several years in economic consulting and health system administration, which informs how I think about these questions.\n      \n      \n         Research\n         CV\n         Contact\n      \n    \n  \n\n\n  \n    \n    Research\n    Health care pricing, hospital competition, vertical integration, and insurance markets. I use large administrative datasets and quasi-experimental methods.\n    See papers →\n  \n  \n    \n    Teaching\n    Undergraduate and PhD courses in health economics and empirical methods at Emory. All course materials are open access.\n    See courses →\n  \n  \n    \n    Service\n    Department, university, and professional service, including editorial work, grant reviews, and faculty governance.\n    See service →\n  \n\n\n  Site design inspired by Andrew Heiss. Song and coffee pairings inspired by Josh Graff Zivin's cocktail pairings. Built with Quarto and Claude Code."
+  },
+  {
+    "objectID": "service/index.html",
+    "href": "service/index.html",
+    "title": "Service",
+    "section": "",
+    "text": "I’ve taken on a few service projects/roles in recent years, in addition to the usual professional service like referee reports, conference organization, etc. Brief descriptions, and links to other information if available, are below.\n\n\n\n   Department Service\n  \n    Interim Director of Graduate Studies, 2024-2025\n    First Year Graduate Student Mentor, 2021-2025\n    Professionalism Workshop. A workshop for 2nd-5th year Economics PhD students covering best practices for workflow, conferences, presentations, and the job market.\n  \n\n\n\n   External Mentorship\n  As a first-generation college student, I'm well aware of how challenging it can be to navigate into/around academia for those of us not already connected to that space. I try to volunteer my time as a mentor as generously as possible.\n  \n    ASHEcon annual mentorship sessions, 2018-2025\n    Research in Color, 2019-2021\n    Association for Mentoring and Inclusion in Economics, 2022-2024\n  \n\n\n\n   Editorial Roles\n  \n    Associate Editor, American Journal of Health Economics, 2025\n    Associate Editor, Southern Economic Journal, 2025\n    ASHEcon Program Chair, Physician Labor Markets and Treatment Decisions, 2024-2026\n  \n\n\n\n   Other Appointments\n  \n    Visiting Scholar, Congressional Budget Office, 2021-2023"
   },
   {
     "objectID": "teaching/index.html",
@@ -343,10 +343,10 @@
     "text": "Resources…"
   },
   {
-    "objectID": "service/index.html",
-    "href": "service/index.html",
-    "title": "Service",
+    "objectID": "cv/index.html",
+    "href": "cv/index.html",
+    "title": "Curriculum vitæ",
     "section": "",
-    "text": "I’ve taken on a few service projects/roles in recent years, in addition to the usual professional service like referee reports, conference organization, etc. Brief descriptions, and links to other information if available, are below.\n\n\n\n   Department Service\n  \n    Interim Director of Graduate Studies, 2024-2025\n    First Year Graduate Student Mentor, 2021-2025\n    Professionalism Workshop. A workshop for 2nd-5th year Economics PhD students covering best practices for workflow, conferences, presentations, and the job market.\n  \n\n\n\n   External Mentorship\n  As a first-generation college student, I'm well aware of how challenging it can be to navigate into/around academia for those of us not already connected to that space. I try to volunteer my time as a mentor as generously as possible.\n  \n    ASHEcon annual mentorship sessions, 2018-2025\n    Research in Color, 2019-2021\n    Association for Mentoring and Inclusion in Economics, 2022-2024\n  \n\n\n\n   Editorial Roles\n  \n    Associate Editor, American Journal of Health Economics, 2025\n    Associate Editor, Southern Economic Journal, 2025\n    ASHEcon Program Chair, Physician Labor Markets and Treatment Decisions, 2024-2026\n  \n\n\n\n   Other Appointments\n  \n    Visiting Scholar, Congressional Budget Office, 2021-2023"
+    "text": "Download current CV"
   }
 ]

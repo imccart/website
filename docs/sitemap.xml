@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://www.ianmccarthyecon.com/cv/index.html</loc>
-    <lastmod>2026-02-23T20:30:36.031Z</lastmod>
+    <loc>https://www.ianmccarthyecon.com/index.html</loc>
+    <lastmod>2026-02-24T04:07:46.259Z</lastmod>
   </url>
   <url>
-    <loc>https://www.ianmccarthyecon.com/index.html</loc>
-    <lastmod>2026-02-24T03:31:55.217Z</lastmod>
+    <loc>https://www.ianmccarthyecon.com/service/index.html</loc>
+    <lastmod>2026-02-24T03:30:41.547Z</lastmod>
   </url>
   <url>
     <loc>https://www.ianmccarthyecon.com/teaching/index.html</loc>
@@ -129,7 +129,7 @@
     <lastmod>2024-08-22T02:56:14.000Z</lastmod>
   </url>
   <url>
-    <loc>https://www.ianmccarthyecon.com/service/index.html</loc>
-    <lastmod>2026-02-24T03:30:41.547Z</lastmod>
+    <loc>https://www.ianmccarthyecon.com/cv/index.html</loc>
+    <lastmod>2026-02-23T20:30:36.031Z</lastmod>
   </url>
 </urlset>

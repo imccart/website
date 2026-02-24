@@ -19,7 +19,7 @@ format:
       <div class="hero-title">Research Associate, NBER</div>
       <hr class="hero-divider">
       <div class="hero-bio">
-        I study how information problems shape health care markets, including why hospitals charge what they do, how insurance design affects care, and what happens when providers consolidate. Before academia, I spent several years in economic consulting and health system administration, which informs how I think about these questions.
+        I'm a health economist studying how information problems shape the way health care is priced, delivered, and financed. My work combines large administrative datasets, causal inference methods, and economic theory to examine hospital pricing, insurance design, and provider consolidation. Before academia, I spent several years in economic consulting and health system administration, which informs how I approach these questions. I also teach health economics and empirical methods at Emory, with all course materials freely available online.
       </div>
       <div class="hero-links">
         <a href="research/index.html" class="hero-btn hero-btn-primary"><i class="fa-solid fa-microscope"></i> Research</a>

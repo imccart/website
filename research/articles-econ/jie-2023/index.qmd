@@ -29,4 +29,10 @@ pub-info:
       url: https://www.zotero.org/save?type=doi&q=10.1111/joie.12318
       icon: ai ai-zotero
 doi: 10.1111/joie.12318
+image: thumbnail.png
+soundtrack:
+  song: "Synergy"
+  url: "https://open.spotify.com/track/4bzpvwt4D5FofnO3GHCUxj"
+coffee:
+  drink: "Macchiato"
 ---

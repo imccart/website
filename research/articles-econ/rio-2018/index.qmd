@@ -30,4 +30,10 @@ pub-info:
       url: https://www.zotero.org/save?type=doi&q=10.1007/s11151-017-9609-5
       icon: ai ai-zotero
 doi: 10.1007/s11151-017-9609-5
+image: thumbnail.png
+soundtrack:
+  song: "Design"
+  url: "https://open.spotify.com/track/5q9E3jb5rjHBcDtDWFxtbM"
+coffee:
+  drink: "Affogato"
 ---

@@ -20,6 +20,12 @@ pub-info:
   - name: Code
     url: https://github.com/imccart/referrals-and-learning
     icon: fa-brands fa-github
+image: thumbnail.png
+soundtrack:
+  song: "If It Works"
+  url: "https://open.spotify.com/track/3xLOD2jhRXA9CVEfNRHt6C"
+coffee:
+  drink: "Cortado"
 ---
 
 ## Important links

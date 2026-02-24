@@ -20,7 +20,7 @@ $black:    #000000 !default;
 
 $blue:    #2780e3 !default;
 $indigo:  #6610f2 !default;
-$purple:  #170C3A !default;
+$purple:  #1E1145 !default;
 $pink:    #A52C60 !default;
 $red:     #CF4446 !default;
 $orange:  #EE6A24 !default;
@@ -29,6 +29,13 @@ $yellow:  #F6D645 !default;
 $green:   #118230 !default;
 $teal:    #20c997 !default;
 $cyan:    #3093CF !default;
+
+// Accent palette
+$accent:       #3D7EBF !default;
+$accent-hover: #2E6AA8 !default;
+$accent-light: rgba(#3D7EBF, 0.08) !default;
+$card-bg:      $white !default;
+$card-border:  $gray-200 !default;
 
 $primary:   $pink !default;
 $secondary: $gray-700 !default;
@@ -39,10 +46,7 @@ $danger:    $red !default;
 $light:     $gray-400 !default;
 $dark:      $black !default;
 
-// $min-contrast-ratio: 2.6 !default;
-
 // Fonts
-
 
 $font-family-sans-serif: "Libre Franklin" !default;
 
@@ -53,34 +57,30 @@ $navbar-font-family: "Jost" !default;
 $toc-font-family: "Jost" !default;
 $footer-font-family: "Jost" !default;
 
-// $font-size-base: 1.1rem !default; // Assumes the browser default, typically `16px`
-// $font-size-sm: $font-size-base * .875 !default;
-
-
 // Body
 $body-color: $gray-900 !default;
 
 // Links
-$link-color: #4499CF !default;
+$link-color: $accent !default;
 $link-decoration: none !default;
-$link-hover-color: #4499CF !default;
-$link-hover-decoration: underline !default;
+$link-hover-color: $accent-hover !default;
+$link-hover-decoration: none !default;
 
 // Inline code
 $code-bg: $gray-200 !default;
 $code-color: $gray-900 !default;
 
 // Code copy
-$btn-code-copy-color-active: #4499CF !default;
+$btn-code-copy-color-active: $accent !default;
 
 // TOC
-$toc-color: #4499CF;
+$toc-color: $accent;
 $toc-font-size: 1em;
 
 // Navbar
 $navbar-bg: $purple !default;
 $navbar-fg: $white !default;
-$navbar-hl: #4499CF !default;
+$navbar-hl: $accent !default;
 
 // Footer
 $footer-bg: $gray-900 !default;
@@ -96,6 +96,15 @@ $web-font-path: "https://fonts.googleapis.com/css2?family=Jost:ital,wght@0,100..
 
 body {
     -webkit-font-smoothing: antialiased;
+}
+
+// Global transitions
+a, .btn {
+    transition: color 0.2s ease, background-color 0.2s ease, border-color 0.2s ease, box-shadow 0.2s ease;
+}
+
+img {
+    transition: box-shadow 0.2s ease, transform 0.2s ease;
 }
 
 .rtl {
@@ -132,6 +141,7 @@ pre.text, pre.sourceCode, .cell-output pre {
 
 .navbar {
     font-family: $navbar-font-family;
+    box-shadow: 0 2px 8px rgba($black, 0.15);
 }
 
 // Put all the icons in a single row in the hamburger menu
@@ -179,7 +189,7 @@ pre.text, pre.sourceCode, .cell-output pre {
 
         .active {
             font-weight: 400;
-            color: #4499CF;
+            color: $accent;
         }
 
         .quarto-category-count {
@@ -191,14 +201,15 @@ pre.text, pre.sourceCode, .cell-output pre {
 }
 
 .nav-footer {
-    align-items: flex-start;  // Align all flex items to the top
+    align-items: flex-start;
     flex-wrap: wrap;
     border: 0 !important;
+    border-top: 3px solid $accent !important;
     min-height: 3em;
     font-family: $footer-font-family;
 
     a {
-        color: #4499CF;
+        color: $accent;
     }
 
     .faux-block {
@@ -211,9 +222,6 @@ pre.text, pre.sourceCode, .cell-output pre {
         font-size: 0.8em;
     }
 
-    // In the default Quarto template, .nav-footer-center has position: absolute 
-    // turned on, which makes the div not be a flex item
-    // This changes that so that it *is* a flex item
     .nav-footer-center {
         text-align: center;
         position: inherit;
@@ -225,8 +233,6 @@ pre.text, pre.sourceCode, .cell-output pre {
         }
     }
 
-    // When the screen is medium or smaller, make each footer chunk be 100% width 
-    // and centered; otherwise make them be 33% width and left/right/centerd
     .nav-footer-left,
     .nav-footer-right,
     .nav-footer-center {
@@ -255,7 +261,7 @@ pre.text, pre.sourceCode, .cell-output pre {
 #title-block-header {
     .quarto-title-banner {
         font-family: $headings-font-family;
-        
+
         .description {
             font-size: 1.1em;
             margin-top: 1em !important;
@@ -328,18 +334,18 @@ pre.text, pre.sourceCode, .cell-output pre {
                 cursor: pointer;
             }
         }
-               
+
         .post-doi {
             font-weight: 300;
             font-size: 0.85em;
             margin: 0.5em 0;
             text-align: right;
-            
+
             .doi-icon {
                 width: 1.1em;
                 padding-bottom: 1px;
             }
-            
+
             a {
                 color: $gray-600;
             }
@@ -359,11 +365,11 @@ pre.text, pre.sourceCode, .cell-output pre {
             opacity: 1;
         }
     }
-    
+
     .quarto-title-author-orcid img {
         margin-bottom: -3px;
     }
-    
+
     .quarto-title-meta-contents .doi::before {
         content: "";
         background-image: url(/files/doi.svg);
@@ -376,17 +382,8 @@ pre.text, pre.sourceCode, .cell-output pre {
 }
 
 
-// Research
+// Research - individual article pages
 .quarto-title-block {
-    .haiku {
-        text-align: right;
-        font-family: $headings-font-family;
-        margin: 1.3em 0;
-        font-size: 1.6em;
-        font-weight: 300;
-        font-style: italic;
-    }
-
     .quarto-title .quarto-categories {
         padding-bottom: 0;
         flex-wrap: wrap;
@@ -394,7 +391,7 @@ pre.text, pre.sourceCode, .cell-output pre {
     }
 
     .project-details {
-        background-color: rgba(#4499CF, 0.1);
+        background-color: $accent-light;
         padding: 0.75em;
         margin: 1em 0;
     }
@@ -423,12 +420,12 @@ pre.text, pre.sourceCode, .cell-output pre {
 
 .research {
     .back-nav a {
-        color: shift-color(#4499CF, -50%);
+        color: shift-color($accent, -50%);
     }
-    
+
     .quarto-title .quarto-categories .quarto-category {
-        background-color: shift-color(#4499CF, -75%);
-        color: #4499CF;
+        background-color: shift-color($accent, -75%);
+        color: $accent;
         font-size: 0.65em;
         opacity: 1;
     }
@@ -452,96 +449,419 @@ pre.text, pre.sourceCode, .cell-output pre {
     }
 }
 
-.project-list {
-    ul {
-        list-style: none;
-        padding: 0;
-        margin: 0 0 2em;
+// Research section headings
+.research h2 {
+    color: $purple;
+    border-bottom: 2px solid $accent;
+    padding-bottom: 0.3em;
+    margin-top: 2em;
+    margin-bottom: 1em;
+}
 
-        li.project {
-            margin-bottom: 2.5em;
-            border-left: 6px solid shift-color(#4499CF, -90%);
+// Research cards (listing page)
+.research-cards {
+    list-style: none;
+    padding: 0;
+    margin: 0 0 2em;
+}
 
-            p {
-                margin: 0;
-            }
-        }
+.research-card {
+    display: flex;
+    flex-direction: row;
+    background: $card-bg;
+    border: 1px solid $card-border;
+    border-radius: 0.5rem;
+    margin-bottom: 1.5em;
+    overflow: hidden;
+    transition: box-shadow 0.2s ease, transform 0.2s ease;
+
+    &:hover {
+        box-shadow: 0 4px 16px rgba($black, 0.1);
+        transform: translateY(-2px);
     }
 
-    .project-content {
-        padding-left: 0.5em;
+    p {
+        margin: 0;
+    }
+}
 
-        .status {
-            font-size: 1rem;
-            font-weight: 250;
-            padding: 0.2em;
-            margin-right: 0.5em;
-        }
+.research-card-thumb {
+    flex: 0 0 180px;
+    overflow: hidden;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background: linear-gradient(135deg, shift-color($accent, -85%), shift-color($purple, -85%));
+
+    img {
+        width: 100%;
+        height: 100%;
+        object-fit: cover;
     }
 
-    .haiku {
-        margin: 0.4rem 0 0rem;
+    .research-card-placeholder {
         font-family: $headings-font-family;
+        font-size: 0.7em;
+        font-weight: 400;
+        text-transform: uppercase;
+        letter-spacing: 0.05em;
+        color: $accent;
+        padding: 1em;
+        text-align: center;
+    }
+
+    @media (max-width: map-get($grid-breakpoints, md)) {
+        display: none;
+    }
+}
+
+.research-card-body {
+    flex: 1 1 auto;
+    padding: 1em 1.25em;
+    font-family: $headings-font-family;
+
+    .research-card-citation {
         font-weight: 300;
-        font-style: italic;
-        text-align: right;
-        color: $gray-600;
-        font-size: 1.1em;
-
-        @media (max-width: map-get($grid-breakpoints, md)) {
-            font-size: 0.95rem;
-        }
+        font-size: 0.95em;
+        line-height: 1.4;
+        margin-bottom: 0.5em;
     }
+}
 
-    ul.project-links {
-        margin-bottom: 0;
+.research-card-categories {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.4em;
+    margin-bottom: 0.75em;
+}
+
+.research-card-pill {
+    display: inline-block;
+    font-family: $headings-font-family;
+    font-size: 0.65em;
+    font-weight: 400;
+    text-transform: uppercase;
+    letter-spacing: 0.03em;
+    padding: 0.2em 0.6em;
+    border-radius: 0.25rem;
+    background-color: shift-color($accent, -85%);
+    color: $accent;
+
+    a {
+        color: inherit;
     }
+}
 
-    .project-details-listing {
-        margin-top: 0.8em;
-        background-color: shift-color(#4499CF, -90%);
-        font-size: 0.9rem;
+.research-card-pairings {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 1em;
+    margin-bottom: 0.5em;
+    font-size: 0.78em;
+    font-weight: 300;
+    color: $gray-600;
 
-        @media (max-width: map-get($grid-breakpoints, md)) {
-            font-size: 0.95rem;
+    .research-card-pairing {
+        display: inline-flex;
+        align-items: center;
+        gap: 0.35em;
+
+        i {
+            color: $accent;
+            font-size: 0.9em;
         }
 
-        .project-link {
-            display: inline-block;
-            white-space: nowrap;
-            padding: 0.5em 0.5em 0.5em 1em;
-        }
+        a {
+            color: $gray-600;
 
-        .details {
-            background-color: #4499CF;
-            padding-right: 1.5em;
-
-            a {
-                color: #FFFFFF;
+            &:hover {
+                color: $accent;
             }
         }
     }
 }
 
+.research-card-links {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.5em;
+    margin-top: 0.5em;
+    list-style: none;
+    padding: 0;
+    margin-bottom: 0;
+}
+
+.research-card-link {
+    display: inline-block;
+
+    a {
+        display: inline-block;
+        padding: 0.3em 0.8em;
+        font-size: 0.8em;
+        font-weight: 500;
+        border-radius: 0.25rem;
+        border: 1px solid $accent;
+        color: $accent;
+        text-decoration: none;
+
+        &:hover {
+            background-color: $accent;
+            color: $white;
+        }
+
+        i {
+            margin-right: 0.3em;
+        }
+    }
+
+    &.research-card-link-details a {
+        background-color: $accent;
+        color: $white;
+
+        &:hover {
+            background-color: $accent-hover;
+            border-color: $accent-hover;
+        }
+    }
+}
+
+
+// Homepage hero
+.hero-section {
+    background-color: $gray-100;
+    padding: 3em 0;
+    margin-bottom: 0;
+    margin-left: calc(-50vw + 50%);
+    margin-right: calc(-50vw + 50%);
+    padding-left: calc(50vw - 50%);
+    padding-right: calc(50vw - 50%);
+}
+
+.hero-photo-frame {
+    position: relative;
+    display: inline-block;
+
+    &::before {
+        content: "";
+        position: absolute;
+        bottom: 0;
+        left: -6px;
+        width: 4px;
+        height: 60%;
+        background: linear-gradient(to top, $accent, transparent);
+        border-radius: 2px;
+    }
+}
+
+.hero-photo {
+    width: 200px;
+    height: 270px;
+    border-radius: 100px 100px 0 0;
+    border: 4px solid $white;
+    box-shadow: 0 4px 16px rgba($black, 0.12);
+    object-fit: cover;
+    object-position: top;
+    display: block;
+}
+
+.hero-name {
+    font-family: $headings-font-family;
+    font-size: 2.2em;
+    font-weight: 700;
+    color: $purple;
+    margin-bottom: 0.1em;
+}
+
+.hero-title {
+    font-family: $headings-font-family;
+    font-size: 1.15em;
+    font-weight: 400;
+    color: $gray-600;
+    margin-bottom: 0.15em;
+}
+
+.hero-divider {
+    width: 60px;
+    height: 3px;
+    background-color: $accent;
+    border: none;
+    margin: 1em auto;
+}
+
+.hero-bio {
+    font-size: 1.05em;
+    line-height: 1.6;
+    color: $gray-800;
+    max-width: 640px;
+}
+
+.hero-links {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.6em;
+    margin-top: 1.2em;
+}
+
+.hero-btn {
+    display: inline-flex;
+    align-items: center;
+    gap: 0.4em;
+    padding: 0.5em 1.2em;
+    font-family: $headings-font-family;
+    font-size: 0.95em;
+    font-weight: 500;
+    border-radius: 0.3rem;
+    text-decoration: none;
+
+    &.hero-btn-primary {
+        background-color: $accent;
+        color: $white;
+        border: 1px solid $accent;
+
+        &:hover {
+            background-color: $accent-hover;
+            border-color: $accent-hover;
+        }
+    }
+
+    &.hero-btn-outline {
+        background-color: transparent;
+        color: $accent;
+        border: 1px solid $accent;
+
+        &:hover {
+            background-color: $accent;
+            color: $white;
+        }
+    }
+}
+
+@media (min-width: map-get($grid-breakpoints, md)) {
+    .hero-inner {
+        display: flex;
+        align-items: center;
+        gap: 2.5em;
+    }
+
+    .hero-photo-col {
+        flex: 0 0 auto;
+    }
+
+    .hero-text-col {
+        flex: 1 1 auto;
+    }
+
+    .hero-divider {
+        margin: 1em 0;
+    }
+}
+
+@media (max-width: map-get($grid-breakpoints, md)) {
+    .hero-inner {
+        text-align: center;
+    }
+
+    .hero-photo-frame {
+        margin: 0 auto 1.5em;
+
+        &::before {
+            display: none;
+        }
+    }
+
+    .hero-name {
+        font-size: 1.8em;
+    }
+
+    .hero-bio {
+        margin: 0 auto;
+    }
+
+    .hero-links {
+        justify-content: center;
+    }
+}
+
+// Homepage cards
+.home-cards {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 1.5em;
+    padding: 2.5em 0 1em;
+
+    @media (max-width: map-get($grid-breakpoints, md)) {
+        grid-template-columns: 1fr;
+    }
+}
+
+.home-card {
+    background: $card-bg;
+    border: 1px solid $card-border;
+    border-radius: 0.5rem;
+    padding: 1.5em;
+    transition: box-shadow 0.2s ease, transform 0.2s ease;
+
+    &:hover {
+        box-shadow: 0 4px 16px rgba($black, 0.08);
+        transform: translateY(-2px);
+    }
+
+    .home-card-icon {
+        font-size: 1.6em;
+        color: $accent;
+        margin-bottom: 0.5em;
+    }
+
+    h3 {
+        font-family: $headings-font-family;
+        font-size: 1.2em;
+        font-weight: 600;
+        color: $purple;
+        margin-bottom: 0.4em;
+    }
+
+    p {
+        font-size: 0.92em;
+        line-height: 1.5;
+        color: $gray-700;
+        margin-bottom: 0.75em;
+    }
+
+    a {
+        font-family: $headings-font-family;
+        font-size: 0.88em;
+        font-weight: 500;
+        color: $accent;
+
+        &:hover {
+            color: $accent-hover;
+        }
+    }
+}
+
+
+// Teaching
 .teaching {
     .course-entry {
         display: flex;
         flex-direction: row;
         font-family: $headings-font-family;
         line-height: 1.3;
-        margin-bottom: 3em;
+        margin-bottom: 1.5em;
         column-gap: 0.7em;
+        background: $card-bg;
+        border: 1px solid $card-border;
+        border-radius: 0.5rem;
+        padding: 1.25em;
+        transition: box-shadow 0.2s ease, transform 0.2s ease;
+
+        &:hover {
+            box-shadow: 0 4px 16px rgba($black, 0.1);
+            transform: translateY(-2px);
+        }
 
         .body {
             flex: 1 1 auto;
-        }
-
-        .logo {
-            flex: 0 0 140px;
-
-            img {
-                width: 100%;
-            }
         }
 
         .course-title {
@@ -549,7 +869,7 @@ pre.text, pre.sourceCode, .cell-output pre {
             font-size: 1.25em;
             margin-bottom: 0.2em;
         }
-        
+
         .course-details {
             font-weight: 300;
             font-size: 0.9em;
@@ -571,19 +891,29 @@ pre.text, pre.sourceCode, .cell-output pre {
             list-style: none;
             padding: 0;
             margin-bottom: 0;
+            display: flex;
+            flex-wrap: wrap;
+            gap: 0.35em;
 
             li {
                 display: inline-block;
                 white-space: nowrap;
-                background-color: #4499CF;
-                margin: 0 0.2em 0.4em 0;
-                padding: 0.2em 0.4em;
+                background-color: $accent;
+                padding: 0.2em 0.5em;
                 font-size: 0.85em;
                 border-radius: 0.25rem;
 
                 &.no-link {
                     background-color: $white;
-                    border: 1px solid $black;
+                    border: 1px solid $gray-700;
+                }
+
+                &:hover {
+                    background-color: $accent-hover;
+                }
+
+                &.no-link:hover {
+                    background-color: $gray-100;
                 }
 
                 a {
@@ -594,6 +924,7 @@ pre.text, pre.sourceCode, .cell-output pre {
     }
 }
 
+// Talks
 .talks {
     .talk-entry {
         display: flex;
@@ -649,13 +980,13 @@ pre.text, pre.sourceCode, .cell-output pre {
 
 .cv-download {
     font-family: $headings-font-family;
-    background-color: #771C6D;
-    border-color: #771C6D;
+    background-color: $purple;
+    border-color: $purple;
     color: $white;
 
     &:hover {
-        background-color: #4499CF;
-        border-color: #4499CF;
+        background-color: $accent;
+        border-color: $accent;
         color: $white;
     }
 }

@@ -29,6 +29,12 @@ pub-info:
       url: https://www.zotero.org/save?type=doi&q=10.1377/hlthaff.2024.00913
       icon: ai ai-zotero
 doi: 10.1377/hlthaff.2024.00913
+image: thumbnail.png
+soundtrack:
+  song: "So Far, So Nice"
+  url: "https://open.spotify.com/track/3S4G4SL15Cp4CvAfmye8um"
+coffee:
+  drink: "Drip coffee"
 ---
 
 ## Abstract

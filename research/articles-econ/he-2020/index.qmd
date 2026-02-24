@@ -29,4 +29,10 @@ pub-info:
       url: https://www.zotero.org/save?type=doi&q=10.1002/hec.3984
       icon: ai ai-zotero
 doi: 10.1002/hec.3984
+image: thumbnail.png
+soundtrack:
+  song: "Everyone’s Busy"
+  url: "https://open.spotify.com/track/4dZ8Fk2UsvRYBPHXUGwjA8"
+coffee:
+  drink: "To-go drip coffee"
 ---

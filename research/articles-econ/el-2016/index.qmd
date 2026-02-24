@@ -22,4 +22,10 @@ pub-info:
       url: https://www.zotero.org/save?type=doi&q=10.1016/j.econlet.2016.01.022
       icon: ai ai-zotero
 doi: 10.1016/j.econlet.2016.01.022
+image: thumbnail.png
+soundtrack:
+  song: "Ready to Start"
+  url: "https://open.spotify.com/track/33X9miK4Xz7pNeVrc9RITG"
+coffee:
+  drink: "Americano"
 ---

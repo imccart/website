@@ -27,4 +27,10 @@ pub-info:
       url: https://www.zotero.org/save?type=doi&q=10.1016/j.jhealeco.2021.102444
       icon: ai ai-zotero
 doi: 10.1016/j.jhealeco.2021.102444
+image: thumbnail.png
+soundtrack:
+  song: "Harmony Hall"
+  url: "https://open.spotify.com/track/39exKIvycQDgs4T6uXdyu0"
+coffee:
+  drink: "Cappuccino"
 ---

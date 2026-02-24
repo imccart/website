@@ -29,4 +29,10 @@ pub-info:
       url: https://www.zotero.org/save?type=doi&q=10.1111/1475-6773.12203
       icon: ai ai-zotero
 doi: 10.1111/1475-6773.12203
+image: thumbnail.png
+soundtrack:
+  song: "Green Valley"
+  url: "https://open.spotify.com/track/4Tkj9L81NcKffRHi6L6bk1"
+coffee:
+  drink: "Honey oat latte"
 ---

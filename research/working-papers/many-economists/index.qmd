@@ -16,6 +16,12 @@ pub-info:
   - name: Code
     url: https://github.com/many-economists/analysis
     icon: fa-brands fa-github
+image: thumbnail.png
+soundtrack:
+  song: "Paranoid Android"
+  url: "https://open.spotify.com/track/3Pzh926pXggbMe2ZpXyMV7"
+coffee:
+  drink: "Espresso flight, three single origins"
 ---
 
 ## Important links

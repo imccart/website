@@ -32,6 +32,12 @@ pub-info:
   extra: >-
     Presented at the American Society of Health Economists Annual Meeting in June 2022 in Austin, TX
 doi: 10.1002/hec.4734
+image: thumbnail.png
+soundtrack:
+  song: "Rococo"
+  url: "https://open.spotify.com/track/4OZyVAbGOcrv4BYv5xDjet"
+coffee:
+  drink: "Lavender latte"
 ---
 
 ## Important links

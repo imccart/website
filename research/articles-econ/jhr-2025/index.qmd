@@ -29,6 +29,12 @@ pub-info:
   - name: Code
     url: https://github.com/imccart/physician-hospital-VI
     icon: fa-brands fa-github
+image: thumbnail.png
+soundtrack:
+  song: "Neighborhood #2 (Laika)"
+  url: "https://open.spotify.com/track/61ARSKFMwoVnIwXAVnfNNh"
+coffee:
+  drink: "Red-eye"
 ---
 
 ## Important links

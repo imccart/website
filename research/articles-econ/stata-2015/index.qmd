@@ -26,4 +26,10 @@ pub-info:
       url: https://www.zotero.org/save?type=doi&q=10.1177/1536867X1501500205
       icon: ai ai-zotero
 doi: 10.1177/1536867X1501500205
+image: thumbnail.png
+soundtrack:
+  song: "Music For A Found Harmonium"
+  url: "https://open.spotify.com/track/5vKaYFrSdHcFYsSz9gaDQg"
+coffee:
+  drink: "Lungo"
 ---

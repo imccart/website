@@ -26,5 +26,11 @@ pub-info:
       url: https://www.zotero.org/save?type=doi&q=10.3368/jhr.50.4.980
       icon: ai ai-zotero
 doi: 10.3368/jhr.50.4.980
+image: thumbnail.png
+soundtrack:
+  song: "Staring at the Sun"
+  url: "https://open.spotify.com/track/1RzJ37KMEmEcxtp3SC4WFl"
+coffee:
+  drink: "Mocha"
 ---
 

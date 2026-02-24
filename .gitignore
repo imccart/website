@@ -16,3 +16,9 @@ static/etc/*
 .DS_Store
 
 /.luarc.json
+
+# CV symlink (points to administrative/branding/cv/)
+cv/mccarthy-cv.pdf
+
+# Scratch files (Spotify data, generation scripts, etc.)
+scratch/

@@ -32,6 +32,12 @@ pub-info:
       url: https://www.zotero.org/save?type=doi&q=10.1200/op.24.00091
       icon: ai ai-zotero
 doi: 10.1200/op.24.00091
+image: thumbnail.png
+soundtrack:
+  song: "Nature Of The Experiment"
+  url: "https://open.spotify.com/track/5ovGdvOGaSjuYiSLX0nIaY"
+coffee:
+  drink: "Ristretto"
 ---
 
 ## Abstract

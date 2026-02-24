@@ -21,4 +21,10 @@ pub-info:
       url: https://www.zotero.org/save?type=doi&q=10.1016/j.jhealeco.2018.06.007
       icon: ai ai-zotero
 doi: 10.1016/j.jhealeco.2018.06.007
+image: thumbnail.png
+soundtrack:
+  song: "Arc of Time (Time Code)"
+  url: "https://open.spotify.com/track/4LKYOetuIF5c9XjeLBL9av"
+coffee:
+  drink: "Slow-drip cold brew"
 ---

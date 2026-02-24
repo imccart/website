@@ -25,6 +25,12 @@ pub-info:
   - name: Code
     url: https://github.com/imccart/physician-referral-formation
     icon: fa-brands fa-github
+image: thumbnail.png
+soundtrack:
+  song: "Rivers and Roads"
+  url: "https://open.spotify.com/track/0BzYCJdtP00Xk8btIrAonU"
+coffee:
+  drink: "Pour-over"
 ---
 
 ## Important links

@@ -20,4 +20,10 @@ pub-info:
       url: https://www.zotero.org/save?type=doi&q=10.1016/j.jhealeco.2016.09.004
       icon: ai ai-zotero
 doi: 10.1016/j.jhealeco.2016.09.004
+image: thumbnail.png
+soundtrack:
+  song: "Carry the Zero"
+  url: "https://open.spotify.com/track/3HMOMdRPywfouYx5B4PvaH"
+coffee:
+  drink: "Flat white"
 ---

@@ -32,4 +32,10 @@ pub-info:
   extra: >-
     Honorable Mention for Best Paper in the Economics of Food Safety and Nutrition by the Agricultural and Applied Economics Association
 doi: 10.1093/ajae/aaw017
+image: thumbnail.png
+soundtrack:
+  song: "Never Meant"
+  url: "https://open.spotify.com/track/4nPNsnv4QEiIzihzCU5zHH"
+coffee:
+  drink: "Cold brew with oat milk"
 ---

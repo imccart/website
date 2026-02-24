@@ -18,6 +18,12 @@ pub-info:
   - name: Code
     url: https://github.com/imccart/aca-decision-support
     icon: fa-brands fa-github
+image: thumbnail.png
+soundtrack:
+  song: "Good To Sea"
+  url: "https://open.spotify.com/track/29Lr5wv6Oiv5Ihc89BIvCT"
+coffee:
+  drink: "Espresso flight"
 ---
 
 ## Important links

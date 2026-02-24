@@ -19,6 +19,12 @@ pub-info:
   - name: Code
     url: https://github.com/imccart/hospital-closures
     icon: fa-brands fa-github
+image: thumbnail.png
+soundtrack:
+  song: "A Fond Farewell"
+  url: "https://open.spotify.com/track/60763oPe4Ngyu1Q3jFZWHi"
+coffee:
+  drink: "Black coffee"
 ---
 
 ## Important links

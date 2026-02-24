@@ -19,4 +19,10 @@ pub-info:
       url: https://www.zotero.org/save?type=doi&q=10.1002/hec.3113
       icon: ai ai-zotero
 doi: 10.1002/hec.3113
+image: thumbnail.png
+soundtrack:
+  song: "The View"
+  url: "https://open.spotify.com/track/7mKkJuVgkR72ozJGvJOTHP"
+coffee:
+  drink: "Cortado"
 ---

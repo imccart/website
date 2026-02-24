@@ -24,5 +24,11 @@ pub-info:
       url: https://www.zotero.org/save?type=doi&q=10.1162/AJHE_a_00070
       icon: ai ai-zotero
 doi: 10.1162/AJHE_a_00070
+image: thumbnail.png
+soundtrack:
+  song: "The Adults Are Talking"
+  url: "https://open.spotify.com/track/2B664ulJSVBd6B8SAY3Wux"
+coffee:
+  drink: "Pour-over"
 ---
 

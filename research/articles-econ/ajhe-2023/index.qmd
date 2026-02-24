@@ -33,6 +33,12 @@ pub-info:
   extra: >-
     Presented at the Midwest Health Economics Conference in Columbus, OH in April 2018 and the National Bureau of Economic Research Summer Institute, Health Care Section, July 2018
 doi: 10.1086/723280
+image: thumbnail.png
+soundtrack:
+  song: "Hard Times"
+  url: "https://open.spotify.com/track/0w5Bdu51Ka25Pf3hojsKHh"
+coffee:
+  drink: "Double espresso"
 ---
 
 ## Important links

@@ -487,6 +487,13 @@ pre.text, pre.sourceCode, .cell-output pre {
     margin-bottom: 1em;
 }
 
+// Research page content constraint
+.quarto-listing {
+    max-width: 900px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
 // Research cards (listing page)
 .research-cards {
     list-style: none;

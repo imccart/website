@@ -19,6 +19,8 @@ include-back-link: false
 toc: false
 ---
 
+:::: {.column-body}
+
 My research examines the effects of institutions, policies, and market structure on health care pricing and delivery. Most of my work stems from information problems inherent in health care and how these information problems play out in pricing and delivery. Selected publications are listed below, and a full list is available in my [CV](../cv/mccarthy-cv.pdf).
 
 Each paper is paired with a {{< fa solid music >}} **soundtrack** and a {{< fa solid mug-hot >}} **coffee order** — matched to the spirit of the work. Research is better with good music and good coffee.
@@ -38,4 +40,6 @@ Each paper is paired with a {{< fa solid music >}} **soundtrack** and a {{< fa s
 
 :::{#articles-medical}
 :::
+
+::::
 

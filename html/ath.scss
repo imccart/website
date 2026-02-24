@@ -487,6 +487,7 @@ pre.text, pre.sourceCode, .cell-output pre {
 
 .research-card-thumb {
     flex: 0 0 180px;
+    max-height: 200px;
     overflow: hidden;
     display: flex;
     align-items: center;

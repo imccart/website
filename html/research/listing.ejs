@@ -14,9 +14,15 @@
             </div>
 
             <div class="research-card-body">
-                <div class="research-card-citation">
-                    <p><%- item['pub-info'].reference %></p>
+                <div class="research-card-citation" data-ref="<%- encodeURIComponent(item['pub-info'].reference) %>">
                 </div>
+                <script>
+                    (function() {
+                        var el = document.currentScript.previousElementSibling;
+                        el.innerHTML = '<p>' + decodeURIComponent(el.getAttribute('data-ref')) + '</p>';
+                        el.removeAttribute('data-ref');
+                    })();
+                </script>
 
                 <% if(item.categories) { %>
                 <div class="research-card-categories">

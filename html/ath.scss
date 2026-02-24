@@ -671,24 +671,29 @@ pre.text, pre.sourceCode, .cell-output pre {
     position: relative;
     display: inline-block;
 
+    // Offset accent block behind photo
     &::before {
         content: "";
         position: absolute;
-        bottom: 0;
-        left: -6px;
-        width: 4px;
-        height: 60%;
-        background: linear-gradient(to top, $accent, transparent);
-        border-radius: 2px;
+        top: 16px;
+        left: 16px;
+        width: 100%;
+        height: 100%;
+        background-color: rgba($accent, 0.15);
+        border-radius: 6px;
+        z-index: 0;
     }
+
 }
 
 .hero-photo {
-    width: 200px;
-    height: 270px;
-    border-radius: 100px 100px 0 0;
+    position: relative;
+    z-index: 1;
+    width: 280px;
+    height: 370px;
+    border-radius: 6px;
     border: 4px solid $white;
-    box-shadow: 0 4px 16px rgba($black, 0.12);
+    box-shadow: 0 4px 20px rgba($black, 0.1);
     object-fit: cover;
     object-position: top;
     display: block;
@@ -770,15 +775,15 @@ pre.text, pre.sourceCode, .cell-output pre {
     .hero-inner {
         display: flex;
         align-items: center;
-        gap: 2.5em;
-    }
-
-    .hero-photo-col {
-        flex: 0 0 auto;
+        gap: 3em;
     }
 
     .hero-text-col {
         flex: 1 1 auto;
+    }
+
+    .hero-photo-col {
+        flex: 0 0 auto;
     }
 
     .hero-divider {
@@ -795,8 +800,15 @@ pre.text, pre.sourceCode, .cell-output pre {
         margin: 0 auto 1.5em;
 
         &::before {
-            display: none;
+            top: 12px;
+            left: 12px;
         }
+
+    }
+
+    .hero-photo {
+        width: 220px;
+        height: 290px;
     }
 
     .hero-name {

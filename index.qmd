@@ -13,11 +13,6 @@ format:
 ```{=html}
 <div class="hero-section">
   <div class="hero-inner">
-    <div class="hero-photo-col">
-      <div class="hero-photo-frame">
-        <img class="hero-photo" src="{{< meta main-photo >}}" alt="Ian McCarthy">
-      </div>
-    </div>
     <div class="hero-text-col">
       <div class="hero-name">Ian McCarthy</div>
       <div class="hero-title">Associate Professor of Economics, Emory University</div>
@@ -30,6 +25,11 @@ format:
         <a href="research/index.html" class="hero-btn hero-btn-primary"><i class="fa-solid fa-microscope"></i> Research</a>
         <a href="cv/mccarthy-cv.pdf" class="hero-btn hero-btn-outline"><i class="fa-solid fa-file-lines"></i> CV</a>
         <a href="mailto:ian.mccarthy@emory.edu" class="hero-btn hero-btn-outline"><i class="fa-solid fa-envelope"></i> Contact</a>
+      </div>
+    </div>
+    <div class="hero-photo-col">
+      <div class="hero-photo-frame">
+        <img class="hero-photo" src="{{< meta main-photo >}}" alt="Ian McCarthy">
       </div>
     </div>
   </div>
@@ -61,6 +61,6 @@ format:
 
 ```{=html}
 <div class="home-credits">
-  <p>Site design inspired by <a href="https://www.andrewheiss.com">Andrew Heiss</a>. Song and coffee pairings inspired by <a href="https://www.joshgraffzivin.com/cocktail-pairings">Josh Graff Zivin's cocktail pairings</a>. Built with <a href="https://quarto.org/">Quarto</a> and <a href="https://claude.ai/code">Claude Code</a>.</p>
+  <p>Site design inspired by <a href="https://www.andrewheiss.com">Andrew Heiss</a>, <a href="https://hirajaved.com/">Hira Javed</a>, and <a href="https://robertavaltorta.research.st/">Roberta Valtorta</a>. Song and coffee pairings inspired by <a href="https://www.joshgraffzivin.com/cocktail-pairings">Josh Graff Zivin's cocktail pairings</a>. Built with <a href="https://quarto.org/">Quarto</a> and <a href="https://claude.ai/code">Claude Code</a>.</p>
 </div>
 ```

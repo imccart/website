@@ -55,6 +55,25 @@
 
     $endif$
 
+    $if(soundtrack)$
+    <div class="article-pairings">
+        <span class="article-pairing">
+            <i class="fa-solid fa-music"></i>
+            $if(soundtrack.url)$
+            <a href="$soundtrack.url$" target="_blank" rel="noopener">$soundtrack.song$</a>
+            $else$
+            $soundtrack.song$
+            $endif$
+        </span>
+        $if(coffee)$
+        <span class="article-pairing">
+            <i class="fa-solid fa-mug-hot"></i>
+            $coffee.drink$
+        </span>
+        $endif$
+    </div>
+    $endif$
+
     $title-metadata.html()$
 
     $if(pub-info.extra)$

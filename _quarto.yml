@@ -14,6 +14,7 @@ project:
 
   resources:
     - "files/**"
+    - "CNAME"
 
 freeze: true
 

@@ -8,7 +8,6 @@
 /.quarto/
 _site/
 **/*_cache/*
-docs/CNAME
 
 # Miscellaneous stuff
 design-assets/*

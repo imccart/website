@@ -13,7 +13,7 @@ listing:
     contents: "articles-medical/*/index.qmd"
     sort: "date desc"
     template: ../html/research/listing.ejs
-page-layout: full
+title-block-banner: "#3D7EBF"
 include-back-link: false
 toc: false
 ---

@@ -51,10 +51,10 @@ format:
     <a href="teaching/index.html">See courses →</a>
   </div>
   <div class="home-card">
-    <div class="home-card-icon"><i class="fa-solid fa-handshake"></i></div>
-    <h3>Working With Me</h3>
-    <p>I work with PhD students, undergrad RAs, and external collaborators. If you're interested in health economics research, reach out.</p>
-    <a href="mailto:ian.mccarthy@emory.edu">Get in touch →</a>
+    <div class="home-card-icon"><i class="fa-solid fa-building-columns"></i></div>
+    <h3>Service</h3>
+    <p>Department, university, and professional service, including editorial work, grant reviews, and faculty governance.</p>
+    <a href="service/index.html">See service →</a>
   </div>
 </div>
 ```

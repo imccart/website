@@ -15,7 +15,7 @@ static/etc/*
 .DS_Store
 
 /.luarc.json
-
+CLAUDE.md
 
 # Scratch files (Spotify data, generation scripts, etc.)
 scratch/

@@ -182,55 +182,6 @@
     "text": "Citation\n\n Add to Zotero \n\n@article{mccarthy-revul-he2023,\n    Author = {Michael Darden and Ian McCarthy and Eric Barrette},\n    Doi = {10.1086/723280},\n    Journal = {American Journal of Health Economics},\n    Number = {3},\n    Pages = {435--460},\n    Title = {Who pays in pay-for-performance? Evidence from hospital prices and financial penalties},\n    Volume = {9},\n    Year = {2023}}"
   },
   {
-    "objectID": "CLAUDE.html",
-    "href": "CLAUDE.html",
-    "title": "Website",
-    "section": "",
-    "text": "Personal academic website built with Quarto, deployed via GitHub Pages from docs/ on main.\n\n\n\nhtml/ath.scss — Central stylesheet (SCSS variables, card styles, hero, service, research)\nhtml/research/listing.ejs — EJS template for research card listings\nhtml/research/title-block.html — Pandoc template partial for individual article pages\nresearch/_metadata.yml — Shared metadata for all research articles (points to title-block.html)\nindex.qmd — Homepage (hero section + 3 info cards)\n_quarto.yml — Site config, navbar, footer, resources\n\n\n\n\n\nGitHub Pages serves from docs/ on main branch\nCNAME and .nojekyll are in project root AND listed in _quarto.yml resources so they survive renders\n.nojekyll is required — without it, GitHub Pages runs Jekyll which can break the site\nCV PDF is a real file (not a symlink) at cv/mccarthy-cv.pdf. When updating the CV, copy the new PDF from administrative/branding/cv/mccarthy-cv.pdf\n\n\n\n\n\nEach article has index.qmd with YAML frontmatter including pub-info, soundtrack, coffee, and image fields\nDALL-E generated thumbnails stored as thumbnail.png in each article directory\nSong/coffee pairings master data in scratch/pairings.json (gitignored)\nSpotify track data in scratch/spotify-urls.txt and scratch/spotify-tracks.json (gitignored)\n\n\n\n\n\nAccent color: $accent: #3D7EBF\nPurple: $purple: #1E1145\nFonts: Libre Franklin (body), Jost (headings)\nCards used for research listings, teaching courses, service sections, and homepage info blocks\n\n\n\n\n\nComplete Spotify URL collection (only ~216 of 617 liked songs saved to scratch/)\n\n\n\n\n\n2026-02-23: Full visual redesign\n\nNew SCSS theme, homepage hero with archway photo + info cards, research card layout with DALL-E thumbnails and song/coffee pairings, service page cards, citation HTML fix\nFixed GitHub Pages deployment (symlink mode 120000 broke Jekyll build; .nojekyll + CNAME persistence)\nOpen: CV symlink needs manual copy after each render; Spotify URL list incomplete"
-  },
-  {
-    "objectID": "CLAUDE.html#key-files",
-    "href": "CLAUDE.html#key-files",
-    "title": "Website",
-    "section": "",
-    "text": "html/ath.scss — Central stylesheet (SCSS variables, card styles, hero, service, research)\nhtml/research/listing.ejs — EJS template for research card listings\nhtml/research/title-block.html — Pandoc template partial for individual article pages\nresearch/_metadata.yml — Shared metadata for all research articles (points to title-block.html)\nindex.qmd — Homepage (hero section + 3 info cards)\n_quarto.yml — Site config, navbar, footer, resources"
-  },
-  {
-    "objectID": "CLAUDE.html#deployment",
-    "href": "CLAUDE.html#deployment",
-    "title": "Website",
-    "section": "",
-    "text": "GitHub Pages serves from docs/ on main branch\nCNAME and .nojekyll are in project root AND listed in _quarto.yml resources so they survive renders\n.nojekyll is required — without it, GitHub Pages runs Jekyll which can break the site\nCV PDF is a real file (not a symlink) at cv/mccarthy-cv.pdf. When updating the CV, copy the new PDF from administrative/branding/cv/mccarthy-cv.pdf"
-  },
-  {
-    "objectID": "CLAUDE.html#research-articles",
-    "href": "CLAUDE.html#research-articles",
-    "title": "Website",
-    "section": "",
-    "text": "Each article has index.qmd with YAML frontmatter including pub-info, soundtrack, coffee, and image fields\nDALL-E generated thumbnails stored as thumbnail.png in each article directory\nSong/coffee pairings master data in scratch/pairings.json (gitignored)\nSpotify track data in scratch/spotify-urls.txt and scratch/spotify-tracks.json (gitignored)"
-  },
-  {
-    "objectID": "CLAUDE.html#style",
-    "href": "CLAUDE.html#style",
-    "title": "Website",
-    "section": "",
-    "text": "Accent color: $accent: #3D7EBF\nPurple: $purple: #1E1145\nFonts: Libre Franklin (body), Jost (headings)\nCards used for research listings, teaching courses, service sections, and homepage info blocks"
-  },
-  {
-    "objectID": "CLAUDE.html#todos",
-    "href": "CLAUDE.html#todos",
-    "title": "Website",
-    "section": "",
-    "text": "Complete Spotify URL collection (only ~216 of 617 liked songs saved to scratch/)"
-  },
-  {
-    "objectID": "CLAUDE.html#last-session",
-    "href": "CLAUDE.html#last-session",
-    "title": "Website",
-    "section": "",
-    "text": "2026-02-23: Full visual redesign\n\nNew SCSS theme, homepage hero with archway photo + info cards, research card layout with DALL-E thumbnails and song/coffee pairings, service page cards, citation HTML fix\nFixed GitHub Pages deployment (symlink mode 120000 broke Jekyll build; .nojekyll + CNAME persistence)\nOpen: CV symlink needs manual copy after each render; Spotify URL list incomplete"
-  },
-  {
     "objectID": "research/articles-econ/jhr-2025/index.html",
     "href": "research/articles-econ/jhr-2025/index.html",
     "title": "Owning the Agent: Hospital Influence on Physician Behaviors",

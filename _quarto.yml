@@ -46,12 +46,10 @@ website:
         file: research/index.qmd
       - text: "Teaching"
         href: "teaching/index.qmd"
-      - text: "Service"
-        href: service/index.qmd
+      - text: "Resources"
+        href: resources/index.qmd
 #      - text: "Talks"
 #        href: "talks/index.qmd"
-#      - text: "Resources"
-#        file: resources/index.qmd
     
     right:
       - text: "{{< iconify bi envelope size=1.1em title='E-mail' >}}"

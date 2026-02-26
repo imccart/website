@@ -19,7 +19,7 @@ format:
       <div class="hero-title">Research Associate, NBER</div>
       <hr class="hero-divider">
       <div class="hero-bio">
-        I'm a health economist studying how information problems shape the way health care is priced, delivered, and financed. My work combines large administrative datasets, causal inference methods, and economic theory to examine hospital pricing, insurance design, and provider consolidation. Before academia, I spent several years in economic consulting and health system administration, which informs how I approach these questions. I also teach health economics and empirical methods at Emory, with all course materials freely available online.
+        I'm a health economist studying how information problems shape the way health care is priced, delivered, and financed. My work combines large administrative datasets, causal inference methods, and economic theory to examine hospital pricing, insurance design, and provider consolidation. I currently serve as Associate Editor at the American Journal of Health Economics and the Southern Economic Journal, and I was a Visiting Scholar at the Congressional Budget Office from 2021 to 2023. Before academia, I spent several years in economic consulting and health system administration, which informs how I approach these questions. I also teach health economics and empirical methods at Emory, with all course materials freely available online.
       </div>
       <div class="hero-links">
         <a href="research/index.html" class="hero-btn hero-btn-primary"><i class="fa-solid fa-microscope"></i> Research</a>
@@ -51,10 +51,10 @@ format:
     <a href="teaching/index.html">See courses →</a>
   </div>
   <div class="home-card">
-    <div class="home-card-icon"><i class="fa-solid fa-building-columns"></i></div>
-    <h3>Service</h3>
-    <p>Department, university, and professional service, including editorial work, grant reviews, and faculty governance.</p>
-    <a href="service/index.html">See service →</a>
+    <div class="home-card-icon"><i class="fa-solid fa-compass"></i></div>
+    <h3>Resources</h3>
+    <p>Data sources, methods references, useful packages, and advice for students and early-career researchers.</p>
+    <a href="resources/index.html">See resources →</a>
   </div>
 </div>
 ```

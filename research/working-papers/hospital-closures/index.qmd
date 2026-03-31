@@ -1,20 +1,19 @@
 ---
-title: "Hospital Closures and Critical Access Hospital Designation"
-date: 2024-09-01
+title: "Survival vs Scale: The Effects of Critical Access Hospital Designation"
+date: 2026-03-28
 author:
-  - name: Katie Leinenbach
-    url: https://www.katieleinenbach.com/
-    affiliation: Senior Quantitative Analyst, Demand Side Analytics
   - name: Ian McCarthy
     url: https://www.ianmccarthyecon.com/
     orcid: 0000-0001-7942-3468
     affiliation: Department of Economics, Emory University
+  - name: Katie Leinenbach
+    url: https://www.katieleinenbach.com/
+    affiliation: Senior Quantitative Analyst, Demand Side Analytics
 categories:
   - Hospitals
-  - Quality disclosure
 pub-info:
   reference: >-
-    <strong>Ian McCarthy</strong>, Katie Leinenbach. “Hospital Closures and Critical Access Hospital Designation,” <em>Working Paper</em>
+    <strong>Ian McCarthy</strong>, Katie Leinenbach. “Survival vs Scale: The Effects of Critical Access Hospital Designation,” <em>Working Paper</em>
   links:
   - name: Code
     url: https://github.com/imccart/hospital-closures
@@ -34,4 +33,4 @@ coffee:
 
 ## Abstract
 
-Hospitals are critical inputs into patient health and, increasingly, local economies. And yet policy-makers continue to struggle with the increasing rate of hospital closures, particularly in rural ares. Created by the Balanced Budget Act in 1997, Critical Access Hospital (CAH) designation was designed to offer financial assistance to hospitals in financial distress, focusing on hospitals in rural areas. We explore whether CAH designation improves a hospital's financial standing, and ultimately its effects on hospital closures and mergers. 
+The Critical Access Hospital (CAH) program, established under the Balanced Budget Act of 1997, provides cost-based Medicare reimbursement to small rural hospitals in exchange for limits on inpatient capacity and service scope. We estimate the effects of CAH designation on hospital finances, capacity, and organizational outcomes using a synthetic difference-in-differences design that exploits the staggered 1999--2002 rollout of state-level CAH availability. We find no evidence that CAH designation meaningfully improves operating margins, with net patient revenue and total operating expenses both declining by similar magnitudes, consistent with proportional financial contraction as hospitals downsize to meet eligibility requirements. The primary effect is a reduction in operational scale, with significant declines in total beds, obstetric capacity, and nursing staff. At the same time, CAH designation reduces hospital closures, with no meaningful effect on mergers. These results point to a ``survival versus scale'' tradeoff wherein designation-based subsidies preserve hospital presence, but primarily through continued operation at a smaller scale rather than by maintaining pre-designation capacity.

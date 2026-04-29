@@ -1,6 +1,6 @@
 ---
 title: "Formation of Physician Referral Networks: Drivers and Potential Consequences"
-date: 2025-09-07
+date: 2026-04-29
 author:
   - name: Ian McCarthy
     url: https://www.ianmccarthyecon.com/
@@ -20,7 +20,7 @@ categories:
   - Referrals
 pub-info:
   reference: >-
-    <strong>Ian McCarthy</strong>, Shirley Cai, Pablo Estrada, and Jillian Wilkins. "Formation of Physician Referral Networks: Drivers and Potential Consequences," <em>Working Paper</em>
+    <strong>Ian McCarthy</strong>, Shirley Cai, Pablo Estrada, and Jillian Wilkins. "Formation of Physician Referral Networks: Drivers and Potential Consequences," <em>Under Review</em>
   links:
   - name: Code
     url: https://github.com/imccart/physician-referral-formation
@@ -40,4 +40,4 @@ coffee:
 
 ## Abstract
 
-Roughly one‑third of U.S. primary care visits end with a specialist referral, yet little is known about how these referral links are first established. Focusing on primary care physicians (PCPs) who enter or relocate to a new market, we study the determinants of initial PCP–specialist networks using the universe of 2009–2018 Medicare fee‑for‑service claims, focusing on referrals for planned and elective orthopedic surgeries. A reduced‑form network‑formation model with two‑sided fixed effects shows that sharing a common physician practice is overwhelmingly the most dominant factor in forming initial referral links, followed by gender homophily and geographic proximity. When re-interpreting results in terms of quality of care, distance between PCPs and specialists emerges as a more important factor, with results suggesting that preference for closer specialists might actually improve quality of care conditional on existing organizational and demographic homophily. An extension into the dynamics of referral links shows that demographic concordance measures dissipate over time, while the effects of organizational preference and distance attenuate but remain significant factors.
+With one-third of U.S. primary care visits generating a specialist referral, primary care physicians (PCPs) have outsized influence over how patients are allocated across the specialist market and the subsequent care that patients receive. Focusing on PCPs who enter or relocate to a new market, we study the determinants of initial PCP–specialist networks using the universe of 2010–2018 Medicare fee‑for‑service claims across three distinct specialty areas: orthopedic surgery, cardiology, and dermatology. A network‑formation model with two‑sided fixed effects shows that sharing a common practice is the dominant factor in forming initial referral links across all three specialties, followed by geographic proximity and relatively minor effects from homophily across various demographic characteristics. The role of organizational affiliation dissipates over the first four post‑move years, consistent with newly arrived physicians relying on convenience and familiarity when local information is limited and gradually shifting away from such factors over time.

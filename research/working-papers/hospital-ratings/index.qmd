@@ -1,6 +1,6 @@
 ---
 title: "Online Reviews and Hospital Choices"
-date: 2025-11-09
+date: 2026-04-20
 author:
   - name: Ian McCarthy
     url: https://www.ianmccarthyecon.com/
@@ -17,7 +17,7 @@ categories:
   - Quality disclosure
 pub-info:
   reference: >-
-    <strong>Ian McCarthy</strong>, Kaylyn Sanbower, and Leonardo Sanchez-Aragon. “Online Reviews and Hospital Choices,” <em>Under Review</em>
+    <strong>Ian McCarthy</strong>, Kaylyn Sanbower, and Leonardo Sanchez-Aragon. “Online Reviews and Hospital Choices,” R&R at <em>Health Economics</em>
   links:
   - name: Code
     url: https://github.com/kaylynsanbower/reviews_and_hospital_markets

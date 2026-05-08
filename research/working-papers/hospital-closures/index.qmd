@@ -1,5 +1,5 @@
 ---
-title: "Survival vs Scale: The Effects of Critical Access Hospital Designation"
+title: "Survival versus Scale: The Effects of Critical Access Hospital Designation"
 date: 2026-04-29
 author:
   - name: Ian McCarthy
@@ -13,7 +13,7 @@ categories:
   - Hospitals
 pub-info:
   reference: >-
-    <strong>Ian McCarthy</strong>, Katie Leinenbach. “Survival vs Scale: The Effects of Critical Access Hospital Designation,” <em>Under Review</em>
+    <strong>Ian McCarthy</strong>, Katie Leinenbach. “Survival versus Scale: The Effects of Critical Access Hospital Designation,” <em>Under Review</em>
   links:
   - name: Code
     url: https://github.com/imccart/hospital-closures

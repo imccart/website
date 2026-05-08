@@ -1,0 +1,36 @@
+---
+title: "Medical School Environments and Physician Treatment Styles"
+date: 2026-05-08
+author:
+  - name: Ian McCarthy
+    url: https://www.ianmccarthyecon.com/
+    orcid: 0000-0001-7942-3468
+    affiliation: Department of Economics, Emory University
+  - name: Shirley Cai
+    url: https://shirleycai.netlify.app/
+    affiliation: Department of Economics, Emory University
+categories:
+  - Physicians
+  - Practice style
+pub-info:
+  reference: >-
+    <strong>Ian McCarthy</strong> and Shirley Cai. "Medical School Environments and Physician Treatment Styles," <em>Working Paper</em>
+  links:
+  - name: Code
+    url: https://github.com/imccart/physician-variation
+    icon: fa-brands fa-github
+soundtrack:
+  song: "Not What You Thought About Growing Up"
+  url: "https://open.spotify.com/track/0zMfD2lLp6PG10HrDRQaNE"
+coffee:
+  drink: "Macchiato"
+---
+
+## Important links
+
+- [GitHub repository](https://github.com/imccart/physician-variation)
+
+
+## Abstract
+
+We examine the role of medical school environments in shaping physicians' later treatment decisions, focusing on a specific subset of cardiology in which physician discretion is particularly salient and separate from patient need. Using a year-matched measure of cath-lab availability in the hospital referral region of each cardiologist's medical-school, we estimate that a 10-percentage-point increase in training-period availability raises later catheterization rates by 0.58 percentage points, identified across graduation cohorts within medical-school HRR. The imprint is concentrated among interventional cardiologists and operates through measurable features of the training environment rather than ranking or prestige. Combining this training imprint with effects from their peers or general practice environments, identified from mid-career movers, yields a long-run multiplier of roughly 1.5 on per-cardiologist cath rates. The findings suggest that training-side interventions, if pursued at scale, would propagate through cohort transition into a meaningful reduction in place-based variation in cardiac catheterization rates.

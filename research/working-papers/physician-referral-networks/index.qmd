@@ -1,5 +1,5 @@
 ---
-title: "Formation of Physician Referral Networks: Evidence from Physician Movers"
+title: "The Formation of Physician Referral Networks: Evidence from Physician Movers"
 date: 2026-04-29
 author:
   - name: Ian McCarthy
@@ -20,7 +20,7 @@ categories:
   - Referrals
 pub-info:
   reference: >-
-    <strong>Ian McCarthy</strong>, Shirley Cai, Pablo Estrada, and Jillian Wilkins. "Formation of Physician Referral Networks: Evidence from Physician Movers," <em>Under Review</em>
+    <strong>Ian McCarthy</strong>, Shirley Cai, Pablo Estrada, and Jillian Wilkins. "The Formation of Physician Referral Networks: Evidence from Physician Movers," <em>Under Review</em>
   links:
   - name: Code
     url: https://github.com/imccart/physician-referral-formation

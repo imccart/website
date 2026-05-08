@@ -1,6 +1,7 @@
 ---
 title: "Medical School Environments and Physician Treatment Styles"
 date: 2026-05-08
+image: thumbnail.png
 author:
   - name: Ian McCarthy
     url: https://www.ianmccarthyecon.com/

@@ -48,6 +48,8 @@ website:
         href: "teaching/index.qmd"
       - text: "Resources"
         href: resources/index.qmd
+      - text: "AI"
+        href: ai/index.qmd
 #      - text: "Talks"
 #        href: "talks/index.qmd"
     

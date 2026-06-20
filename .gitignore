@@ -19,3 +19,4 @@ CLAUDE.md
 
 # Scratch files (Spotify data, generation scripts, etc.)
 scratch/
+**/*.quarto_ipynb

@@ -1,0 +1,29 @@
+---
+title: "Working with AI"
+title-block-banner: "#3D7EBF"
+toc: false
+---
+
+I believe agentic AI is a revolutionary tool in many ways, and since it is likely here to stay, I've taken [Ethan Mollick's](https://www.oneusefulthing.org/) advice to try AI wherever I can to better understand its boundaries and capabilities. I started cautiously, with simple chatbot interactions and a lot of experimenting with prompts. From there I began uploading files to see how well it could summarize and digest long PDFs, debug shorter scripts, and similar standalone tasks. Once Claude Code CLI arrived, I gave it access to my project folders and started integrating it directly into my research, debugging full scripts, catching inconsistencies across different code files, improving the efficiency of existing code, properly generating tables and figures entirely from code, and similar broad tasks, no longer limited to isolated interations in a single script or file.
+
+At this point I'm fairly convinced that the frontier AI models are better at coding than me and better at implementing most statistical and econometric methods. But they are worse at deciding which methods to use, worse at understanding identification strategies and how the data and economic theory map onto those strategies, and worse at framing questions and interpreting results. AI is also quite poor at understanding why something doesn't work. It often assumes a cause and proposes a fix that is unrelated to, or even at odds with, basic economic theory, and it has a huge tendency to over-engineer code or write and call functions unnecessarily. So I have integrated AI into my work in a way that I think best uses it for its strengths and frees me to focus on what I still see as my comparative advantages, namely conceptualization, interpretation, and discussion.
+
+The pages that follow lay out how this works in practice. The workflow map shows where AI enters a project and where it stays out, stage by stage, across research, teaching, and service. The disclosures describe how AI was involved in the different kinds of work I produce, so that a footnote in a paper or a recommendation letter has somewhere concrete to point.
+
+```{=html}
+<div class="ai-nav-cards">
+
+<a class="ai-nav-card" href="workflow/">
+  <h2><i class="fa-solid fa-diagram-project"></i> The workflow map</h2>
+  <p>Where AI enters a project and where it stays out, stage by stage, across research, teaching, and service.</p>
+  <span class="ai-nav-go">View the map &rarr;</span>
+</a>
+
+<a class="ai-nav-card" href="disclosures/">
+  <h2><i class="fa-solid fa-list-check"></i> AI disclosures</h2>
+  <p>How AI was involved in the different kinds of work I produce, so a footnote in a paper or letter has somewhere concrete to point.</p>
+  <span class="ai-nav-go">Read the disclosures &rarr;</span>
+</a>
+
+</div>
+```

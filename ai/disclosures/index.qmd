@@ -1,0 +1,30 @@
+---
+title: "AI disclosures"
+title-block-banner: "#3D7EBF"
+toc: true
+toc-title: "Disclosures by task"
+---
+
+When I note in a paper, a talk, a referee report, a set of course materials, or a recommendation letter that the work was produced with the support of AI, this page is what that note points to. The role AI plays depends on the task, so the disclosures are organized by task. In every case the substance, the judgment, and the final word are mine.
+
+## Research papers
+
+AI helps me build and debug the data pipelines, run large batteries of robustness and sensitivity checks, and draft tables and figures. I make all substantive decisions, including forming the research question, selecting an identification strategy and econometric methods, interpreting results, and ultimately writing the actual paper. AI does not autonomously write any part of the paper, although it does help with editing, formatting, identifying potential inconsistencies, and suggesting areas to reframe. It is a tool that helps me get to the final product, but the final product is entirely my own work and judgment (or that of my coauthors, where applicable).
+
+## Presentations
+
+AI generates slide decks, tables, and figures from material I have already written and results I have already produced and interpreted. I decide what the talk argues and how it is sequenced. AI does the assembly, builds the fancy graphs and tables, etc.
+
+## Referee reports
+
+I read the paper and write the review myself. I then use AI as a second opinion on my own draft, checking that I have characterized the paper correctly and have not missed anything obvious. AI does not write the assessment and does not decide the recommendation, and I ensure that any use of AI for referee report assistance does not violate the journal's policies or enter into the AI training data.
+
+## Teaching materials
+
+AI helps me produce and refine course materials, slides, and the occasional in-class tool, working from content and structure I specify. I decide what is taught and how, and I review everything students see. AI has been particularly useful for generating in-class simulation exercises and helping me build the infrastructure to properly implement and track those exercises.
+
+## Recommendation letters
+
+I keep a database that consolidates each student's work with me, so a letter reflects the full record rather than only what I happen to remember. AI helps me assemble that record and handle the standard, boilerplate portions of a letter (e.g., my background, the standard language about the letter's purpose, etc.), but the evaluation is otherwise entirely mine. AI does not write my assessment of a student, and the substance of every recommendation reflects my own judgment and is always written in my own words.
+
+[&larr; Back to the AI overview](../)

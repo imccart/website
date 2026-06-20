@@ -1,0 +1,191 @@
+---
+title: "The workflow map"
+title-block-banner: "#3D7EBF"
+page-layout: full
+toc: false
+---
+
+```{=html}
+<div class="ai-map">
+
+  <div class="head">
+    <p>AI supports much of my research, teaching, and service. Everything is launched and
+       supervised from one place. Open a role below to see the tools behind it, and, for
+       research, the process itself.</p>
+  </div>
+
+  <details class="cockpit-acc">
+    <summary class="bar">
+      <div class="nm">Ian &nbsp;<span class="t">&middot; &#9000; Launcher</span></div>
+      <div class="rl">my personal OS, built around research and AI tools</div>
+      <span class="chev">&#8250;</span>
+    </summary>
+    <div class="cockpit-body">
+      <p>The Launcher is a personal operating system I built for my own desktop, centered on my research and
+         the AI tools I use. It opens every project, tool, and Claude Code session from one place, and keeps the
+         AI sessions running across research, teaching, and service in view at once. I built it because a dozen
+         projects and several live AI sessions across two machines got hard to hold in my head.</p>
+      <div class="launcher-mock" role="img" aria-label="Stylized depiction of the Launcher interface: a topbar with a machine switcher, a projects sidebar, a live Claude Code session, a state-of-the-union pane, and an app dock.">
+        <div class="lm-top">
+          <span class="lm-brand">&#10022; Claude Launcher</span>
+          <span class="lm-search">search projects and sessions&hellip;</span>
+          <span class="lm-pills"><span class="lm-pill on">Local</span><span class="lm-pill">RDP 1</span><span class="lm-pill">RDP 2</span></span>
+          <span class="lm-gear">&#9881;</span>
+        </div>
+        <div class="lm-body">
+          <div class="lm-side">
+            <div class="lm-sh">Projects</div>
+            <div class="lm-node">&#9662; research-projects</div>
+            <div class="lm-leaf sel">referrals-and-learning <span class="lm-badge">2</span></div>
+            <div class="lm-leaf">hospital-closures</div>
+            <div class="lm-node">&#9656; research-data-repo</div>
+            <div class="lm-node">&#9656; teaching</div>
+            <div class="lm-node">&#9656; service</div>
+            <div class="lm-sh dim">&#9656; Trackers</div>
+            <div class="lm-sh dim">&#9656; Skills</div>
+          </div>
+          <div class="lm-detail">
+            <div class="lm-term-head"><span class="lm-dot"></span> claude --resume &middot; referrals-and-learning</div>
+            <div class="lm-term">
+              <div class="lm-line"><span class="lm-prompt">&rsaquo;</span> draft the risk-adjustment robustness table</div>
+              <div class="lm-line dim">&#9679; running 100 sensitivity checks&hellip;</div>
+              <div class="lm-line dim">&#9679; 87 / 100 complete</div>
+              <div class="lm-line"><span class="lm-cursor"></span></div>
+            </div>
+          </div>
+          <div class="lm-sotu">
+            <div class="lm-sh">State of the Union</div>
+            <div class="lm-srow">Working papers <span class="c">6</span></div>
+            <div class="lm-srow">Grants <span class="c">2</span></div>
+            <div class="lm-srow">Upcoming <span class="c">3</span></div>
+          </div>
+        </div>
+        <div class="lm-dock">
+          <span class="lm-dadd">+</span>
+          <span class="lm-dico ask">&#10022;</span>
+          <span class="lm-dico"></span>
+          <span class="lm-dico"></span>
+          <span class="lm-dico"></span>
+          <span class="lm-dico"></span>
+          <span class="lm-ddiv"></span>
+          <span class="lm-dico"></span>
+          <span class="lm-dico"></span>
+        </div>
+      </div>
+      <p class="launcher-cap">A stylized view of the Launcher, not a live screenshot.</p>
+    </div>
+  </details>
+  <div class="stem"></div>
+
+  <!-- RESEARCH -->
+  <details class="dom mature" open>
+    <summary>
+      <span class="pn">Research</span>
+      <span class="sdesc">The full pipeline, from monitoring through to review.</span>
+      <span class="chev">&#8250;</span>
+    </summary>
+    <div class="body">
+      <p class="swim-intro">The researcher owns every decision that shapes a finding. AI joins at specific
+        stages to add reach and volume, and stays out where judgment is the whole job.</p>
+
+      <div class="watershed">
+        <div class="tag">Always running</div>
+        <div class="pills">
+          <div class="pill">Monitor <small>literature, conferences, feeds</small></div>
+          <div class="pill">Collect <small>standing data assets, scrapers</small></div>
+        </div>
+        <div class="downarrow"><svg width="30" height="36" viewBox="0 0 34 40" aria-hidden="true"><path d="M12 0 h10 v22 h8 l-13 16 -13 -16 h8 z" fill="#aebeca"/></svg></div>
+      </div>
+
+      <div class="scroll">
+        <div class="matrix">
+          <div></div>
+          <div class="stage">Idea</div><div class="stage">Identification</div><div class="stage">Data</div>
+          <div class="stage">Analysis</div><div class="stage">Writing</div><div class="stage">Dissemination</div>
+
+          <div class="lane researcher">Researcher</div>
+          <div class="cell researcher">Frame the question</div>
+          <div class="cell researcher">Strategy, specification, methods</div>
+          <div class="cell researcher">What data, and why</div>
+          <div class="cell researcher">Interpret the findings</div>
+          <div class="cell researcher">The argument &amp; synthesis</div>
+          <div class="cell researcher">The claims &amp; narrative</div>
+
+          <div class="lane ai">AI</div>
+          <div class="cell ai">Surface related work</div>
+          <div class="cell empty">judgment alone</div>
+          <div class="cell ai">Build &amp; debug pipelines, scrape, validate</div>
+          <div class="cell ai">Run 100s of robustness checks; draft tables &amp; figures</div>
+          <div class="cell ai">Help rephrase, identify problem areas, suggest edits</div>
+          <div class="cell ai">Generate decks, tables, figures; sync the record</div>
+
+          <div class="lane principle">Principle</div>
+          <div class="cell rule"><span><strong>Never</strong> let AI originate the question</span></div>
+          <div class="cell rule"><span><strong>Never</strong> delegate the research design</span></div>
+          <div class="cell rule"><span><strong>Never</strong> trust a pipeline I haven't checked</span></div>
+          <div class="cell rule"><span><strong>Never</strong> let AI interpret a result</span></div>
+          <div class="cell rule"><span><strong>Never</strong> use AI to draft from scratch</span></div>
+          <div class="cell rule"><span><strong>Never</strong> send out anything I haven't vetted</span></div>
+        </div>
+      </div>
+
+      <div class="skills-head">Tools behind it</div>
+      <div class="tiles three">
+        <div class="tile">
+          <div class="tn">Monitor &amp; Collect</div>
+          <div class="td">Tracks new literature and maintains my standing datasets.</div>
+        </div>
+        <div class="tile">
+          <div class="tn">Referee</div>
+          <div class="td">Reviews my own paper drafts for weaknesses before I submit.</div>
+        </div>
+        <div class="tile">
+          <div class="tn">Sync</div>
+          <div class="td">Publishes approved updates to my CV and website.</div>
+        </div>
+      </div>
+    </div>
+  </details>
+
+  <!-- TEACHING -->
+  <details class="dom">
+    <summary>
+      <span class="pn">Teaching</span>
+      <span class="sdesc">Classroom tools and advising support.</span>
+      <span class="chev">&#8250;</span>
+    </summary>
+    <div class="body">
+      <div class="tiles">
+        <div class="tile">
+          <div class="tn">Commons</div>
+          <div class="td">An in-class teaching app, built with AI to my specification.</div>
+        </div>
+        <div class="tile">
+          <div class="tn">Student tracker</div>
+          <div class="td">Consolidates each student&rsquo;s work so recommendation letters are complete.</div>
+        </div>
+      </div>
+    </div>
+  </details>
+
+  <!-- SERVICE -->
+  <details class="dom">
+    <summary>
+      <span class="pn">Service</span>
+      <span class="sdesc">Reviewing others&rsquo; work.</span>
+      <span class="chev">&#8250;</span>
+    </summary>
+    <div class="body">
+      <div class="tiles one">
+        <div class="tile">
+          <div class="tn">Referee reports</div>
+          <div class="td">I write the review. AI checks that I read the paper correctly and missed nothing. It does not write the assessment.</div>
+        </div>
+      </div>
+    </div>
+  </details>
+
+</div>
+```
+
+[&larr; Back to the AI overview](../)

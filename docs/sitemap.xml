@@ -1,103 +1,31 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://www.ianmccarthyecon.com/index.html</loc>
-    <lastmod>2026-02-26T19:25:32.000Z</lastmod>
-  </url>
-  <url>
-    <loc>https://www.ianmccarthyecon.com/resources/index.html</loc>
-    <lastmod>2026-02-26T18:45:11.000Z</lastmod>
+    <loc>https://www.ianmccarthyecon.com/scratch/ai-statement.html</loc>
+    <lastmod>2026-06-01T14:32:15.611Z</lastmod>
   </url>
   <url>
     <loc>https://www.ianmccarthyecon.com/talks/index.html</loc>
     <lastmod>2024-08-22T02:55:07.000Z</lastmod>
   </url>
   <url>
-    <loc>https://www.ianmccarthyecon.com/research/working-papers/physician-referral-networks/index.html</loc>
-    <lastmod>2026-05-08T12:03:15.996Z</lastmod>
+    <loc>https://www.ianmccarthyecon.com/research/working-papers/physician-variation/index.html</loc>
+    <lastmod>2026-06-20T12:53:01.567Z</lastmod>
   </url>
   <url>
-    <loc>https://www.ianmccarthyecon.com/research/working-papers/many-economists/index.html</loc>
-    <lastmod>2026-02-24T01:06:16.000Z</lastmod>
+    <loc>https://www.ianmccarthyecon.com/research/working-papers/physician-learning/index.html</loc>
+    <lastmod>2026-06-20T12:42:59.074Z</lastmod>
   </url>
   <url>
-    <loc>https://www.ianmccarthyecon.com/research/working-papers/hospital-closures/index.html</loc>
-    <lastmod>2026-05-08T12:03:59.922Z</lastmod>
+    <loc>https://www.ianmccarthyecon.com/research/working-papers/hospital-ratings/index.html</loc>
+    <lastmod>2026-05-08T12:04:44.000Z</lastmod>
   </url>
   <url>
-    <loc>https://www.ianmccarthyecon.com/research/index.html</loc>
-    <lastmod>2026-04-29T15:26:07.751Z</lastmod>
+    <loc>https://www.ianmccarthyecon.com/research/working-papers/health-insurance-brokers/index.html</loc>
+    <lastmod>2026-05-08T12:06:07.000Z</lastmod>
   </url>
   <url>
-    <loc>https://www.ianmccarthyecon.com/research/articles-medical/hsr-2015/index.html</loc>
-    <lastmod>2026-02-24T01:06:16.000Z</lastmod>
-  </url>
-  <url>
-    <loc>https://www.ianmccarthyecon.com/research/articles-econ/stata-2015/index.html</loc>
-    <lastmod>2026-02-24T01:06:16.000Z</lastmod>
-  </url>
-  <url>
-    <loc>https://www.ianmccarthyecon.com/research/articles-econ/jie-2023/index.html</loc>
-    <lastmod>2026-02-24T01:06:16.000Z</lastmod>
-  </url>
-  <url>
-    <loc>https://www.ianmccarthyecon.com/research/articles-econ/jhr-2015/index.html</loc>
-    <lastmod>2026-02-24T01:06:16.000Z</lastmod>
-  </url>
-  <url>
-    <loc>https://www.ianmccarthyecon.com/research/articles-econ/jhe-2021/index.html</loc>
-    <lastmod>2026-02-24T01:06:16.000Z</lastmod>
-  </url>
-  <url>
-    <loc>https://www.ianmccarthyecon.com/research/articles-econ/jhe-2016/index.html</loc>
-    <lastmod>2026-02-24T01:06:16.000Z</lastmod>
-  </url>
-  <url>
-    <loc>https://www.ianmccarthyecon.com/research/articles-econ/he-2023/index.html</loc>
-    <lastmod>2026-02-24T01:06:16.000Z</lastmod>
-  </url>
-  <url>
-    <loc>https://www.ianmccarthyecon.com/research/articles-econ/he-2015/index.html</loc>
-    <lastmod>2026-02-24T01:06:16.000Z</lastmod>
-  </url>
-  <url>
-    <loc>https://www.ianmccarthyecon.com/research/articles-econ/ajhe-2023/index.html</loc>
-    <lastmod>2026-02-24T01:06:16.000Z</lastmod>
-  </url>
-  <url>
-    <loc>https://www.ianmccarthyecon.com/research/articles-econ/ajae-2016/index.html</loc>
-    <lastmod>2026-02-24T01:06:16.000Z</lastmod>
-  </url>
-  <url>
-    <loc>https://www.ianmccarthyecon.com/research/articles-econ/ajhe-2017/index.html</loc>
-    <lastmod>2026-02-24T01:06:16.000Z</lastmod>
-  </url>
-  <url>
-    <loc>https://www.ianmccarthyecon.com/research/articles-econ/el-2016/index.html</loc>
-    <lastmod>2026-02-24T01:06:16.000Z</lastmod>
-  </url>
-  <url>
-    <loc>https://www.ianmccarthyecon.com/research/articles-econ/he-2020/index.html</loc>
-    <lastmod>2026-02-24T01:06:16.000Z</lastmod>
-  </url>
-  <url>
-    <loc>https://www.ianmccarthyecon.com/research/articles-econ/jebo-2017/index.html</loc>
-    <lastmod>2026-02-24T01:06:16.000Z</lastmod>
-  </url>
-  <url>
-    <loc>https://www.ianmccarthyecon.com/research/articles-econ/jhe-2018/index.html</loc>
-    <lastmod>2026-02-24T01:06:16.000Z</lastmod>
-  </url>
-  <url>
-    <loc>https://www.ianmccarthyecon.com/research/articles-econ/jhe-2023/index.html</loc>
-    <lastmod>2026-02-24T01:06:16.000Z</lastmod>
-  </url>
-  <url>
-    <loc>https://www.ianmccarthyecon.com/research/articles-econ/jhr-2025/index.html</loc>
-    <lastmod>2026-02-24T01:06:16.000Z</lastmod>
-  </url>
-  <url>
-    <loc>https://www.ianmccarthyecon.com/research/articles-econ/rio-2018/index.html</loc>
+    <loc>https://www.ianmccarthyecon.com/research/articles-medical/op-2024/index.html</loc>
     <lastmod>2026-02-24T01:06:16.000Z</lastmod>
   </url>
   <url>
@@ -105,31 +33,119 @@
     <lastmod>2026-02-24T01:06:16.000Z</lastmod>
   </url>
   <url>
-    <loc>https://www.ianmccarthyecon.com/research/articles-medical/op-2024/index.html</loc>
+    <loc>https://www.ianmccarthyecon.com/research/articles-econ/rio-2018/index.html</loc>
     <lastmod>2026-02-24T01:06:16.000Z</lastmod>
   </url>
   <url>
-    <loc>https://www.ianmccarthyecon.com/research/working-papers/health-insurance-brokers/index.html</loc>
-    <lastmod>2026-05-08T12:06:07.381Z</lastmod>
-  </url>
-  <url>
-    <loc>https://www.ianmccarthyecon.com/research/working-papers/hospital-ratings/index.html</loc>
-    <lastmod>2026-05-08T12:04:44.552Z</lastmod>
-  </url>
-  <url>
-    <loc>https://www.ianmccarthyecon.com/research/working-papers/physician-learning/index.html</loc>
+    <loc>https://www.ianmccarthyecon.com/research/articles-econ/jhr-2025/index.html</loc>
     <lastmod>2026-02-24T01:06:16.000Z</lastmod>
   </url>
   <url>
-    <loc>https://www.ianmccarthyecon.com/research/working-papers/physician-variation/index.html</loc>
-    <lastmod>2026-05-08T13:53:29.730Z</lastmod>
+    <loc>https://www.ianmccarthyecon.com/research/articles-econ/jhe-2023/index.html</loc>
+    <lastmod>2026-02-24T01:06:16.000Z</lastmod>
+  </url>
+  <url>
+    <loc>https://www.ianmccarthyecon.com/research/articles-econ/jhe-2018/index.html</loc>
+    <lastmod>2026-02-24T01:06:16.000Z</lastmod>
+  </url>
+  <url>
+    <loc>https://www.ianmccarthyecon.com/research/articles-econ/jebo-2017/index.html</loc>
+    <lastmod>2026-02-24T01:06:16.000Z</lastmod>
+  </url>
+  <url>
+    <loc>https://www.ianmccarthyecon.com/research/articles-econ/he-2020/index.html</loc>
+    <lastmod>2026-02-24T01:06:16.000Z</lastmod>
+  </url>
+  <url>
+    <loc>https://www.ianmccarthyecon.com/research/articles-econ/el-2016/index.html</loc>
+    <lastmod>2026-02-24T01:06:16.000Z</lastmod>
+  </url>
+  <url>
+    <loc>https://www.ianmccarthyecon.com/research/articles-econ/ajhe-2017/index.html</loc>
+    <lastmod>2026-02-24T01:06:16.000Z</lastmod>
+  </url>
+  <url>
+    <loc>https://www.ianmccarthyecon.com/index.html</loc>
+    <lastmod>2026-02-26T19:25:32.000Z</lastmod>
+  </url>
+  <url>
+    <loc>https://www.ianmccarthyecon.com/ai/workflow/index.html</loc>
+    <lastmod>2026-06-01T15:31:17.072Z</lastmod>
+  </url>
+  <url>
+    <loc>https://www.ianmccarthyecon.com/ai/disclosures/index.html</loc>
+    <lastmod>2026-06-20T16:18:20.899Z</lastmod>
+  </url>
+  <url>
+    <loc>https://www.ianmccarthyecon.com/ai/index.html</loc>
+    <lastmod>2026-06-01T15:11:06.403Z</lastmod>
+  </url>
+  <url>
+    <loc>https://www.ianmccarthyecon.com/cv/index.html</loc>
+    <lastmod>2026-02-23T20:30:36.000Z</lastmod>
+  </url>
+  <url>
+    <loc>https://www.ianmccarthyecon.com/research/articles-econ/ajae-2016/index.html</loc>
+    <lastmod>2026-02-24T01:06:16.000Z</lastmod>
+  </url>
+  <url>
+    <loc>https://www.ianmccarthyecon.com/research/articles-econ/ajhe-2023/index.html</loc>
+    <lastmod>2026-02-24T01:06:16.000Z</lastmod>
+  </url>
+  <url>
+    <loc>https://www.ianmccarthyecon.com/research/articles-econ/he-2015/index.html</loc>
+    <lastmod>2026-02-24T01:06:16.000Z</lastmod>
+  </url>
+  <url>
+    <loc>https://www.ianmccarthyecon.com/research/articles-econ/he-2023/index.html</loc>
+    <lastmod>2026-02-24T01:06:16.000Z</lastmod>
+  </url>
+  <url>
+    <loc>https://www.ianmccarthyecon.com/research/articles-econ/jhe-2016/index.html</loc>
+    <lastmod>2026-02-24T01:06:16.000Z</lastmod>
+  </url>
+  <url>
+    <loc>https://www.ianmccarthyecon.com/research/articles-econ/jhe-2021/index.html</loc>
+    <lastmod>2026-02-24T01:06:16.000Z</lastmod>
+  </url>
+  <url>
+    <loc>https://www.ianmccarthyecon.com/research/articles-econ/jhr-2015/index.html</loc>
+    <lastmod>2026-02-24T01:06:16.000Z</lastmod>
+  </url>
+  <url>
+    <loc>https://www.ianmccarthyecon.com/research/articles-econ/jie-2023/index.html</loc>
+    <lastmod>2026-02-24T01:06:16.000Z</lastmod>
+  </url>
+  <url>
+    <loc>https://www.ianmccarthyecon.com/research/articles-econ/stata-2015/index.html</loc>
+    <lastmod>2026-02-24T01:06:16.000Z</lastmod>
+  </url>
+  <url>
+    <loc>https://www.ianmccarthyecon.com/research/articles-medical/hsr-2015/index.html</loc>
+    <lastmod>2026-02-24T01:06:16.000Z</lastmod>
+  </url>
+  <url>
+    <loc>https://www.ianmccarthyecon.com/research/index.html</loc>
+    <lastmod>2026-02-24T04:40:24.000Z</lastmod>
+  </url>
+  <url>
+    <loc>https://www.ianmccarthyecon.com/research/working-papers/hospital-closures/index.html</loc>
+    <lastmod>2026-06-20T12:52:56.668Z</lastmod>
+  </url>
+  <url>
+    <loc>https://www.ianmccarthyecon.com/research/working-papers/many-economists/index.html</loc>
+    <lastmod>2026-02-24T01:06:16.000Z</lastmod>
+  </url>
+  <url>
+    <loc>https://www.ianmccarthyecon.com/research/working-papers/physician-referral-networks/index.html</loc>
+    <lastmod>2026-06-20T12:45:36.123Z</lastmod>
+  </url>
+  <url>
+    <loc>https://www.ianmccarthyecon.com/resources/index.html</loc>
+    <lastmod>2026-02-26T18:45:11.000Z</lastmod>
   </url>
   <url>
     <loc>https://www.ianmccarthyecon.com/teaching/index.html</loc>
     <lastmod>2026-02-23T20:30:32.000Z</lastmod>
-  </url>
-  <url>
-    <loc>https://www.ianmccarthyecon.com/cv/index.html</loc>
-    <lastmod>2026-05-07T14:02:13.126Z</lastmod>
   </url>
 </urlset>

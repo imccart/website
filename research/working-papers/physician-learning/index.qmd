@@ -1,5 +1,5 @@
 ---
-title: "Learning and Efficiency in the Market for Physician Referrals"
+title: "Learning and the Efficiency of Physician Referrals"
 date: 2024-09-07
 author:
   - name: Ian McCarthy
@@ -15,7 +15,7 @@ categories:
   - Learning
 pub-info:
   reference: >-
-    <strong>Ian McCarthy</strong> and Seth Richards-Shubik. “Learning and Efficiency in the Market for Physician Referrals,” <em>Working Paper</em>
+    <strong>Ian McCarthy</strong> and Seth Richards-Shubik. “Learning and the Efficiency of Physician Referrals,” <em>Working Paper</em>
   links:
   - name: Code
     url: https://github.com/imccart/referrals-and-learning
@@ -35,4 +35,4 @@ coffee:
 
 ## Abstract
 
-In many areas of care, primary care physicians (PCPs) greatly influence a patient's choice of specialist, but how well do PCPs learn about specialist quality, if at all? In this paper, we study PCP referrals to specialists, using the population of orthopedic procedures for Medicare fee-for-service beneficiaries from 2008 through 2018. We document substantial heterogeneity in specialist quality and cost within geographic markets, and we present design-based evidence that PCPs adjust their referrals specifically based on the outcomes of their own patients. We then employ a structural learning model to study learning and efficiency in the market for physician referrals. In the model, PCPs update their beliefs about specialist quality based on the outcomes of their referred patients. The model also accounts for habit persistence and capacity constraints, which are important limitations for counterfactual reallocations under improved learning. We find that PCPs respond modestly to the outcomes of their referred patients; however, PCPs remain slow to learn about quality difference among specialists in their market, instead relying more on prior relationships in governing referrals. This suggests there is scope to improve market efficiency if PCPs can learn more quickly and better tailor referral decisions on specialist quality. 
+Expert referrals, such as those from primary care physicians (PCPs) to medical specialists, should help to alleviate informational frictions between patients and specialists. But how well do these intermediating experts learn about and act on the quality of the available providers in their referral decisions? In this paper, we study PCP referrals to specialists using data on 4.5 million joint replacement surgeries for Medicare beneficiaries. We first document substantial heterogeneity in specialist quality and costs within geographic markets, and we present design-based evidence showing that PCPs adjust their referrals specifically based on the outcomes of their own patients. We then employ a structural learning model of PCP referral choices, to quantify the losses due to informational frictions and to simulate possible reallocations with improved information. The model also accounts for limitations on possible reallocations due to habit persistence and capacity constraints. We find that about one-quarter of the patients would be referred to a different specialist in the absence of informational frictions, with small but meaningful improvements in patient outcomes.

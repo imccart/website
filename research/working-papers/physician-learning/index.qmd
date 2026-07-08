@@ -1,6 +1,6 @@
 ---
 title: "Learning and the Efficiency of Physician Referrals"
-date: 2024-09-07
+date: 2026-07-08
 author:
   - name: Ian McCarthy
     url: https://www.ianmccarthyecon.com/
@@ -15,7 +15,7 @@ categories:
   - Learning
 pub-info:
   reference: >-
-    <strong>Ian McCarthy</strong> and Seth Richards-Shubik. “Learning and the Efficiency of Physician Referrals,” <em>Working Paper</em>
+    <strong>Ian McCarthy</strong> and Seth Richards-Shubik. “Learning and the Efficiency of Physician Referrals,” <em>Under Review</em>
   links:
   - name: Code
     url: https://github.com/imccart/referrals-and-learning

@@ -1,6 +1,6 @@
 ---
 title: "The Sources of Researcher Variation in Economics"
-date: 2025-11-19
+date: 2026-07-08
 author:
   - name: Nick Huntington-Klein
     url: https://nickchk.com

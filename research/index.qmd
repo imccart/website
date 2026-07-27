@@ -3,7 +3,7 @@ title: "Research"
 listing:
   - id: working-papers
     contents: "working-papers/*/index.qmd"
-    sort: "date desc"
+    sort: "order asc"
     template: ../html/research/listing.ejs
     categories: true
   - id: articles-econ

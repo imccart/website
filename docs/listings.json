@@ -6,11 +6,11 @@
   {
     "listing": "/research/index.html",
     "items": [
-      "/research/working-papers/physician-learning/index.html",
-      "/research/working-papers/physician-variation/index.html",
-      "/research/working-papers/hospital-closures/index.html",
-      "/research/working-papers/physician-referral-networks/index.html",
       "/research/working-papers/health-insurance-brokers/index.html",
+      "/research/working-papers/physician-referral-networks/index.html",
+      "/research/working-papers/physician-variation/index.html",
+      "/research/working-papers/physician-learning/index.html",
+      "/research/working-papers/hospital-closures/index.html",
       "/research/articles-econ/he-2026/index.html",
       "/research/articles-econ/jel-2026/index.html",
       "/research/articles-econ/jhr-2025/index.html",

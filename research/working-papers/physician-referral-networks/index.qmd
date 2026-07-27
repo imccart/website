@@ -1,6 +1,7 @@
 ---
 title: "The Formation of Physician Referral Networks: Evidence from Physician Movers"
 date: 2026-04-29
+order: 2
 author:
   - name: Ian McCarthy
     url: https://www.ianmccarthyecon.com/

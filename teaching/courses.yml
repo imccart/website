@@ -12,12 +12,12 @@
   description: "This is an elective economics course focusing on “supply side” health economics. The course examines the industrial organization of health care markets in the U.S., including underlying theory, empirical findings, and related health care policy. We study insurance markets, informational asymmetries between physicians and patients, as well as issues of hospital pricing and payments."
   university: Emory University
   number: ECON 372
-  url: https://econ372f25.classes.ianmccarthyecon.com/
+  url: https://econ372f26.classes.ianmccarthyecon.com/
   semester:
-  - name: Fall 2024
-    url: https://econ372f24.classes.ianmccarthyecon.com/
   - name: Fall 2025
     url: https://econ372f25.classes.ianmccarthyecon.com/
+  - name: Fall 2026
+    url: https://econ372f26.classes.ianmccarthyecon.com/
 
 
 - title: Research in Health Economics

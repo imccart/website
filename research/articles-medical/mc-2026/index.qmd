@@ -1,0 +1,44 @@
+---
+title: "Determinants of Delivery Hospital Choice in Georgia, 2016–2021: Maternal Characteristics, Hospital Attributes, and Time Price"
+date: 2026-09-09
+author:
+  - name: E. Kathleen Adams
+    affiliation: Department of Health Policy and Management, Rollins School of Public Health, Emory University
+  - name: Ian McCarthy
+    url: https://www.ianmccarthyecon.com/
+    orcid: 0000-0001-7942-3468
+    affiliation: Department of Economics, Emory University
+  - name: Peter J. Joski
+    affiliation: Department of Health Policy and Management, Rollins School of Public Health, Emory University
+  - name: Anne L. Dunlop
+    affiliation: Department of Gynecology & Obstetrics, School of Medicine, Emory University
+categories:
+  - Maternal health
+  - Hospital choice
+  - Health disparities
+pub-info:
+  reference: >-
+    E. Kathleen Adams, <strong>Ian McCarthy</strong>, Peter J. Joski, and Anne L. Dunlop. "Determinants of Delivery Hospital Choice in Georgia, 2016–2021: Maternal Characteristics, Hospital Attributes, and Time Price," <em>Forthcoming at Medical Care</em>.
+image: thumbnail.png
+soundtrack:
+  song: "Driving"
+  url: "https://open.spotify.com/track/62Nap3vgnkcnnmhBRmO9lE"
+coffee:
+  drink: "Drip coffee to go"
+---
+
+## Abstract
+
+**Background:** US maternal mortality and severe maternal morbidity (SMM) are marked by substantial disparities by race, payer, and geography. To the extent that such disparities are driven by differences across hospitals rather than within hospitals, understanding what shapes delivery hospital choice can inform policy responses.
+
+**Objectives:** To examine how distance, hospital attributes, and maternal characteristics jointly shape delivery hospital choice, and whether patterns differ between urban Atlanta and smaller Georgia markets.
+
+**Research Design:** Retrospective observational study using a conditional logit model to estimate delivery hospital choice. Hospital markets were defined via community detection on patient-flow data. We report marginal effects on selection probability.
+
+**Subjects:** 710,870 deliveries across 84 Georgia hospitals, 2016–2021.
+
+**Measures:** Deterministically linked hospital discharge, birth, and fetal death records, supplemented with American Hospital Association, CMS, and Area Resource Files data.
+
+**Results:** Distance (in miles) strongly deterred hospital selection in both markets, with greater sensitivity in Atlanta (-2.7 percentage points [pp] per additional mile) than outside Atlanta (-1.9 pp/mile). Individuals preferred hospitals with higher perinatal levels of care and teaching status. A hospital's elective C-section rate was negatively associated with its selection outside Atlanta (-1.3 pp) but positively in Atlanta (+2.5 pp). Higher comorbidity was associated with higher-quality hospital selection, though highest-risk Atlanta individuals showed lower preference for high-elective-C-section hospitals.
+
+**Conclusions:** Delivery hospital choice in Georgia reflects distance, practice environment, insurance, and clinical complexity, with urban/non-urban differences. Medicaid-insured individuals show delivery patterns consistent with provider supply-side constraints, which may raise concerns to the extent that they face an elevated risk of adverse maternal outcomes. Findings inform payment and referral policies improving access to risk-appropriate delivery settings and reducing maternal health disparities.

@@ -12,6 +12,8 @@ project:
     - "*.qmd"
     - "*.md"
     - "!CLAUDE.md"
+    - "!MEMORY.md"
+    - "!agent_history.md"
 
   resources:
     - "files/**"

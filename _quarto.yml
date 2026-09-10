@@ -9,11 +9,9 @@ project:
     navigate: true
 
   render:
+    # Every real page is a .qmd; do NOT render "*.md" or stray root notes
+    # (CLAUDE.md, MEMORY.md, notes/) would publish to the public site.
     - "*.qmd"
-    - "*.md"
-    - "!CLAUDE.md"
-    - "!MEMORY.md"
-    - "!agent_history.md"
 
   resources:
     - "files/**"

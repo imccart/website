@@ -18,7 +18,7 @@ static/etc/*
 /.luarc.json
 CLAUDE.md
 MEMORY.md
-agent_history.md
+notes/
 
 # Scratch files (Spotify data, generation scripts, etc.)
 scratch/

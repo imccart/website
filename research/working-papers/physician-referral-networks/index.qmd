@@ -1,5 +1,5 @@
 ---
-title: "The Formation of Physician Referral Networks: Evidence from Physician Movers"
+title: "How Convenience Shapes Referral Networks"
 date: 2026-04-29
 order: 2
 author:
@@ -21,7 +21,7 @@ categories:
   - Referrals
 pub-info:
   reference: >-
-    <strong>Ian McCarthy</strong>, Shirley Cai, Pablo Estrada, and Jillian Wilkins. "The Formation of Physician Referral Networks: Evidence from Physician Movers," <em>Under Review</em>
+    <strong>Ian McCarthy</strong>, Shirley Cai, Pablo Estrada, and Jillian Wilkins. "How Convenience Shapes Referral Networks," <em>Under Review</em>
   links:
   - name: Code
     url: https://github.com/imccart/physician-referral-formation

@@ -18,6 +18,9 @@ pub-info:
   reference: >-
     <strong>Ian McCarthy</strong> and Seth Richards-Shubik. “Learning and the Efficiency of Expert Referrals,” <em>Under Review</em>
   links:
+  - name: Working Paper
+    url: https://www.nber.org/papers/w35486
+    icon: fa-solid fa-file-pdf
   - name: Code
     url: https://github.com/imccart/referrals-and-learning
     icon: fa-brands fa-github

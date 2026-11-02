@@ -1,6 +1,7 @@
 ---
 title: "Determinants of Delivery Hospital Choice in Georgia, 2016–2021: Maternal Characteristics, Hospital Attributes, and Time Price"
 date: 2026-09-09
+status-order: 1
 author:
   - name: E. Kathleen Adams
     affiliation: Department of Health Policy and Management, Rollins School of Public Health, Emory University

@@ -8,12 +8,16 @@ listing:
     categories: true
   - id: articles-econ
     contents: "articles-econ/*/index.qmd"
-    sort: "date desc"
+    sort:
+      - "status-order asc"
+      - "date desc"
     template: ../html/research/listing.ejs
     categories: true
   - id: articles-medical
     contents: "articles-medical/*/index.qmd"
-    sort: "date desc"
+    sort:
+      - "status-order asc"
+      - "date desc"
     template: ../html/research/listing.ejs
     categories: true
 title-block-banner: "#3D7EBF"

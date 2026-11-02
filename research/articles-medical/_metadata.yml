@@ -1,0 +1,4 @@
+# Default for article listing: published-in-issue papers sort below
+# not-yet-in-issue ones (forthcoming/accepted/online-first), which set
+# status-order: 1 in their own front matter.
+status-order: 2

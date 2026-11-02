@@ -23,7 +23,7 @@ categories:
   - Vertical integration
 pub-info:
   reference: >-
-    Xin Hu, <strong>Ian McCarthy</strong>, Robin Yabroff, Wen You, Joseph Lipscomb, and Ilana Graetz. 2024. “Association Between Medicare Site-Based Payment Policy, Physician Practice Characteristics, and Vertical Integration Among Oncologists,” <em>Journal of Clinical Oncology: Oncology Practice</em> (online ahead of print). doi: <a href="https://doi.org/10.1200/op.24.00091"><code>10.1200/op.24.00091</code></a>
+    Xin Hu, <strong>Ian McCarthy</strong>, Robin Yabroff, Wen You, Joseph Lipscomb, and Ilana Graetz. 2024. “Association Between Medicare Site-Based Payment Policy, Physician Practice Characteristics, and Vertical Integration Among Oncologists,” <em>Journal of Clinical Oncology: Oncology Practice</em> 20(12):1676-1684. doi: <a href="https://doi.org/10.1200/op.24.00091"><code>10.1200/op.24.00091</code></a>
   links:
     - name: Final version
       url: https://doi.org/10.1200/op.24.00091

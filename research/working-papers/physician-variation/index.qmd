@@ -4,19 +4,19 @@ date: 2026-05-08
 order: 3
 image: thumbnail.png
 author:
+  - name: Shirley Cai
+    url: https://shirleycai.netlify.app/
+    affiliation: Department of Economics, Emory University
   - name: Ian McCarthy
     url: https://www.ianmccarthyecon.com/
     orcid: 0000-0001-7942-3468
-    affiliation: Department of Economics, Emory University
-  - name: Shirley Cai
-    url: https://shirleycai.netlify.app/
     affiliation: Department of Economics, Emory University
 categories:
   - Physicians
   - Practice style
 pub-info:
   reference: >-
-    <strong>Ian McCarthy</strong> and Shirley Cai. "Medical School Environments and Physician Treatment Styles," <em>Working Paper</em>
+    Shirley Cai and <strong>Ian McCarthy</strong>. "Medical School Environments and Physician Treatment Styles," <em>Working Paper</em>
   links:
   - name: Code
     url: https://github.com/imccart/physician-variation

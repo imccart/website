@@ -5,21 +5,21 @@ listing:
     contents: "working-papers/*/index.qmd"
     sort: "order asc"
     template: ../html/research/listing.ejs
-    categories: true
+    categories: false
   - id: articles-econ
     contents: "articles-econ/*/index.qmd"
     sort:
       - "status-order asc"
       - "date desc"
     template: ../html/research/listing.ejs
-    categories: true
+    categories: false
   - id: articles-medical
     contents: "articles-medical/*/index.qmd"
     sort:
       - "status-order asc"
       - "date desc"
     template: ../html/research/listing.ejs
-    categories: true
+    categories: false
 title-block-banner: "#3D7EBF"
 page-layout: full
 include-back-link: false

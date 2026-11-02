@@ -27,7 +27,7 @@
                 <% if(item.categories) { %>
                 <div class="research-card-categories">
                     <% for (const cat of item.categories) { %>
-                        <span class="research-card-pill"><a href="#category=<%= cat %>"><%= cat %></a></span>
+                        <span class="research-card-pill"><%= cat %></span>
                     <% } %>
                 </div>
                 <% } %>
@@ -59,8 +59,10 @@
                             <i class="fa-solid fa-circle-info"></i> Details
                         </a>
                     </li>
-                    <% if (item['pub-info'].links) { %>
-                        <% for (const link of item['pub-info'].links) { %>
+                    <% var __order = {'Preprint':1,'Working Paper':1,'Final version':2,'Code':3,'Supplemental material':4,'Add to Zotero':5};
+                       var __links = (item['pub-info'].links || []).slice().sort(function(a,b){ return (__order[a.name]||50) - (__order[b.name]||50); }); %>
+                    <% if (__links.length) { %>
+                        <% for (const link of __links) { %>
                     <li class="research-card-link">
                         <% if (link.local) { %>
                         <a href="<%- item.path.substring(0, item.path.lastIndexOf('/')) %>/<%- link.url %>">

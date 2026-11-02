@@ -14,6 +14,9 @@ pub-info:
   reference: >-
     Nick Huntington-Klein, Claus Portner, and the <strong>Many Economists Research Collaborative</strong>. 2026. "The Sources of Researcher Variation in Economics," <em>Accepted</em> at <em>Journal of Economic Literature</em>
   links:
+  - name: Preprint
+    url: https://www.nber.org/papers/w33729
+    icon: fa-solid fa-file-pdf
   - name: Code
     url: https://github.com/many-economists/analysis
     icon: fa-brands fa-github

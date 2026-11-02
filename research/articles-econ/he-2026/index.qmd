@@ -19,9 +19,15 @@ pub-info:
   reference: >-
     Kaylyn Sanbower, <strong>Ian McCarthy</strong>, and Leonardo Sanchez-Aragon. 2026. “Star Ratings and Willingness to Travel for Hospital Care,” <em>Health Economics</em> 35(10):1597-1612. doi: <a href="https://doi.org/10.1002/hec.70138"><code>10.1002/hec.70138</code></a>
   links:
+  - name: Final version
+    url: https://doi.org/10.1002/hec.70138
+    icon: fa-solid fa-scroll
   - name: Code
     url: https://github.com/kaylynsanbower/reviews_and_hospital_markets
     icon: fa-brands fa-github
+  - name: Add to Zotero
+    url: https://www.zotero.org/save?type=doi&q=10.1002/hec.70138
+    icon: ai ai-zotero
 image: thumbnail.png
 soundtrack:
   song: "Somebody Told Me"

@@ -20,6 +20,13 @@ categories:
 pub-info:
   reference: >-
     E. Kathleen Adams, <strong>Ian McCarthy</strong>, Peter J. Joski, and Anne L. Dunlop. 2026. "Determinants of Delivery Hospital Choice in Georgia, 2016–2021: Maternal Characteristics, Hospital Attributes, and Time Price," <em>Medical Care</em> (online ahead of print). doi: <a href="https://doi.org/10.1097/mlr.0000000000002383"><code>10.1097/mlr.0000000000002383</code></a>
+  links:
+  - name: Final version
+    url: https://doi.org/10.1097/mlr.0000000000002383
+    icon: fa-solid fa-scroll
+  - name: Add to Zotero
+    url: https://www.zotero.org/save?type=doi&q=10.1097/mlr.0000000000002383
+    icon: ai ai-zotero
 image: thumbnail.png
 soundtrack:
   song: "Driving"

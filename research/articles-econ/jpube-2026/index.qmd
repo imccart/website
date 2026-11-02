@@ -16,6 +16,9 @@ pub-info:
   reference: >-
     <strong>Ian McCarthy</strong> and Katie Leinenbach. 2026. “Survival versus Scale: The Effects of Critical Access Hospital Designation,” <em>Accepted</em> at <em>Journal of Public Economics</em>
   links:
+  - name: Preprint
+    url: https://www.nber.org/papers/w35876
+    icon: fa-solid fa-file-pdf
   - name: Code
     url: https://github.com/imccart/hospital-closures
     icon: fa-brands fa-github
